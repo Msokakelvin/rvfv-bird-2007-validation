@@ -1,0 +1,232 @@
+accession,length_bp,geo_loc_name,country,collection_date,host,isolate,strain,segment,collection_year,date_eligible,country_eligible
+PV562147.1,6395,Uganda: Nakasongola,Uganda,20/01/2021,Bos taurus,,NAK/1/40,L,2021.0,True,True
+PV562146.1,1681,Uganda: Nakasongola,Uganda,20/01/2021,Bos taurus,,NAK/1/40,S,2021.0,True,True
+PV562145.1,1681,Uganda: Nakasongola,Uganda,29/01/2021,Bos taurus,,NAK/1/31,S,2021.0,True,True
+PV562144.1,1680,Uganda: Kiruhura,Uganda,29/05/2022,Bos taurus,,123,S,2022.0,True,True
+PV562143.1,1682,Uganda: Kiruhura,Uganda,01/06/2022,Bos taurus,,194,S,2022.0,True,True
+PV562142.1,1681,Uganda: Kiruhura,Uganda,18/07/2019,Bos taurus,,TF47,S,2019.0,True,True
+PV562141.1,1681,Uganda: Kiruhura,Uganda,01/06/2022,Bos taurus,,Lantana,S,2022.0,True,True
+PV849504.1,1275,Uganda: Mbarara,Uganda,2023,Bos taurus,"2023000699/Bos taurus/Mbarara, Uganda/2023",,,2023.0,True,True
+PV849503.1,3404,Uganda: Mbarara,Uganda,2023,Bos taurus,"2023000699/Bos taurus/Mbarara, Uganda/2023",,,2023.0,True,True
+PV849499.1,1275,Uganda: Mbarara,Uganda,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,2023.0,True,True
+PV849498.1,3404,Uganda: Mbarara,Uganda,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,2023.0,True,True
+PV849497.1,5850,Uganda: Mbarara,Uganda,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,2023.0,True,True
+PV849491.1,1275,Uganda: Isingiro,Uganda,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,2023.0,True,True
+PV849490.1,3404,Uganda: Isingiro,Uganda,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,2023.0,True,True
+PV849489.1,5850,Uganda: Isingiro,Uganda,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,2023.0,True,True
+PV849485.1,1589,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849484.1,3762,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849483.1,6239,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849482.1,1581,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849481.1,3807,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849480.1,6305,Uganda: Rubanda,Uganda,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,2023.0,True,True
+PV849479.1,1553,Uganda: Kabale,Uganda,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,2023.0,True,True
+PV849478.1,3404,Uganda: Kabale,Uganda,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,2023.0,True,True
+PV849477.1,5850,Uganda: Kabale,Uganda,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,2023.0,True,True
+PQ436088.1,5834,Uganda: Isingiro,Uganda,30/01/2023,Homo sapiens,CD532/Isingiro1-2023,,L,2023.0,True,True
+PQ436087.1,6228,Uganda: Rubanda,Uganda,01/02/2023,Homo sapiens,CD304/Rubanda2-2023,,L,2023.0,True,True
+PQ436086.1,6308,Uganda: Rubanda,Uganda,10/04/2022,Homo sapiens,CD301/Rubanda1-2022,,L,2022.0,True,True
+PQ436085.1,5850,Uganda: Kabale,Uganda,10/03/2022,Homo sapiens,CD300/Kabale1-2022,,L,2022.0,True,True
+PQ436084.1,3404,Uganda: Isingiro,Uganda,30/01/2023,Homo sapiens,CD532/Isingiro1-2023,,M,2023.0,True,True
+PQ436083.1,3761,Uganda: Rubanda,Uganda,01/02/2023,Homo sapiens,CD304/Rubanda2-2023,,M,2023.0,True,True
+PQ436082.1,3815,Uganda: Rubanda,Uganda,10/04/2022,Homo sapiens,CD301/Rubanda1-2022,,M,2022.0,True,True
+PQ436081.1,3404,Uganda: Kabale,Uganda,10/03/2022,Homo sapiens,CD300/Kabale1-2022,,M,2022.0,True,True
+PQ436080.1,1275,Uganda: Isingiro,Uganda,30/01/2023,Homo sapiens,CD532/Isingiro1-2023,,S,2023.0,True,True
+PQ436079.1,1589,Uganda: Rubanda,Uganda,01/02/2023,Homo sapiens,CD304/Rubanda2-2023,,S,2023.0,True,True
+PQ436078.1,1581,Uganda: Rubanda,Uganda,10/04/2022,Homo sapiens,CD301/Rubanda1-2022,,S,2022.0,True,True
+PQ436077.1,1580,Uganda: Kabale,Uganda,10/03/2022,Homo sapiens,CD300/Kabale1-2022,,S,2022.0,True,True
+PP746414.1,1658,Rwanda,Rwanda,29/07/2022,Bos taurus,,Rwanda2022P99,S,2022.0,True,True
+PP746413.1,1658,Rwanda,Rwanda,07/09/2022,Bos taurus,,Rwanda2022P91,S,2022.0,True,True
+PP746412.1,1658,Rwanda,Rwanda,07/09/2022,Bos taurus,,Rwanda2022P90,S,2022.0,True,True
+PP746411.1,1636,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P86,S,2022.0,True,True
+PP746410.1,1657,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P80,S,2022.0,True,True
+PP746409.1,1636,Rwanda,Rwanda,27/06/2022,Bos taurus,,Rwanda2022P76,S,2022.0,True,True
+PP746408.1,1658,Rwanda,Rwanda,07/03/2022,Ovis aries,,Rwanda2022P73,S,2022.0,True,True
+PP746407.1,1658,Rwanda,Rwanda,14/06/2022,Bos taurus,,Rwanda2022P71,S,2022.0,True,True
+PP746406.1,1658,Rwanda,Rwanda,06/09/2022,Bos taurus,,Rwanda2022P7,S,2022.0,True,True
+PP746405.1,1658,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P69,S,2022.0,True,True
+PP746404.1,1658,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P66,S,2022.0,True,True
+PP746403.1,1658,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P61,S,2022.0,True,True
+PP746402.1,1658,Rwanda,Rwanda,06/12/2022,Bos taurus,,Rwanda2022P55,S,2022.0,True,True
+PP746401.1,1658,Rwanda,Rwanda,06/03/2022,Bos taurus,,Rwanda2022P5,S,2022.0,True,True
+PP746400.1,1658,Rwanda,Rwanda,06/09/2022,Bos taurus,,Rwanda2022P47,S,2022.0,True,True
+PP746399.1,1658,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P45,S,2022.0,True,True
+PP746398.1,1658,Rwanda,Rwanda,07/03/2022,Bos taurus,,Rwanda2022P40,S,2022.0,True,True
+PP746397.1,1658,Rwanda,Rwanda,06/07/2022,Bos taurus,,Rwanda2022P4,S,2022.0,True,True
+PP746396.1,1658,Rwanda,Rwanda,25/06/2022,Bos taurus,,Rwanda2022P36,S,2022.0,True,True
+PP746395.1,1677,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P35,S,2022.0,True,True
+PP746394.1,1658,Rwanda,Rwanda,25/06/2022,Bos taurus,,Rwanda2022P33,S,2022.0,True,True
+PP746393.1,1636,Rwanda,Rwanda,25/08/2022,Bos taurus,,Rwanda2022P319,S,2022.0,True,True
+PP746392.1,1635,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P31,S,2022.0,True,True
+PP746391.1,1658,Rwanda,Rwanda,06/04/2022,Bos taurus,,Rwanda2022P302,S,2022.0,True,True
+PP746390.1,1636,Rwanda,Rwanda,06/11/2022,Bos taurus,,Rwanda2022P26,S,2022.0,True,True
+PP746389.1,1658,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P23,S,2022.0,True,True
+PP746388.1,1658,Rwanda,Rwanda,06/07/2022,Bos taurus,,Rwanda2022P2,S,2022.0,True,True
+PP746387.1,1629,Rwanda,Rwanda,06/08/2022,Bos taurus,,Rwanda2022P13,S,2022.0,True,True
+PP746386.1,1658,Rwanda,Rwanda,07/01/2022,Bos taurus,,Rwanda2022P116,S,2022.0,True,True
+PP746385.1,1636,Rwanda,Rwanda,09/12/2022,Bos taurus,,Rwanda2022P110,S,2022.0,True,True
+PP746384.1,1665,Rwanda,Rwanda,06/09/2022,Bos taurus,,Rwanda2022P11,S,2022.0,True,True
+PP746383.1,1658,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P104,S,2022.0,True,True
+PP746382.1,1658,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P103,S,2022.0,True,True
+PP746381.1,1636,Rwanda,Rwanda,08/05/2022,Bos taurus,,Rwanda2022P102,S,2022.0,True,True
+PP746380.1,1636,Rwanda,Rwanda,31/07/2022,Bos taurus,,Rwanda2022P100,S,2022.0,True,True
+PP746379.1,1658,Rwanda,Rwanda,06/01/2022,Bos taurus,,Rwanda2022P1,S,2022.0,True,True
+PP746378.1,3513,Rwanda,Rwanda,29/07/2022,Bos taurus,,Rwanda2022P99,M,2022.0,True,True
+PP746377.1,3513,Rwanda,Rwanda,09/07/2022,Bos taurus,,Rwanda2022P91,M,2022.0,True,True
+PP746376.1,3531,Rwanda,Rwanda,09/07/2022,Bos taurus,,Rwanda2022P90,M,2022.0,True,True
+PP746375.1,3797,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P86,M,2022.0,True,True
+PP746374.1,3513,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P85,M,2022.0,True,True
+PP746373.1,3829,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P80,M,2022.0,True,True
+PP746372.1,3858,Rwanda,Rwanda,27/06/2022,Bos taurus,,Rwanda2022P76,M,2022.0,True,True
+PP746371.1,3561,Rwanda,Rwanda,03/07/2022,Ovis aries,,Rwanda2022P73,M,2022.0,True,True
+PP746370.1,3513,Rwanda,Rwanda,14/06/2022,Bos taurus,,Rwanda2022P71,M,2022.0,True,True
+PP746369.1,3529,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P7,M,2022.0,True,True
+PP746368.1,3513,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P69,M,2022.0,True,True
+PP746367.1,3596,Rwanda,Rwanda,18/06/2022,Bos taurus,,Rwanda2022P67,M,2022.0,True,True
+PP746366.1,3840,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P66,M,2022.0,True,True
+PP746365.1,3571,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P61,M,2022.0,True,True
+PP746364.1,3568,Rwanda,Rwanda,12/06/2022,Bos taurus,,Rwanda2022P55,M,2022.0,True,True
+PP746363.1,3513,Rwanda,Rwanda,03/06/2022,Bos taurus,,Rwanda2022P5,M,2022.0,True,True
+PP746362.1,3840,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P47,M,2022.0,True,True
+PP746361.1,3731,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P45,M,2022.0,True,True
+PP746360.1,3558,Rwanda,Rwanda,03/07/2022,Bos taurus,,Rwanda2022P40,M,2022.0,True,True
+PP746359.1,3513,Rwanda,Rwanda,07/06/2022,Bos taurus,,Rwanda2022P4,M,2022.0,True,True
+PP746358.1,3840,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P35,M,2022.0,True,True
+PP746357.1,3513,Rwanda,Rwanda,25/06/2022,Bos taurus,,Rwanda2022P33,M,2022.0,True,True
+PP746356.1,3587,Rwanda,Rwanda,28/09/2022,Bos taurus,,Rwanda2022P326,M,2022.0,True,True
+PP746355.1,3796,Rwanda,Rwanda,25/08/2022,Bos taurus,,Rwanda2022P319,M,2022.0,True,True
+PP746354.1,3541,Rwanda,Rwanda,04/06/2022,Bos taurus,,Rwanda2022P302,M,2022.0,True,True
+PP746353.1,3561,Rwanda,Rwanda,11/06/2022,Bos taurus,,Rwanda2022P26,M,2022.0,True,True
+PP746352.1,3847,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P23,M,2022.0,True,True
+PP746351.1,3517,Rwanda,Rwanda,07/06/2022,Bos taurus,,Rwanda2022P2,M,2022.0,True,True
+PP746350.1,3774,Rwanda,Rwanda,08/06/2022,Bos taurus,,Rwanda2022P13,M,2022.0,True,True
+PP746349.1,3587,Rwanda,Rwanda,01/07/2022,Bos taurus,,Rwanda2022P116,M,2022.0,True,True
+PP746348.1,3567,Rwanda,Rwanda,12/09/2022,Bos taurus,,Rwanda2022P110,M,2022.0,True,True
+PP746347.1,3606,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P11,M,2022.0,True,True
+PP746346.1,3570,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P104,M,2022.0,True,True
+PP746345.1,3541,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P103,M,2022.0,True,True
+PP746344.1,3534,Rwanda,Rwanda,05/08/2022,Bos taurus,,Rwanda2022P102,M,2022.0,True,True
+PP746343.1,3561,Rwanda,Rwanda,31/07/2022,Bos taurus,,Rwanda2022P100,M,2022.0,True,True
+PP746342.1,3513,Rwanda,Rwanda,01/06/2022,Bos taurus,,Rwanda2022P1,M,2022.0,True,True
+PP746341.1,5924,Rwanda,Rwanda,29/07/2022,Bos taurus,,Rwanda2022P99,L,2022.0,True,True
+PP746340.1,5924,Rwanda,Rwanda,09/07/2022,Bos taurus,,Rwanda2022P91,L,2022.0,True,True
+PP746339.1,5924,Rwanda,Rwanda,09/07/2022,Bos taurus,,Rwanda2022P90,L,2022.0,True,True
+PP746338.1,5924,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P86,L,2022.0,True,True
+PP746337.1,6247,Rwanda,Rwanda,28/06/2022,Bos taurus,,Rwanda2022P80,L,2022.0,True,True
+PP746336.1,6223,Rwanda,Rwanda,27/06/2022,Bos taurus,,Rwanda2022P76,L,2022.0,True,True
+PP746335.1,6106,Rwanda,Rwanda,03/07/2022,Ovis aries,,Rwanda2022P73,L,2022.0,True,True
+PP746334.1,5924,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P7,L,2022.0,True,True
+PP746333.1,5924,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P69,L,2022.0,True,True
+PP746332.1,6243,Rwanda,Rwanda,18/06/2022,Bos taurus,,Rwanda2022P68,L,2022.0,True,True
+PP746331.1,6221,Rwanda,Rwanda,18/06/2022,Bos taurus,,Rwanda2022P67,L,2022.0,True,True
+PP746330.1,5924,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P66,L,2022.0,True,True
+PP746329.1,5936,Rwanda,Rwanda,22/06/2022,Bos taurus,,Rwanda2022P61,L,2022.0,True,True
+PP746328.1,6222,Rwanda,Rwanda,12/06/2022,Bos taurus,,Rwanda2022P55,L,2022.0,True,True
+PP746327.1,5924,Rwanda,Rwanda,03/06/2022,Bos taurus,,Rwanda2022P5,L,2022.0,True,True
+PP746326.1,6234,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P47,L,2022.0,True,True
+PP746325.1,5936,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P45,L,2022.0,True,True
+PP746324.1,5936,Rwanda,Rwanda,03/07/2022,Bos taurus,,Rwanda2022P40,L,2022.0,True,True
+PP746323.1,5924,Rwanda,Rwanda,07/06/2022,Bos taurus,,Rwanda2022P4,L,2022.0,True,True
+PP746322.1,6232,Rwanda,Rwanda,17/06/2022,Bos taurus,,Rwanda2022P35,L,2022.0,True,True
+PP746321.1,5924,Rwanda,Rwanda,25/06/2022,Bos taurus,,Rwanda2022P33,L,2022.0,True,True
+PP746320.1,6261,Rwanda,Rwanda,28/09/2022,Bos taurus,,Rwanda2022P326,L,2022.0,True,True
+PP746319.1,6232,Rwanda,Rwanda,02/09/2022,Bos taurus,,Rwanda2022P323,L,2022.0,True,True
+PP746318.1,5924,Rwanda,Rwanda,25/08/2022,Bos taurus,,Rwanda2022P319,L,2022.0,True,True
+PP746317.1,5924,Rwanda,Rwanda,04/06/2022,Bos taurus,,Rwanda2022P302,L,2022.0,True,True
+PP746316.1,5924,Rwanda,Rwanda,11/06/2022,Bos taurus,,Rwanda2022P26,L,2022.0,True,True
+PP746315.1,6243,Rwanda,Rwanda,13/06/2022,Bos taurus,,Rwanda2022P23,L,2022.0,True,True
+PP746314.1,5924,Rwanda,Rwanda,07/06/2022,Bos taurus,,Rwanda2022P2,L,2022.0,True,True
+PP746313.1,6165,Rwanda,Rwanda,08/06/2022,Bos taurus,,Rwanda2022P13,L,2022.0,True,True
+PP746312.1,5937,Rwanda,Rwanda,08/07/2022,Ovis aries,,Rwanda2022P120,L,2022.0,True,True
+PP746311.1,5936,Rwanda,Rwanda,01/07/2022,Bos taurus,,Rwanda2022P116,L,2022.0,True,True
+PP746310.1,5924,Rwanda,Rwanda,12/09/2022,Bos taurus,,Rwanda2022P110,L,2022.0,True,True
+PP746309.1,5924,Rwanda,Rwanda,09/06/2022,Bos taurus,,Rwanda2022P11,L,2022.0,True,True
+PP746308.1,5924,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P104,L,2022.0,True,True
+PP746307.1,5924,Rwanda,Rwanda,08/08/2022,Bos taurus,,Rwanda2022P103,L,2022.0,True,True
+PP746306.1,5924,Rwanda,Rwanda,05/08/2022,Bos taurus,,Rwanda2022P102,L,2022.0,True,True
+PP746305.1,5924,Rwanda,Rwanda,31/07/2022,Bos taurus,,Rwanda2022P100,L,2022.0,True,True
+PP746304.1,6111,Rwanda,Rwanda,01/06/2022,Bos taurus,,Rwanda2022P1,L,2022.0,True,True
+OR972328.1,1684,"Kenya: Baringo, Marigat, Sintaan",Kenya,16/07/2018,Homo sapiens,AFI-MGT-989,,S,2018.0,True,True
+OR972327.1,3875,"Kenya: Baringo, Marigat, Sintaan",Kenya,16/07/2018,Homo sapiens,AFI-MGT-989,,M,2018.0,True,True
+OR972326.1,6397,"Kenya: Baringo, Marigat, Sintaan",Kenya,16/07/2018,Homo sapiens,AFI-MGT-989,,L,2018.0,True,True
+ON060820.1,3885,Uganda,Uganda,2018,Homo sapiens,201902764_M|Uganda|2018,,M,2018.0,True,True
+ON060817.1,3867,Uganda,Uganda,2018,Homo sapiens,201902763_M|Uganda|2018,,M,2018.0,True,True
+ON060814.1,3867,Uganda,Uganda,2018,Homo sapiens,201902760_M|Uganda|2018,,M,2018.0,True,True
+ON060809.1,3867,Uganda,Uganda,2018,Homo sapiens,201902753_M|Uganda|2018,,M,2018.0,True,True
+ON060806.1,3867,Uganda,Uganda,2018,Homo sapiens,201902750_M|Uganda|2018,,M,2018.0,True,True
+ON060803.1,3849,Uganda,Uganda,2018,Homo sapiens,201902747_M|Uganda|2018,,M,2018.0,True,True
+ON060800.1,3883,Uganda,Uganda,2018,Homo sapiens,201902745_M|Uganda|2018,,M,2018.0,True,True
+ON060797.1,3828,Uganda,Uganda,2018,Homo sapiens,201902737_M|Uganda|2018,,M,2018.0,True,True
+ON060794.1,3833,Uganda,Uganda,2018,Homo sapiens,201902736_M|Uganda|2018,,M,2018.0,True,True
+ON060791.1,3869,Uganda,Uganda,2018,Homo sapiens,201902734_M|Uganda|2018,,M,2018.0,True,True
+ON060788.1,3848,Uganda,Uganda,2018,Homo sapiens,201902733_M|Uganda|2018,,M,2018.0,True,True
+ON060782.1,3863,Uganda,Uganda,2018,Homo sapiens,201900880_M|Uganda|2018,,M,2018.0,True,True
+ON060779.1,3867,Uganda,Uganda,2018,Homo sapiens,201900879_M|Uganda|2018,,M,2018.0,True,True
+ON060776.1,3872,Uganda,Uganda,2018,Homo sapiens,201900877_M|Uganda|2018,,M,2018.0,True,True
+ON060773.1,3876,Uganda,Uganda,2019,Homo sapiens,2019000825_M|Uganda|2019,,M,2019.0,True,True
+ON060836.1,6376,Uganda,Uganda,2017,Homo sapiens,2021001358_L|Uganda,,L,2017.0,True,True
+ON060834.1,6167,Uganda,Uganda,2018,Homo sapiens,2021000843_L|Uganda,,L,2018.0,True,True
+ON060831.1,6392,Uganda,Uganda,2018,Homo sapiens,2020002574_L|Uganda,,L,2018.0,True,True
+ON060828.1,6380,Uganda,Uganda,2018,Homo sapiens,2020001195_L|Uganda,,L,2018.0,True,True
+ON060825.1,6265,Uganda,Uganda,2018,Homo sapiens,2020000159_L|Uganda,,L,2018.0,True,True
+ON060822.1,6222,Uganda,Uganda,2018,Homo sapiens,2020000148_L|Uganda,,L,2018.0,True,True
+ON060819.1,6388,Uganda,Uganda,2018,Homo sapiens,201902764_L|Uganda|2018,,L,2018.0,True,True
+ON060816.1,6388,Uganda,Uganda,2018,Homo sapiens,201902763_L|Uganda|2018,,L,2018.0,True,True
+ON060813.1,6388,Uganda,Uganda,2018,Homo sapiens,201902760_L|Uganda|2018,,L,2018.0,True,True
+ON060811.1,6380,Uganda,Uganda,2018,Homo sapiens,201902754_L|Uganda|2018,,L,2018.0,True,True
+ON060808.1,6387,Uganda,Uganda,2018,Homo sapiens,201902753_L|Uganda|2018,,L,2018.0,True,True
+ON060805.1,6388,Uganda,Uganda,2018,Homo sapiens,201902750_L|Uganda|2018,,L,2018.0,True,True
+ON060802.1,6385,Uganda,Uganda,2018,Homo sapiens,201902747_L|Uganda|2018,,L,2018.0,True,True
+ON060799.1,6389,Uganda,Uganda,2018,Homo sapiens,201902745_L|Uganda|2018,,L,2018.0,True,True
+ON060796.1,6389,Uganda,Uganda,2018,Homo sapiens,201902737_L|Uganda|2018,,L,2018.0,True,True
+ON060793.1,6350,Uganda,Uganda,2018,Homo sapiens,201902736_L|Uganda|2018,,L,2018.0,True,True
+ON060790.1,6392,Uganda,Uganda,2018,Homo sapiens,2019000825_L|Uganda|2018,,L,2018.0,True,True
+ON060787.1,6320,Uganda,Uganda,2018,Homo sapiens,201902734_L|Uganda|2018,,L,2018.0,True,True
+ON060784.1,6388,Uganda,Uganda,2017,Homo sapiens,201901671_L|Uganda,,L,2017.0,True,True
+ON060781.1,6385,Uganda,Uganda,2018,Homo sapiens,201900880_L|Uganda|2018,,L,2018.0,True,True
+ON060778.1,6388,Uganda,Uganda,2018,Homo sapiens,201900879_L|Uganda|2018,,L,2018.0,True,True
+ON060775.1,6391,Uganda,Uganda,2018,Homo sapiens,201900877_L|Uganda|2018,,L,2018.0,True,True
+ON060772.1,6392,Uganda,Uganda,2019,Homo sapiens,2019000825_L|Uganda|2019,,L,2019.0,True,True
+ON060821.1,1679,Uganda,Uganda,2018,Homo sapiens,201902764_S|Uganda|2018,,S,2018.0,True,True
+ON060818.1,1679,Uganda,Uganda,2018,Homo sapiens,201902763_S|Uganda|2018,,S,2018.0,True,True
+ON060815.1,1681,Uganda,Uganda,2018,Homo sapiens,201902760_S|Uganda|2018,,S,2018.0,True,True
+ON060812.1,1660,Uganda,Uganda,2018,Homo sapiens,201902754_S|Uganda|2018,,S,2018.0,True,True
+ON060810.1,1680,Uganda,Uganda,2018,Homo sapiens,201902753_S|Uganda|2018,,S,2018.0,True,True
+ON060807.1,1679,Uganda,Uganda,2018,Homo sapiens,201902750_S|Uganda|2018,,S,2018.0,True,True
+ON060804.1,1670,Uganda,Uganda,2018,Homo sapiens,201902747_S|Uganda|2018,,S,2018.0,True,True
+ON060801.1,1674,Uganda,Uganda,2018,Homo sapiens,201902745_S|Uganda|2018,,S,2018.0,True,True
+ON060798.1,1670,Uganda,Uganda,2018,Homo sapiens,201902737_S|Uganda|2018,,S,2018.0,True,True
+ON060795.1,1627,Uganda,Uganda,2018,Homo sapiens,201902736_S|Uganda|2018,,S,2018.0,True,True
+ON060792.1,1667,Uganda,Uganda,2018,Homo sapiens,201902734_S|Uganda|2018,,S,2018.0,True,True
+ON060789.1,1617,Uganda,Uganda,2018,Homo sapiens,201902733_S|Uganda|2018,,S,2018.0,True,True
+ON060783.1,1670,Uganda,Uganda,2018,Homo sapiens,201900880_S|Uganda|2018,,S,2018.0,True,True
+ON060780.1,1680,Uganda,Uganda,2018,Homo sapiens,201900879_S|Uganda|2018,,S,2018.0,True,True
+ON060777.1,1678,Uganda,Uganda,2018,Homo sapiens,201900877_S|Uganda|2018,,S,2018.0,True,True
+ON060774.1,1683,Uganda,Uganda,2019,Homo sapiens,2019000825_S|Uganda|2019,,S,2019.0,True,True
+ON060771.1,1586,Uganda,Uganda,2019,Homo sapiens,2019000312_S|Uganda|2019,,S,2019.0,True,True
+OQ077993.1,112,Uganda,Uganda,2012,Homo sapiens,Ug2012-CVR2,,M,2012.0,True,True
+OQ077992.1,324,Uganda,Uganda,2012,Homo sapiens,Ug2012-CVR1,,L,2012.0,True,True
+KX096940.1,1692,Kenya: Garissa district,Kenya,2006,Aedes ochraceus,,Kenya-128b-15,S,2006.0,True,True
+KX096939.1,3885,Kenya: Garissa district,Kenya,2006,Aedes ochraceus,,Kenya-128b-15,M,2006.0,True,True
+KX096938.1,6404,Kenya: Garissa district,Kenya,2006,Aedes ochraceus,,Kenya-128b-15,L,2006.0,True,True
+JQ840746.1,1690,Sudan,Sudan,2007,Homo sapiens,,Sudan B-2007,S,2007.0,True,True
+JQ820490.1,3871,Sudan: White Nile State,Sudan,2007,Homo sapiens,,Sudan 2V-2007,M,2007.0,True,True
+JQ820483.1,6397,Sudan: White Nile State,Sudan,2007,Homo sapiens,,Sudan 2V-2007,L,2007.0,True,True
+JQ820479.1,1691,Sudan: White Nile State,Sudan,2007,Homo sapiens,,Sudan SP-2007,S,2007.0,True,True
+JQ820472.1,1691,Sudan: White Nile State,Sudan,2007,Homo sapiens,,Sudan 2V-2007,S,2007.0,True,True
+JF326198.1,1691,Kenya,Kenya,2007,Homo sapiens,,2007000234,S,2007.0,True,True
+JF326191.1,3885,Kenya,Kenya,2007,Homo sapiens,,2007000234,M,2007.0,True,True
+JF326186.1,6404,Kenya,Kenya,2007,Homo sapiens,,2007000234,L,2007.0,True,True
+HM587068.1,490,Kenya,Kenya,2007,Homo sapiens,SPU22/07/4,,M,2007.0,True,True
+HM587064.1,490,Kenya,Kenya,2007,Homo sapiens,SPU22/07/129,,M,2007.0,True,True
+HM587063.1,490,Kenya,Kenya,2007,Homo sapiens,SPU22/07/125,,M,2007.0,True,True
+HM587062.1,490,Kenya,Kenya,2007,Homo sapiens,SPU22/07/118,,M,2007.0,True,True
+EU312147.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU10315KEN07,S,2007.0,True,True
+EU312146.1,1690,Kenya,Kenya,2007,Homo sapiens,,SPU10307KEN07,S,2007.0,True,True
+EU312145.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU10302KEN07,S,2007.0,True,True
+EU312144.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU10301KEN07,S,2007.0,True,True
+EU312143.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU2220KEN07,S,2007.0,True,True
+EU312142.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU2215KEN07,S,2007.0,True,True
+EU312141.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU2214KEN07,S,2007.0,True,True
+EU312140.1,1691,Kenya,Kenya,2007,Homo sapiens,,SPU2223KEN07,S,2007.0,True,True
+EU312139.1,1690,Kenya,Kenya,2007,Homo sapiens,,SPU2201KEN07,S,2007.0,True,True

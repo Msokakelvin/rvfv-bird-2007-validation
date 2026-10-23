@@ -1,0 +1,648 @@
+accession,description,length_bp,geo_loc_name,country,collection_date_raw,year_start,year_end,date_status,host,segment,eligibility
+PV562147.1,"Rift Valley fever virus strain NAK/1/40 segment L, complete sequence",6395,Uganda: Nakasongola,Uganda,2021-01-20,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PV562146.1,"Rift Valley fever virus strain NAK/1/40 segment S, complete sequence",1681,Uganda: Nakasongola,Uganda,2021-01-20,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV562145.1,"Rift Valley fever virus strain NAK/1/31 segment S, complete sequence",1681,Uganda: Nakasongola,Uganda,2021-01-29,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV562144.1,"Rift Valley fever virus strain 123 segment S, complete sequence",1680,Uganda: Kiruhura,Uganda,2022-05-29,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV562143.1,"Rift Valley fever virus strain 194 segment S, complete sequence",1682,Uganda: Kiruhura,Uganda,2022-06-01,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV562142.1,"Rift Valley fever virus strain TF47 segment S, complete sequence",1681,Uganda: Kiruhura,Uganda,2019-07-18,2019,2019,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV562141.1,"Rift Valley fever virus strain Lantana segment S, complete sequence",1681,Uganda: Kiruhura,Uganda,2022-06-01,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV849536.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,Uganda: Kiruhura,Uganda,15-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849535.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 glycoprotein gene, partial cds",3803,Uganda: Kiruhura,Uganda,15-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849534.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 polymerase gene, partial cds",6350,Uganda: Kiruhura,Uganda,15-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849533.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,Uganda: Mbarara,Uganda,02-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849532.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 glycoprotein gene, partial cds",3815,Uganda: Mbarara,Uganda,02-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849531.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 polymerase gene, partial cds",6303,Uganda: Mbarara,Uganda,02-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849530.1,"Rift Valley fever virus isolate 2023000837/Homo sapiens/Mbarara, Uganda/08-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,08-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849529.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849528.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849527.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5901,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849526.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849525.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849524.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849523.1,"Rift Valley fever virus isolate 2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",2903,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849522.1,"Rift Valley fever virus isolate 2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5431,Uganda: Mbarara,Uganda,07-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849521.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,08-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849520.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,08-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849519.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,08-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849518.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849517.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849516.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849515.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849514.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849513.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,06-Mar-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849512.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV849511.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PV849510.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 polymerase gene, partial cds",5431,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PV849509.1,"Rift Valley fever virus isolate 2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV849508.1,"Rift Valley fever virus isolate 2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PV849507.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PV849506.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PV849505.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,22-Feb-2023,2023,2023,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PV849504.1,"Rift Valley fever virus isolate 2023000699/Bos taurus/Mbarara, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,2023,2023,2023,YEAR_ONLY,Bos taurus,S,CANDIDATE_2005_2026
+PV849503.1,"Rift Valley fever virus isolate 2023000699/Bos taurus/Mbarara, Uganda/2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,2023,2023,2023,YEAR_ONLY,Bos taurus,M,CANDIDATE_2005_2026
+PV849502.1,"Rift Valley fever virus isolate 2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,23-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849501.1,"Rift Valley fever virus isolate 2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023 glycoprotein gene, partial cds",3012,Uganda: Mbarara,Uganda,23-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849500.1,"Rift Valley fever virus isolate 2023000676/Homo sapiens/Mbarara, Uganda/23-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,23-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849499.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+PV849498.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+PV849497.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 polymerase gene, partial cds",5850,Uganda: Mbarara,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+PV849496.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,20-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849495.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,20-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849494.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 polymerase gene, partial cds",5430,Uganda: Mbarara,Uganda,20-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849493.1,"Rift Valley fever virus isolate 2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara,Uganda,13-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849492.1,"Rift Valley fever virus isolate 2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara,Uganda,13-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849491.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Isingiro,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+PV849490.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 glycoprotein gene, partial cds",3404,Uganda: Isingiro,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+PV849489.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 polymerase gene, partial cds",5850,Uganda: Isingiro,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+PV849488.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Mbarara city,Uganda,04-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PV849487.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 glycoprotein gene, partial cds",3404,Uganda: Mbarara city,Uganda,04-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PV849486.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 polymerase gene, partial cds",5135,Uganda: Mbarara city,Uganda,04-Feb-2023,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PV849485.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1589,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+PV849484.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 glycoprotein gene, partial cds",3762,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+PV849483.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 polymerase gene, partial cds",6239,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+PV849482.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+PV849481.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 glycoprotein gene, partial cds",3807,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+PV849480.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 polymerase gene, partial cds",6305,Uganda: Rubanda,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+PV849479.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1553,Uganda: Kabale,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+PV849478.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 glycoprotein gene, partial cds",3404,Uganda: Kabale,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+PV849477.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 RNA-dependent RNA polymerase gene, partial cds",5850,Uganda: Kabale,Uganda,2023,2023,2023,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+PP746471.1,"Rift Valley fever virus strain JU-KB nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1665,Kenya: Isiolo,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746470.1,"Rift Valley fever virus strain JU-KB glycoprotein gene, complete cds",3862,Kenya: Isiolo,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746469.1,"Rift Valley fever virus strain JU-KB polymerase gene, complete cds",6381,Kenya: Isiolo,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746468.1,"Rift Valley fever virus strain SWA-ISI nonstructural protein and nucleocapsid genes, complete cds",1689,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746467.1,"Rift Valley fever virus strain NA-KOL nonstructural protein and nucleocapsid genes, complete cds",1689,Kenya: Magadi,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746466.1,"Rift Valley fever virus strain N12 nonstructural protein and nucleocapsid genes, complete cds",1677,Kenya: Nyandarua,Kenya,01-Feb-2019,2019,2019,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746465.1,"Rift Valley fever virus strain MSA nonstructural protein and nucleocapsid genes, complete cds",1689,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746464.1,"Rift Valley fever virus strain MO-LE nonstructural protein and nucleocapsid genes, complete cds",1689,Kenya: Nairobi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746463.1,"Rift Valley fever virus strain HA-HAR nonstructural protein and nucleocapsid genes, complete cds",1661,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746462.1,"Rift Valley fever virus strain E358 nonstructural protein and nucleocapsid genes, complete cds",1689,Kenya: Bura,Kenya,10-Feb-1998,1998,1998,EXACT_DATE,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+PP746461.1,"Rift Valley fever virus strain A-MO nonstructural protein and nucleocapsid genes, complete cds",1684,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746460.1,"Rift Valley fever virus strain SWA-ISI glycoprotein gene, complete cds",3873,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746459.1,"Rift Valley fever virus strain NA-KOL glycoprotein gene, complete cds",3885,Kenya: Magadi,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746458.1,"Rift Valley fever virus strain N12 glycoprotein gene, complete cds",3869,Kenya: Nyandarua,Kenya,01-Feb-2019,2019,2019,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746457.1,"Rift Valley fever virus strain MSA glycoprotein gene, complete cds",3875,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746456.1,"Rift Valley fever virus strain MO-LE glycoprotein gene, complete cds",3877,Kenya: Nairobi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746455.1,"Rift Valley fever virus strain HA-HAR glycoprotein gene, complete cds",3859,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746454.1,"Rift Valley fever virus strain E358 glycoprotein gene, complete cds",3879,Kenya: Bura,Kenya,10-Feb-1998,1998,1998,EXACT_DATE,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+PP746453.1,"Rift Valley fever virus strain A-MO glycoprotein gene, complete cds",3875,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746452.1,"Rift Valley fever virus strain SWA-ISI polymerase gene, complete cds",6396,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746451.1,"Rift Valley fever virus strain NA-KOL polymerase gene, complete cds",6401,Kenya: Magadi,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746450.1,"Rift Valley fever virus strain N12 polymerase gene, complete cds",6391,Kenya: Nyandarua,Kenya,01-Feb-2019,2019,2019,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746449.1,"Rift Valley fever virus strain MSA polymerase gene, complete cds",6388,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746448.1,"Rift Valley fever virus strain MO-LE polymerase gene, complete cds",6387,Kenya: Nairobi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746447.1,"Rift Valley fever virus strain HA-HAR polymerase gene, complete cds",6373,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746446.1,"Rift Valley fever virus strain E358 polymerase gene, complete cds",6399,Kenya: Bura,Kenya,10-Feb-1998,1998,1998,EXACT_DATE,Homo sapiens,L,OUTSIDE_YEAR_RANGE
+PP746445.1,"Rift Valley fever virus strain A-MO polymerase gene, complete cds",6391,Kenya: Isiolo,Kenya,01-Nov-2020,2020,2020,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746444.1,"Rift Valley fever virus strain KEM-ND nonstructural protein and nucleocapsid genes, complete cds",1662,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746443.1,"Rift Valley fever virus strain KEM-JC nonstructural protein and nucleocapsid genes, complete cds",1663,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746442.1,"Rift Valley fever virus strain KEM-BR nonstructural protein and nucleocapsid genes, complete cds",1636,Kenya: Baringo,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746441.1,"Rift Valley fever virus strain KEM-ND glycoprotein gene, partial cds",3840,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746440.1,"Rift Valley fever virus strain KEM-JC glycoprotein gene, partial cds",3840,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746439.1,"Rift Valley fever virus strain KEM-BR glycoprotein gene, partial cds",3840,Kenya: Baringo,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746438.1,"Rift Valley fever virus strain KEM-ND polymerase gene, partial cds",6232,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746437.1,"Rift Valley fever virus strain KEM-JC polymerase gene, partial cds",6268,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746436.1,"Rift Valley fever virus strain KEM-BR polymerase gene, partial cds",6232,Kenya: Baringo,Kenya,03-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746435.1,"Rift Valley fever virus strain J9 nonstructural protein and nucleocapsid genes, complete cds",1667,Kenya: Kilifi,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746434.1,"Rift Valley fever virus strain J8 nonstructural protein and nucleocapsid genes, complete cds",1658,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746433.1,"Rift Valley fever virus strain J10 nonstructural protein and nucleocapsid genes, complete cds",1658,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746432.1,"Rift Valley fever virus strain CML3 nonstructural protein and nucleocapsid genes, complete cds",1662,Kenya: Marsabit,Kenya,27-Jun-2018,2018,2018,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746431.1,"Rift Valley fever virus strain J9 glycoprotein gene, partial cds",3840,Kenya: Kilifi,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746430.1,"Rift Valley fever virus strain J8 glycoprotein gene, partial cds",3840,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746429.1,"Rift Valley fever virus strain J10 glycoprotein gene, partial cds",3840,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746428.1,"Rift Valley fever virus strain CML3 glycoprotein gene, partial cds",3840,Kenya: Marsabit,Kenya,27-Jun-2018,2018,2018,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746427.1,"Rift Valley fever virus strain J9 polymerase gene, partial cds",6277,Kenya: Kilifi,Kenya,11-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746426.1,"Rift Valley fever virus strain J8 polymerase gene, partial cds",6251,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746425.1,"Rift Valley fever virus strain J10 polymerase gene, partial cds",6232,Kenya: Baringo,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746424.1,"Rift Valley fever virus strain CML3 polymerase gene, partial cds",6331,Kenya: Marsabit,Kenya,27-Jun-2018,2018,2018,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746423.1,"Rift Valley fever virus strain K2 nonstructural protein and nucleocapsid genes, complete cds",1673,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746422.1,"Rift Valley fever virus strain 500618 nonstructural protein and nucleocapsid genes, complete cds",1663,Kenya: Marsabit,Kenya,12-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746421.1,"Rift Valley fever virus strain 250618 nonstructural protein and nucleocapsid genes, complete cds",1670,Kenya: Wajir,Kenya,06-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746420.1,"Rift Valley fever virus strain K2 glycoprotein gene, complete cds",3874,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746419.1,"Rift Valley fever virus strain 500618 glycoprotein gene, complete cds",3863,Kenya: Marsabit,Kenya,12-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746418.1,"Rift Valley fever virus strain 250618 glycoprotein gene, complete cds",3875,Kenya: Wajir,Kenya,06-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PP746417.1,"Rift Valley fever virus strain K2 polymerase gene, complete cds",6386,Kenya: Kilifi,Kenya,01-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746416.1,"Rift Valley fever virus strain 500618 polymerase gene, complete cds",6384,Kenya: Marsabit,Kenya,12-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PP746415.1,"Rift Valley fever virus strain 250618 polymerase gene, complete cds",6385,Kenya: Wajir,Kenya,06-Jun-2018,2018,2018,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PQ753155.1,"Rift Valley fever virus strain RW627 glycoprotein gene, partial cds",551,Rwanda,Rwanda,17-May-2022,2022,2022,EXACT_DATE,Culex quinquefasciatus,M,CANDIDATE_2005_2026
+PQ753154.1,"Rift Valley fever virus strain RW089 glycoprotein gene, partial cds",551,Rwanda,Rwanda,26-May-2022,2022,2022,EXACT_DATE,Culex quinquefasciatus,M,CANDIDATE_2005_2026
+PQ753153.1,"Rift Valley fever virus strain RW006 glycoprotein gene, partial cds",551,Rwanda,Rwanda,04-May-2022,2022,2022,EXACT_DATE,Anopheles gambiae s.l.,M,CANDIDATE_2005_2026
+PQ753152.1,"Rift Valley fever virus strain RW004 glycoprotein gene, partial cds",551,Rwanda,Rwanda,27-Apr-2022,2022,2022,EXACT_DATE,Anopheles ziemanni,M,CANDIDATE_2005_2026
+PQ753151.1,"Rift Valley fever virus strain RW003 glycoprotein gene, partial cds",551,Rwanda,Rwanda,26-Apr-2022,2022,2022,EXACT_DATE,Anopheles ziemanni,M,CANDIDATE_2005_2026
+PQ753150.1,"Rift Valley fever virus strain RW627 RNA-dependent RNA polymerase gene, partial cds",494,Rwanda,Rwanda,17-May-2022,2022,2022,EXACT_DATE,Culex quinquefasciatus,L,CANDIDATE_2005_2026
+PQ753149.1,"Rift Valley fever virus strain RW089 RNA-dependent RNA polymerase gene, partial cds",494,Rwanda,Rwanda,26-May-2022,2022,2022,EXACT_DATE,Culex quinquefasciatus,L,CANDIDATE_2005_2026
+PQ753148.1,"Rift Valley fever virus strain RW006 RNA-dependent RNA polymerase gene, partial cds",494,Rwanda,Rwanda,04-May-2022,2022,2022,EXACT_DATE,Anopheles gambiae s.l.,L,CANDIDATE_2005_2026
+PQ753147.1,"Rift Valley fever virus strain RW004 RNA-dependent RNA polymerase gene, partial cds",494,Rwanda,Rwanda,27-Apr-2022,2022,2022,EXACT_DATE,Anopheles ziemanni,L,CANDIDATE_2005_2026
+PQ753146.1,"Rift Valley fever virus strain RW003 RNA-dependent RNA polymerase gene, partial cds",494,Rwanda,Rwanda,26-Apr-2022,2022,2022,EXACT_DATE,Anopheles ziemanni,L,CANDIDATE_2005_2026
+PP747243.1,"Rift Valley fever virus strain Rwanda2018RU1 nonstructural protein and nucleocapsid genes, complete cds",1636,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP747242.1,"Rift Valley fever virus strain Rwanda2018RU1-SE nonstructural protein and nucleocapsid genes, complete cds",1614,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP747241.1,"Rift Valley fever virus strain Rwanda2018NG10 nonstructural protein and nucleocapsid genes, complete cds",1612,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP747240.1,"Rift Valley fever virus strain AM-M1 nonstructural protein and nucleocapsid genes, complete cds",1599,Kenya: Kiambu,Kenya,16-Jan-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP747239.1,"Rift Valley fever virus strain 08HAB nonstructural protein and nucleocapsid genes, complete cds",1606,Kenya: Wajir,Kenya,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP747238.1,"Rift Valley fever virus strain Rwanda2018RU1 glycoprotein gene, partial cds",3840,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP747237.1,"Rift Valley fever virus strain Rwanda2018RU1-SE glycoprotein gene, partial cds",3840,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP747236.1,"Rift Valley fever virus strain Rwanda2018NG10 glycoprotein gene, partial cds",3840,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP747235.1,"Rift Valley fever virus strain AM-M1 glycoprotein gene, partial cds",3840,Kenya: Kiambu,Kenya,16-Jan-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP747234.1,"Rift Valley fever virus strain 08HAB glycoprotein gene, partial cds",3840,Kenya: Wajir,Kenya,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP747233.1,"Rift Valley fever virus strain Rwanda2018RU1 polymerase gene, partial cds",6256,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP747232.1,"Rift Valley fever virus strain Rwanda2018RU1-SE polymerase gene, partial cds",6232,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP747231.1,"Rift Valley fever virus strain Rwanda2018NG10 polymerase gene, partial cds",6277,Rwanda,Rwanda,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP747230.1,"Rift Valley fever virus strain AM-M1 polymerase gene, partial cds",6232,Kenya: Kiambu,Kenya,16-Jan-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP747229.1,"Rift Valley fever virus strain 08HAB polymerase gene, partial cds",6253,Kenya: Wajir,Kenya,01-Jan-2018,2018,2018,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PQ436088.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment L polymerase gene, partial cds",5834,Uganda: Isingiro,Uganda,2023-01-30,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PQ436087.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment L polymerase gene, partial cds",6228,Uganda: Rubanda,Uganda,2023-02-01,2023,2023,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PQ436086.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment L polymerase gene, partial cds",6308,Uganda: Rubanda,Uganda,2022-04-10,2022,2022,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PQ436085.1,"Rift Valley fever virus isolate CD300/Kabale1-2022 segment L polymerase gene, partial cds",5850,Uganda: Kabale,Uganda,2022-03-10,2022,2022,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+PQ436084.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment M glycoprotein gene, partial cds",3404,Uganda: Isingiro,Uganda,2023-01-30,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PQ436083.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment M glycoprotein gene, partial cds",3761,Uganda: Rubanda,Uganda,2023-02-01,2023,2023,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PQ436082.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment M glycoprotein gene, partial cds",3815,Uganda: Rubanda,Uganda,2022-04-10,2022,2022,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PQ436081.1,"Rift Valley fever virus isolate CD300/Kabale1-2022 segment M glycoprotein gene, partial cds",3404,Uganda: Kabale,Uganda,2022-03-10,2022,2022,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+PQ436080.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1275,Uganda: Isingiro,Uganda,2023-01-30,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PQ436079.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1589,Uganda: Rubanda,Uganda,2023-02-01,2023,2023,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PQ436078.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1581,Uganda: Rubanda,Uganda,2022-04-10,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PQ436077.1,"UNVERIFIED: Rift Valley fever virus isolate CD300/Kabale1-2022 segment S nonstructural protein-like gene, partial sequence; and nucleocapsid protein gene, partial cds",1580,Uganda: Kabale,Uganda,2022-03-10,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+PP746414.1,"Rift Valley fever virus strain Rwanda2022P99 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-07-29,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746413.1,"Rift Valley fever virus strain Rwanda2022P91 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-09-07,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746412.1,"Rift Valley fever virus strain Rwanda2022P90 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-09-07,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746411.1,"Rift Valley fever virus strain Rwanda2022P86 nonstructural protein and nucleocapsid genes, complete cds",1636,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746410.1,"Rift Valley fever virus strain Rwanda2022P80 nonstructural protein and nucleocapsid genes, complete cds",1657,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746409.1,"Rift Valley fever virus strain Rwanda2022P76 nonstructural protein and nucleocapsid genes, complete cds",1636,Rwanda,Rwanda,2022-06-27,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746408.1,"Rift Valley fever virus strain Rwanda2022P73 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-03-07,2022,2022,EXACT_DATE,Ovis aries,S,CANDIDATE_2005_2026
+PP746407.1,"Rift Valley fever virus strain Rwanda2022P71 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-06-14,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746406.1,"Rift Valley fever virus strain Rwanda2022P7 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-09-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746405.1,"Rift Valley fever virus strain Rwanda2022P69 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746404.1,"Rift Valley fever virus strain Rwanda2022P66 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746403.1,"Rift Valley fever virus strain Rwanda2022P61 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746402.1,"Rift Valley fever virus strain Rwanda2022P55 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-12-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746401.1,"Rift Valley fever virus strain Rwanda2022P5 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-03-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746400.1,"Rift Valley fever virus strain Rwanda2022P47 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-09-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746399.1,"Rift Valley fever virus strain Rwanda2022P45 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746398.1,"Rift Valley fever virus strain Rwanda2022P40 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-03-07,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746397.1,"Rift Valley fever virus strain Rwanda2022P4 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-07-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746396.1,"Rift Valley fever virus strain Rwanda2022P36 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-06-25,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746395.1,"Rift Valley fever virus strain Rwanda2022P35 nonstructural protein and nucleocapsid genes, complete cds",1677,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746394.1,"Rift Valley fever virus strain Rwanda2022P33 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-06-25,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746393.1,"Rift Valley fever virus strain Rwanda2022P319 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Rwanda,Rwanda,2022-08-25,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746392.1,"Rift Valley fever virus strain Rwanda2022P31 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1635,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746391.1,"Rift Valley fever virus strain Rwanda2022P302 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-04-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746390.1,"Rift Valley fever virus strain Rwanda2022P26 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Rwanda,Rwanda,2022-11-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746389.1,"Rift Valley fever virus strain Rwanda2022P23 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746388.1,"Rift Valley fever virus strain Rwanda2022P2 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-07-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746387.1,"Rift Valley fever virus strain Rwanda2022P13 nonstructural protein and nucleocapsid genes, complete cds",1629,Rwanda,Rwanda,2022-08-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746386.1,"Rift Valley fever virus strain Rwanda2022P116 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-01-07,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746385.1,"Rift Valley fever virus strain Rwanda2022P110 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Rwanda,Rwanda,2022-12-09,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746384.1,"Rift Valley fever virus strain Rwanda2022P11 nonstructural protein and nucleocapsid genes, complete cds",1665,Rwanda,Rwanda,2022-09-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746383.1,"Rift Valley fever virus strain Rwanda2022P104 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746382.1,"Rift Valley fever virus strain Rwanda2022P103 nonstructural protein and nucleocapsid genes, complete cds",1658,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746381.1,"Rift Valley fever virus strain Rwanda2022P102 nonstructural protein and nucleocapsid genes, complete cds",1636,Rwanda,Rwanda,2022-05-08,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746380.1,"Rift Valley fever virus strain Rwanda2022P100 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Rwanda,Rwanda,2022-07-31,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746379.1,"Rift Valley fever virus strain Rwanda2022P1 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Rwanda,Rwanda,2022-01-06,2022,2022,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+PP746378.1,"Rift Valley fever virus strain Rwanda2022P99 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-07-29,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746377.1,"Rift Valley fever virus strain Rwanda2022P91 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-07-09,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746376.1,"Rift Valley fever virus strain Rwanda2022P90 glycoprotein gene, partial cds",3531,Rwanda,Rwanda,2022-07-09,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746375.1,"Rift Valley fever virus strain Rwanda2022P86 glycoprotein gene, partial cds",3797,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746374.1,"Rift Valley fever virus strain Rwanda2022P85 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746373.1,"Rift Valley fever virus strain Rwanda2022P80 glycoprotein gene, partial cds",3829,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746372.1,"Rift Valley fever virus strain Rwanda2022P76 glycoprotein gene, partial cds",3858,Rwanda,Rwanda,2022-06-27,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746371.1,"Rift Valley fever virus strain Rwanda2022P73 glycoprotein gene, partial cds",3561,Rwanda,Rwanda,2022-07-03,2022,2022,EXACT_DATE,Ovis aries,M,CANDIDATE_2005_2026
+PP746370.1,"Rift Valley fever virus strain Rwanda2022P71 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-14,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746369.1,"Rift Valley fever virus strain Rwanda2022P7 glycoprotein gene, partial cds",3529,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746368.1,"Rift Valley fever virus strain Rwanda2022P69 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746367.1,"Rift Valley fever virus strain Rwanda2022P67 glycoprotein gene, partial cds",3596,Rwanda,Rwanda,2022-06-18,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746366.1,"Rift Valley fever virus strain Rwanda2022P66 glycoprotein gene, partial cds",3840,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746365.1,"Rift Valley fever virus strain Rwanda2022P61 glycoprotein gene, partial cds",3571,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746364.1,"Rift Valley fever virus strain Rwanda2022P55 glycoprotein gene, partial cds",3568,Rwanda,Rwanda,2022-06-12,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746363.1,"Rift Valley fever virus strain Rwanda2022P5 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-03,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746362.1,"Rift Valley fever virus strain Rwanda2022P47 glycoprotein gene, partial cds",3840,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746361.1,"Rift Valley fever virus strain Rwanda2022P45 glycoprotein gene, partial cds",3731,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746360.1,"Rift Valley fever virus strain Rwanda2022P40 glycoprotein gene, partial cds",3558,Rwanda,Rwanda,2022-07-03,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746359.1,"Rift Valley fever virus strain Rwanda2022P4 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-07,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746358.1,"Rift Valley fever virus strain Rwanda2022P35 glycoprotein gene, partial cds",3840,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746357.1,"Rift Valley fever virus strain Rwanda2022P33 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-25,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746356.1,"Rift Valley fever virus strain Rwanda2022P326 glycoprotein gene, partial cds",3587,Rwanda,Rwanda,2022-09-28,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746355.1,"Rift Valley fever virus strain Rwanda2022P319 glycoprotein gene, partial cds",3796,Rwanda,Rwanda,2022-08-25,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746354.1,"Rift Valley fever virus strain Rwanda2022P302 glycoprotein gene, partial cds",3541,Rwanda,Rwanda,2022-06-04,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746353.1,"Rift Valley fever virus strain Rwanda2022P26 glycoprotein gene, partial cds",3561,Rwanda,Rwanda,2022-06-11,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746352.1,"Rift Valley fever virus strain Rwanda2022P23 glycoprotein gene, partial cds",3847,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746351.1,"Rift Valley fever virus strain Rwanda2022P2 glycoprotein gene, partial cds",3517,Rwanda,Rwanda,2022-06-07,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746350.1,"Rift Valley fever virus strain Rwanda2022P13 glycoprotein gene, partial cds",3774,Rwanda,Rwanda,2022-06-08,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746349.1,"Rift Valley fever virus strain Rwanda2022P116 glycoprotein gene, partial cds",3587,Rwanda,Rwanda,2022-07-01,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746348.1,"Rift Valley fever virus strain Rwanda2022P110 glycoprotein gene, partial cds",3567,Rwanda,Rwanda,2022-09-12,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746347.1,"Rift Valley fever virus strain Rwanda2022P11 glycoprotein gene, partial cds",3606,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746346.1,"Rift Valley fever virus strain Rwanda2022P104 glycoprotein gene, partial cds",3570,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746345.1,"Rift Valley fever virus strain Rwanda2022P103 glycoprotein gene, partial cds",3541,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746344.1,"Rift Valley fever virus strain Rwanda2022P102 glycoprotein gene, partial cds",3534,Rwanda,Rwanda,2022-08-05,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746343.1,"Rift Valley fever virus strain Rwanda2022P100 glycoprotein gene, partial cds",3561,Rwanda,Rwanda,2022-07-31,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746342.1,"Rift Valley fever virus strain Rwanda2022P1 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,2022-06-01,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+PP746341.1,"Rift Valley fever virus strain Rwanda2022P99 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-07-29,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746340.1,"Rift Valley fever virus strain Rwanda2022P91 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-07-09,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746339.1,"Rift Valley fever virus strain Rwanda2022P90 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-07-09,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746338.1,"Rift Valley fever virus strain Rwanda2022P86 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746337.1,"Rift Valley fever virus strain Rwanda2022P80 polymerase gene, partial cds",6247,Rwanda,Rwanda,2022-06-28,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746336.1,"Rift Valley fever virus strain Rwanda2022P76 polymerase gene, partial cds",6223,Rwanda,Rwanda,2022-06-27,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746335.1,"Rift Valley fever virus strain Rwanda2022P73 polymerase gene, partial cds",6106,Rwanda,Rwanda,2022-07-03,2022,2022,EXACT_DATE,Ovis aries,L,CANDIDATE_2005_2026
+PP746334.1,"Rift Valley fever virus strain Rwanda2022P7 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746333.1,"Rift Valley fever virus strain Rwanda2022P69 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746332.1,"Rift Valley fever virus strain Rwanda2022P68 polymerase gene, partial cds",6243,Rwanda,Rwanda,2022-06-18,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746331.1,"Rift Valley fever virus strain Rwanda2022P67 polymerase gene, partial cds",6221,Rwanda,Rwanda,2022-06-18,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746330.1,"Rift Valley fever virus strain Rwanda2022P66 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746329.1,"Rift Valley fever virus strain Rwanda2022P61 polymerase gene, partial cds",5936,Rwanda,Rwanda,2022-06-22,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746328.1,"Rift Valley fever virus strain Rwanda2022P55 polymerase gene, partial cds",6222,Rwanda,Rwanda,2022-06-12,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746327.1,"Rift Valley fever virus strain Rwanda2022P5 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-03,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746326.1,"Rift Valley fever virus strain Rwanda2022P47 polymerase gene, partial cds",6234,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746325.1,"Rift Valley fever virus strain Rwanda2022P45 polymerase gene, partial cds",5936,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746324.1,"Rift Valley fever virus strain Rwanda2022P40 polymerase gene, partial cds",5936,Rwanda,Rwanda,2022-07-03,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746323.1,"Rift Valley fever virus strain Rwanda2022P4 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-07,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746322.1,"Rift Valley fever virus strain Rwanda2022P35 polymerase gene, partial cds",6232,Rwanda,Rwanda,2022-06-17,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746321.1,"Rift Valley fever virus strain Rwanda2022P33 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-25,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746320.1,"Rift Valley fever virus strain Rwanda2022P326 polymerase gene, partial cds",6261,Rwanda,Rwanda,2022-09-28,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746319.1,"Rift Valley fever virus strain Rwanda2022P323 polymerase gene, partial cds",6232,Rwanda,Rwanda,2022-09-02,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746318.1,"Rift Valley fever virus strain Rwanda2022P319 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-08-25,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746317.1,"Rift Valley fever virus strain Rwanda2022P302 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-04,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746316.1,"Rift Valley fever virus strain Rwanda2022P26 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-11,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746315.1,"Rift Valley fever virus strain Rwanda2022P23 polymerase gene, partial cds",6243,Rwanda,Rwanda,2022-06-13,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746314.1,"Rift Valley fever virus strain Rwanda2022P2 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-07,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746313.1,"Rift Valley fever virus strain Rwanda2022P13 polymerase gene, partial cds",6165,Rwanda,Rwanda,2022-06-08,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746312.1,"Rift Valley fever virus strain Rwanda2022P120 polymerase gene, partial cds",5937,Rwanda,Rwanda,2022-07-08,2022,2022,EXACT_DATE,Ovis aries,L,CANDIDATE_2005_2026
+PP746311.1,"Rift Valley fever virus strain Rwanda2022P116 polymerase gene, partial cds",5936,Rwanda,Rwanda,2022-07-01,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746310.1,"Rift Valley fever virus strain Rwanda2022P110 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-09-12,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746309.1,"Rift Valley fever virus strain Rwanda2022P11 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-06-09,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746308.1,"Rift Valley fever virus strain Rwanda2022P104 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746307.1,"Rift Valley fever virus strain Rwanda2022P103 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-08-08,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746306.1,"Rift Valley fever virus strain Rwanda2022P102 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-08-05,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746305.1,"Rift Valley fever virus strain Rwanda2022P100 polymerase gene, partial cds",5924,Rwanda,Rwanda,2022-07-31,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP746304.1,"Rift Valley fever virus strain Rwanda2022P1 polymerase gene, partial cds",6111,Rwanda,Rwanda,2022-06-01,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+PP826244.1,"Rift Valley fever virus strain Rwanda2022P326 glycoprotein gene, partial cds",3513,Rwanda,Rwanda,28-Sep-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR972328.1,"Rift Valley fever virus isolate AFI-MGT-989 segment S, complete sequence",1684,"Kenya: Baringo, Marigat, Sintaan",Kenya,2018-07-16,2018,2018,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OR972327.1,"Rift Valley fever virus isolate AFI-MGT-989 segment M, complete sequence",3875,"Kenya: Baringo, Marigat, Sintaan",Kenya,2018-07-16,2018,2018,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+OR972326.1,"Rift Valley fever virus isolate AFI-MGT-989 segment L, complete sequence",6397,"Kenya: Baringo, Marigat, Sintaan",Kenya,2018-07-16,2018,2018,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+OR780629.1,"Rift Valley fever virus isolate BDI0008 polymerase gene, partial cds",5924,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OR780628.1,"Rift Valley fever virus isolate BDI0007 polymerase gene, partial cds",5924,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OR780627.1,"Rift Valley fever virus isolate BDI0006 polymerase gene, partial cds",5924,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OR780626.1,"Rift Valley fever virus isolate BDI0003 polymerase gene, partial cds",6232,Burundi: Ngozi,Burundi,17-May-2022,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OR780625.1,"Rift Valley fever virus isolate BDI0002 polymerase gene, partial cds",5924,Burundi: Ruyaga,Burundi,17-May-2022,2022,2022,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OR780624.1,"Rift Valley fever virus isolate BDI0009 glycoprotein gene, partial cds",3558,Burundi: Ngozi,Burundi,18-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780623.1,"Rift Valley fever virus isolate BDI0008 glycoprotein gene, partial cds",3568,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780622.1,"Rift Valley fever virus isolate BDI0007 glycoprotein gene, partial cds",3567,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780621.1,"Rift Valley fever virus isolate BDI0006 glycoprotein gene, partial cds",3571,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780620.1,"Rift Valley fever virus isolate BDI0005 glycoprotein gene, partial cds",3559,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780619.1,"Rift Valley fever virus isolate BDI0003 glycoprotein gene, partial cds",3571,Burundi: Ngozi,Burundi,17-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780618.1,"Rift Valley fever virus isolate BDI0002 glycoprotein gene, partial cds",3513,Burundi: Ruyaga,Burundi,17-May-2022,2022,2022,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OR780617.1,"Rift Valley fever virus isolate BDI0008 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OR780616.1,"Rift Valley fever virus isolate BDI0007 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OR780615.1,"Rift Valley fever virus isolate BDI0006 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,Burundi: Kobero,Burundi,19-May-2022,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OR780614.1,"Rift Valley fever virus isolate BDI0003 nonstructural protein and nucleocapsid genes, complete cds",1636,Burundi: Ngozi,Burundi,17-May-2022,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OR780613.1,"Rift Valley fever virus isolate BDI0002 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,Burundi: Ruyaga,Burundi,17-May-2022,2022,2022,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+OQ440153.1,"Rift Valley fever virus strain Kenya 56 (IB8) nucleocapsid (NP) gene, complete cds",738,Kenya,Kenya,,,,MISSING,bovine,S,REVIEW_MISSING_DATE
+OQ440152.1,"Rift Valley fever virus strain Kenya 56 (IB8) nonstructural protein (NSs) gene, complete cds",798,Kenya,Kenya,,,,MISSING,bovine,S,REVIEW_MISSING_DATE
+OQ440151.1,"Rift Valley fever virus strain Kenya 56 (IB8) glycoprotein (M) gene, complete cds",3885,Kenya,Kenya,,,,MISSING,bovine,M,REVIEW_MISSING_DATE
+OQ440150.1,"Rift Valley fever virus strain Kenya 56 (IB8) polymerase (L) gene, complete cds",6404,Kenya,Kenya,,,,MISSING,bovine,L,REVIEW_MISSING_DATE
+OQ440145.1,"Rift Valley fever virus strain Lunyo nucleocapsid protein (NP) gene, complete cds",738,Uganda,Uganda,09-Jul-1955,1955,1955,EXACT_DATE,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+OQ440144.1,"Rift Valley fever virus strain Lunyo nonstructural protein (NSs) gene, complete cds",798,Uganda,Uganda,09-Jul-1955,1955,1955,EXACT_DATE,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+OQ440143.1,"Rift Valley fever virus strain Lunyo glycoprotein (gp) gene, complete cds",3885,Uganda,Uganda,09-Jul-1955,1955,1955,EXACT_DATE,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+OQ440142.1,"Rift Valley fever virus strain Lunyo polymerase (L) gene, complete cds",6404,Uganda,Uganda,09-Jul-1955,1955,1955,EXACT_DATE,Homo sapiens,L,OUTSIDE_YEAR_RANGE
+OP146109.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment S, complete sequence",1691,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,S,OUTSIDE_YEAR_RANGE
+OP146108.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment M, complete sequence",3885,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,M,OUTSIDE_YEAR_RANGE
+OP146107.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment L, complete sequence",6375,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+ON060837.1,"Rift Valley fever virus isolate 2021001358_M|Uganda glycoprotein gene, partial cds",3839,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060832.1,"Rift Valley fever virus isolate 2020002574_M|Uganda glycoprotein gene, complete cds",3871,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060829.1,"Rift Valley fever virus isolate 2020001195_M|Uganda glycoprotein gene, complete cds",3861,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060826.1,"Rift Valley fever virus isolate 2020000159_M|Uganda glycoprotein gene, partial cds",3592,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060823.1,"Rift Valley fever virus isolate 2020000148_M|Uganda glycoprotein gene, partial cds",3564,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060820.1,"Rift Valley fever virus isolate 201902764_M|Uganda|2018 glycoprotein gene, complete cds",3885,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060817.1,"Rift Valley fever virus isolate 201902763_M|Uganda|2018 glycoprotein gene, complete cds",3867,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060814.1,"Rift Valley fever virus isolate 201902760_M|Uganda|2018 glycoprotein gene, complete cds",3867,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060809.1,"Rift Valley fever virus isolate 201902753_M|Uganda|2018 glycoprotein gene, complete cds",3867,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060806.1,"Rift Valley fever virus isolate 201902750_M|Uganda|2018 glycoprotein gene, complete cds",3867,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060803.1,"Rift Valley fever virus isolate 201902747_M|Uganda|2018 glycoprotein gene, complete cds",3849,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060800.1,"Rift Valley fever virus isolate 201902745_M|Uganda|2018 glycoprotein-like gene, complete sequence",3883,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060797.1,"Rift Valley fever virus isolate 201902737_M|Uganda|2018 glycoprotein gene, partial cds",3828,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060794.1,"Rift Valley fever virus isolate 201902736_M|Uganda|2018 glycoprotein gene, partial cds",3833,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060791.1,"Rift Valley fever virus isolate 201902734_M|Uganda|2018 glycoprotein gene, complete cds",3869,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060788.1,"Rift Valley fever virus isolate 201902733_M|Uganda|2018 glycoprotein gene, complete cds",3848,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060785.1,"Rift Valley fever virus isolate 201901671_M|Uganda glycoprotein gene, complete cds",3873,Uganda,Uganda,,,,MISSING,Homo sapiens,M,REVIEW_MISSING_DATE
+ON060782.1,"Rift Valley fever virus isolate 201900880_M|Uganda|2018 glycoprotein gene, complete cds",3863,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060779.1,"Rift Valley fever virus isolate 201900879_M|Uganda|2018 glycoprotein gene, complete cds",3867,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060776.1,"Rift Valley fever virus isolate 201900877_M|Uganda|2018 glycoprotein gene, complete cds",3872,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060773.1,"Rift Valley fever virus isolate 2019000825_M|Uganda|2019 glycoprotein gene, complete cds",3876,Uganda,Uganda,2019,2019,2019,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+ON060836.1,"Rift Valley fever virus isolate 2021001358_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6376,Uganda,Uganda,2017,2017,2017,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060834.1,"Rift Valley fever virus isolate 2021000843_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6167,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060831.1,"Rift Valley fever virus isolate 2020002574_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6392,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060828.1,"Rift Valley fever virus isolate 2020001195_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6380,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060825.1,"Rift Valley fever virus isolate 2020000159_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6265,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060822.1,"Rift Valley fever virus isolate 2020000148_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6222,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060819.1,"Rift Valley fever virus isolate 201902764_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060816.1,"Rift Valley fever virus isolate 201902763_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060813.1,"Rift Valley fever virus isolate 201902760_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060811.1,"Rift Valley fever virus isolate 201902754_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6380,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060808.1,"Rift Valley fever virus isolate 201902753_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6387,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060805.1,"Rift Valley fever virus isolate 201902750_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060802.1,"Rift Valley fever virus isolate 201902747_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6385,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060799.1,"Rift Valley fever virus isolate 201902745_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6389,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060796.1,"Rift Valley fever virus isolate 201902737_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6389,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060793.1,"Rift Valley fever virus isolate 201902736_L|Uganda|2018 RNA-dependent RNA polymerase gene, partial cds",6350,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060790.1,"Rift Valley fever virus isolate 2019000825_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6392,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060787.1,"Rift Valley fever virus isolate 201902734_L|Uganda|2018 RNA-dependent RNA polymerase gene, partial cds",6320,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060784.1,"Rift Valley fever virus isolate 201901671_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2017,2017,2017,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060781.1,"Rift Valley fever virus isolate 201900880_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6385,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060778.1,"Rift Valley fever virus isolate 201900879_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060775.1,"Rift Valley fever virus isolate 201900877_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6391,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060772.1,"Rift Valley fever virus isolate 2019000825_L|Uganda|2019 RNA-dependent RNA polymerase gene, complete cds",6392,Uganda,Uganda,2019,2019,2019,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON060838.1,"Rift Valley fever virus isolate 2021001358_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1667,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060835.1,"Rift Valley fever virus isolate 2021000843_S|Uganda nonstructural protein and nucleocapsid protein genes, partial cds",1589,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060833.1,"Rift Valley fever virus isolate 2020002574_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1674,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060830.1,"Rift Valley fever virus isolate 2020001195_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1671,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060827.1,"Rift Valley fever virus isolate 2020000159_S|Uganda nonstructural protein gene, complete cds; and nucleocapsid protein gene, partial cds",1618,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060824.1,"Rift Valley fever virus isolate 2020000148_S|Uganda nonstructural protein gene, partial cds; and nucleocapsid protein gene, complete cds",1647,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060821.1,"Rift Valley fever virus isolate 201902764_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060818.1,"Rift Valley fever virus isolate 201902763_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060815.1,"Rift Valley fever virus isolate 201902760_S|Uganda|2018 non-stuctural protein and nucleocapsid protein genes, complete cds",1681,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060812.1,"Rift Valley fever virus isolate 201902754_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1660,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060810.1,"Rift Valley fever virus isolate 201902753_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1680,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060807.1,"Rift Valley fever virus isolate 201902750_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060804.1,"Rift Valley fever virus isolate 201902747_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060801.1,"Rift Valley fever virus isolate 201902745_S|Uganda|2018 nucleocapsid protein gene, complete cds",1674,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060798.1,"Rift Valley fever virus isolate 201902737_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060795.1,"Rift Valley fever virus isolate 201902736_S|Uganda|2018 nonstructural protein gene, partial cds; and nucleocapsid protein gene, complete cds",1627,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060792.1,"Rift Valley fever virus isolate 201902734_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1667,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060789.1,"Rift Valley fever virus isolate 201902733_S|Uganda|2018 nonstructural protein gene, complete cds; and nucleocapsid protein gene, partial cds",1617,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060786.1,"Rift Valley fever virus isolate 201901671_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1681,Uganda,Uganda,,,,MISSING,Homo sapiens,S,REVIEW_MISSING_DATE
+ON060783.1,"Rift Valley fever virus isolate 201900880_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060780.1,"Rift Valley fever virus isolate 201900879_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1680,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060777.1,"Rift Valley fever virus isolate 201900877_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1678,Uganda,Uganda,2018,2018,2018,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060774.1,"Rift Valley fever virus isolate 2019000825_S|Uganda|2019 nonstructural protein and nucleocapsid protein genes, complete cds",1683,Uganda,Uganda,2019,2019,2019,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+ON060771.1,"Rift Valley fever virus isolate 2019000312_S|Uganda|2019 nonstructural protein and nucleocapsid protein genes, partial cds",1586,Uganda,Uganda,2019,2019,2019,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+OQ077993.1,"MAG: Rift Valley fever virus isolate Ug2012-CVR2 segment M, partial sequence",112,Uganda,Uganda,2012,2012,2012,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+OQ077992.1,"MAG: Rift Valley fever virus isolate Ug2012-CVR1 segment L, partial sequence",324,Uganda,Uganda,2012,2012,2012,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+ON872483.1,"Rift Valley fever virus isolate SEBI-094 nonstructural protein gene, partial cds",833,Tanzania,Tanzania,03-Jul-2018,2018,2018,EXACT_DATE,cattle,S,CANDIDATE_2005_2026
+ON872482.1,"Rift Valley fever virus isolate SEBI-079 nonstructural protein gene, partial cds",833,Tanzania,Tanzania,17-Jun-2018,2018,2018,EXACT_DATE,cattle,S,CANDIDATE_2005_2026
+ON872481.1,"Rift Valley fever virus isolate SEBI-051 nonstructural protein gene, partial cds",833,Tanzania,Tanzania,16-May-2018,2018,2018,EXACT_DATE,cattle,S,CANDIDATE_2005_2026
+OM744379.1,"Rift Valley fever virus strain DVS-372 segment L, complete sequence",6400,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OM744378.1,"Rift Valley fever virus strain DVS-356 segment L, complete sequence",6396,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OM744377.1,"Rift Valley fever virus strain DVS-333 segment L, complete sequence",6397,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OM744376.1,"Rift Valley fever virus strain DVS-321 segment L, complete sequence",6399,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OM744375.1,"Rift Valley fever virus strain DVS-230 segment L, complete sequence",6397,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,L,CANDIDATE_2005_2026
+OM744374.1,"Rift Valley fever virus strain DVS-372 segment S, complete sequence",1690,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+OM744373.1,"Rift Valley fever virus strain DVS-356 segment S, complete sequence",1689,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+OM744372.1,"Rift Valley fever virus strain DVS-333 segment S, complete sequence",1689,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+OM744371.1,"Rift Valley fever virus strain DVS-321 segment S, complete sequence",1690,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+OM744370.1,"Rift Valley fever virus strain DVS-230 segment S, complete sequence",1689,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,S,CANDIDATE_2005_2026
+OM744369.1,"Rift Valley fever virus strain DVS-372 segment M, complete sequence",3881,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OM744368.1,"Rift Valley fever virus strain DVS-356 segment M, complete sequence",3874,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OM744367.1,"Rift Valley fever virus strain DVS-333 segment M, complete sequence",3879,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OM744366.1,"Rift Valley fever virus strain DVS-321 segment M, complete sequence",3884,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+OM744365.1,"Rift Valley fever virus strain DVS-230 segment M, complete sequence",3882,Kenya: Kiambu,Kenya,15-Jul-2021,2021,2021,EXACT_DATE,Bos taurus,M,CANDIDATE_2005_2026
+MG659989.1,"Rift Valley fever virus isolate Lunyo segment S, complete sequence",1691,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,Aedes sp. (mosquito),S,OUTSIDE_YEAR_RANGE
+MG659985.1,"Rift Valley fever virus isolate S35 segment S, complete sequence",1690,Kenya,Kenya,1972,1972,1972,YEAR_ONLY,ovine,S,OUTSIDE_YEAR_RANGE
+MG659984.1,"Rift Valley fever virus isolate B314 segment S, complete sequence",1691,Kenya,Kenya,1962,1962,1962,YEAR_ONLY,bovine,S,OUTSIDE_YEAR_RANGE
+MG659903.1,"Rift Valley fever virus isolate Lunyo segment L, complete sequence",6404,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,Aedes sp. (mosquito),L,OUTSIDE_YEAR_RANGE
+MG659899.1,"Rift Valley fever virus isolate S35 segment L, complete sequence",6404,Kenya,Kenya,1972,1972,1972,YEAR_ONLY,ovine,L,OUTSIDE_YEAR_RANGE
+MG659898.1,"Rift Valley fever virus isolate B314 segment L, complete sequence",6404,Kenya,Kenya,1962,1962,1962,YEAR_ONLY,bovine,L,OUTSIDE_YEAR_RANGE
+MG659817.1,"Rift Valley fever virus isolate Lunyo segment M, complete sequence",3885,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,Aedes sp. (mosquito),M,OUTSIDE_YEAR_RANGE
+MG659813.1,"Rift Valley fever virus isolate S35 segment M, complete sequence",3885,Kenya,Kenya,1972,1972,1972,YEAR_ONLY,ovine,M,OUTSIDE_YEAR_RANGE
+MG659812.1,"Rift Valley fever virus isolate B314 segment M, complete sequence",3885,Kenya,Kenya,1962,1962,1962,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+MG972980.1,"Rift Valley fever virus strain 201707025 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1581,Uganda,Uganda,07-Dec-2017,2017,2017,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG972979.1,"Rift Valley fever virus strain 201707025 segment M glycoprotein gene, partial cds",3817,Uganda,Uganda,07-Dec-2017,2017,2017,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+MG972978.1,"Rift Valley fever virus strain 201707025 segment L, complete sequence",6332,Uganda,Uganda,07-Dec-2017,2017,2017,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG972977.1,"Rift Valley fever virus strain 201707023 segment S, complete sequence",1686,Uganda,Uganda,16-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG972976.1,"Rift Valley fever virus strain 201707023 segment M, complete sequence",3879,Uganda,Uganda,16-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+MG972975.1,"Rift Valley fever virus strain 201707023 segment L, complete sequence",6397,Uganda,Uganda,16-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG972974.1,"Rift Valley fever virus strain 201707024 segment S, complete sequence",1644,Uganda,Uganda,21-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG972973.1,"Rift Valley fever virus strain 201707024 segment M, complete sequence",3852,Uganda,Uganda,21-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+MG972972.1,"Rift Valley fever virus strain 201707024 segment L, complete sequence",6321,Uganda,Uganda,21-Nov-2017,2017,2017,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG953425.1,"Rift Valley fever virus isolate 201601292 segment S nonstructural protein and nucleocapsid protein genes, complete cds",1675,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG953419.1,"Rift Valley fever virus isolate 201601292 segment M glycoprotein gene, complete cds",3841,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+MG953426.1,"Rift Valley fever virus strain 201601502 segment S nonstructural protein and nucleocapsid protein genes, complete cds",1641,Uganda,Uganda,09-Jun-2016,2016,2016,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG953424.1,"Rift Valley fever virus strain 201601287 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1615,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+MG953423.1,"Rift Valley fever virus strain 201601287 segment L polymerase gene, complete cds",6227,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG953422.1,"Rift Valley fever virus strain 201601292 segment L polymerase gene, complete cds",6373,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG953421.1,"Rift Valley fever virus strain 201601502 segment L polymerase gene, partial cds",6366,Uganda,Uganda,09-Jun-2016,2016,2016,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+MG953420.1,"Rift Valley fever virus strain 201601502 segment M glycoprotein gene, partial cds",3815,Uganda,Uganda,09-Jun-2016,2016,2016,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+MG953418.1,"Rift Valley fever virus strain 201601287 segment M glycoprotein gene, partial cds",3576,Uganda,Uganda,15-Mar-2016,2016,2016,EXACT_DATE,Homo sapiens,M,CANDIDATE_2005_2026
+KU746664.1,UNVERIFIED: Rift Valley fever virus strain Sudan-1 segment S genomic sequence,219,Sudan,Sudan,20-Oct-2010,2010,2010,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+KU978774.1,"Rift Valley fever virus isolate Ken 199800523 segment S, partial sequence",1636,Kenya,Kenya,04-Jan-1998,1998,1998,EXACT_DATE,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+KU978777.1,"Rift Valley fever virus isolate Ken 199800523 segment M, partial sequence",3850,Kenya,Kenya,04-Jan-1998,1998,1998,EXACT_DATE,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+KU978780.1,"Rift Valley fever virus isolate Ken 199800523 segment L, complete sequence",6431,Kenya,Kenya,04-Jan-1998,1998,1998,EXACT_DATE,Homo sapiens,L,OUTSIDE_YEAR_RANGE
+KX096943.1,"Rift Valley fever virus strain SA01-1322 segment S, complete sequence",1690,Saudi Arabia,Saudi Arabia,2001,2001,2001,YEAR_ONLY,Aedes vexans arabiensis,S,OUTSIDE_YEAR_RANGE
+KX096942.1,"Rift Valley fever virus strain SA01-1322 segment M, complete sequence",3885,Saudi Arabia,Saudi Arabia,2001,2001,2001,YEAR_ONLY,Aedes vexans arabiensis,M,OUTSIDE_YEAR_RANGE
+KX096941.1,"Rift Valley fever virus strain SA01-1322 segment L, complete sequence",6404,Saudi Arabia,Saudi Arabia,2001,2001,2001,YEAR_ONLY,Aedes vexans arabiensis,L,OUTSIDE_YEAR_RANGE
+KX096940.1,"Rift Valley fever virus strain Kenya-128b-15 segment S, complete sequence",1692,Kenya: Garissa district,Kenya,2006,2006,2006,YEAR_ONLY,Aedes ochraceus,S,CANDIDATE_2005_2026
+KX096939.1,"Rift Valley fever virus strain Kenya-128b-15 segment M, complete sequence",3885,Kenya: Garissa district,Kenya,2006,2006,2006,YEAR_ONLY,Aedes ochraceus,M,CANDIDATE_2005_2026
+KX096938.1,"Rift Valley fever virus strain Kenya-128b-15 segment L, complete sequence",6404,Kenya: Garissa district,Kenya,2006,2006,2006,YEAR_ONLY,Aedes ochraceus,L,CANDIDATE_2005_2026
+KU167027.1,"Rift Valley fever virus strain Lunyo segment L, complete sequence",6404,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,mosquito,L,OUTSIDE_YEAR_RANGE
+KU167026.1,"Rift Valley fever virus strain Lunyo segment M, complete sequence",3885,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,mosquito,M,OUTSIDE_YEAR_RANGE
+KU167025.1,"Rift Valley fever virus strain Lunyo segment S, complete sequence",1692,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,mosquito,S,OUTSIDE_YEAR_RANGE
+JQ840746.1,"Rift Valley fever virus strain Sudan B-2007 segment S, complete sequence",1690,Sudan,Sudan,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+JQ840745.1,"Rift Valley fever virus strain Sudan 1-2007 segment S, complete sequence",1691,Sudan: Khartoum State,Sudan,Oct-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820491.1,"Rift Valley fever virus strain Sudan 28-2010 segment M, complete sequence",3884,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JQ820490.1,"Rift Valley fever virus strain Sudan 2V-2007 segment M, complete sequence",3871,Sudan: White Nile State,Sudan,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+JQ820489.1,"Rift Valley fever virus strain Sudan 86-2010 segment M, complete sequence",3883,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JQ820488.1,"Rift Valley fever virus strain Sudan 85-2010 segment M, complete sequence",3885,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JQ820487.1,"Rift Valley fever virus strain Sudan 7-2010 segment M, complete sequence",3885,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JQ820486.1,"Rift Valley fever virus strain Sudan 28-2010 segment L, complete sequence",6400,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,L,CANDIDATE_2005_2026
+JQ820485.1,"Rift Valley fever virus strain Sudan 85-2010 segment L, complete sequence",6404,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,L,CANDIDATE_2005_2026
+JQ820484.1,"Rift Valley fever virus strain Sudan 86-2010 segment L, complete sequence",6402,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,L,CANDIDATE_2005_2026
+JQ820483.1,"Rift Valley fever virus strain Sudan 2V-2007 segment L, complete sequence",6397,Sudan: White Nile State,Sudan,2007,2007,2007,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+JQ820482.1,"Rift Valley fever virus strain Sudan 77-2007 segment S, complete sequence",1689,Sudan: Khartoum State,Sudan,Nov-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820481.1,"Rift Valley fever virus strain Sudan 30-2010 segment S, complete sequence",1689,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820480.1,"Rift Valley fever virus strain Sudan 7-2010 segment S, complete sequence",1691,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820479.1,"Rift Valley fever virus strain Sudan SP-2007 segment S, complete sequence",1691,Sudan: White Nile State,Sudan,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820478.1,"Rift Valley fever virus strain Sudan 133-2007 segment S, complete sequence",1690,Sudan: Khartoum State,Sudan,Nov-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820477.1,"Rift Valley fever virus strain Sudan 86-2010 segment S, complete sequence",1691,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820476.1,"Rift Valley fever virus strain Sudan 85-2010 segment S, complete sequence",1691,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820475.1,"Rift Valley fever virus strain Sudan 34-2010 segment S, complete sequence",1690,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820474.1,"Rift Valley fever virus strain Sudan 28-2010 segment S, complete sequence",1690,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820473.1,"Rift Valley fever virus strain Sudan 4-2010 segment S, complete sequence",1690,Sudan: Gezira State,Sudan,Oct-2010,2010,2010,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JQ820472.1,"Rift Valley fever virus strain Sudan 2V-2007 segment S, complete sequence",1691,Sudan: White Nile State,Sudan,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+JF326204.1,"Rift Valley fever virus strain 2007000324 segment S, complete sequence",1691,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JF326203.1,"Rift Valley fever virus strain 2007000323 segment S, complete sequence",1691,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,S,CANDIDATE_2005_2026
+JF326202.1,"Rift Valley fever virus strain 2007000260 segment S, complete sequence",1691,Kenya,Kenya,31-Dec-2006,2006,2006,EXACT_DATE,mosquito,S,CANDIDATE_2005_2026
+JF326201.1,"Rift Valley fever virus strain 2007000253 segment S, complete sequence",1691,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,S,CANDIDATE_2005_2026
+JF326200.1,"Rift Valley fever virus strain 2007000250 segment S, complete sequence",1691,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,S,CANDIDATE_2005_2026
+JF326199.1,"Rift Valley fever virus strain 2007000245 segment S, complete sequence",1691,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,S,CANDIDATE_2005_2026
+JF326198.1,"Rift Valley fever virus strain 2007000234 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+JF326197.1,"Rift Valley fever virus strain 2007000041 segment S, complete sequence",1691,Kenya,Kenya,10-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+JF326196.1,"Rift Valley fever virus strain 2007000003 segment S, complete sequence",1691,Kenya,Kenya,08-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,S,CANDIDATE_2005_2026
+JF326195.1,"Rift Valley fever virus strain 2007000324 segment M, complete sequence",3885,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JF326194.1,"Rift Valley fever virus strain 2007000323 segment M, complete sequence",3885,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,M,CANDIDATE_2005_2026
+JF326193.1,"Rift Valley fever virus strain 2007000260 segment M, complete sequence",3885,Kenya,Kenya,31-Dec-2006,2006,2006,EXACT_DATE,mosquito,M,CANDIDATE_2005_2026
+JF326192.1,"Rift Valley fever virus strain 2007000253 segment M, complete sequence",3885,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,M,CANDIDATE_2005_2026
+JF326191.1,"Rift Valley fever virus strain 2007000234 segment M, complete sequence",3885,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+JF326190.1,"Rift Valley fever virus strain 2007000324 segment L, complete sequence",6404,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,L,CANDIDATE_2005_2026
+JF326189.1,"Rift Valley fever virus strain 2007000323 segment L, complete sequence",6404,Tanzania,Tanzania,Feb-2007,2007,2007,PARTIAL_OR_OTHER,Homo sapiens,L,CANDIDATE_2005_2026
+JF326188.1,"Rift Valley fever virus strain 2007000260 segment L, complete sequence",6404,Kenya,Kenya,31-Dec-2006,2006,2006,EXACT_DATE,mosquito,L,CANDIDATE_2005_2026
+JF326187.1,"Rift Valley fever virus strain 2007000253 segment L, complete sequence",6404,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,L,CANDIDATE_2005_2026
+JF326186.1,"Rift Valley fever virus strain 2007000234 segment L, complete sequence",6404,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,L,CANDIDATE_2005_2026
+HM587119.1,"Rift Valley fever virus isolate Lunyo segment M glycoprotein G2 gene, partial cds",490,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,Aedes sp.,M,OUTSIDE_YEAR_RANGE
+HM587118.1,"Rift Valley fever virus isolate KEN56/B2653/IB8 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1963,1963,1963,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587116.1,"Rift Valley fever virus isolate Kitale1840 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1964,1964,1964,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587106.1,"Rift Valley fever virus isolate B674 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1963,1963,1963,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587105.1,"Rift Valley fever virus isolate B314 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1962,1962,1962,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587104.1,"Rift Valley fever virus isolate KEN57 Rintoul segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1951,1951,1951,YEAR_ONLY,ovine,M,OUTSIDE_YEAR_RANGE
+HM587103.1,"Rift Valley fever virus isolate 95EG vaccine segment M glycoprotein G2 gene, partial cds",490,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,M,OUTSIDE_YEAR_RANGE
+HM587102.1,"Rift Valley fever virus isolate SNS segment M glycoprotein G2 gene, partial cds",490,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,Eretmapodites sp.,M,OUTSIDE_YEAR_RANGE
+HM587075.1,"Rift Valley fever virus isolate B1143 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1977,1977,1977,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587074.1,"Rift Valley fever virus isolate 214445 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1983,1983,1983,YEAR_ONLY,Aedes mcintoshi,M,OUTSIDE_YEAR_RANGE
+HM587070.1,"Rift Valley fever virus isolate B309 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1977,1977,1977,YEAR_ONLY,bovine,M,OUTSIDE_YEAR_RANGE
+HM587068.1,"Rift Valley fever virus isolate SPU22/07/4 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+HM587064.1,"Rift Valley fever virus isolate SPU22/07/129 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+HM587063.1,"Rift Valley fever virus isolate SPU22/07/125 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+HM587062.1,"Rift Valley fever virus isolate SPU22/07/118 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,M,CANDIDATE_2005_2026
+HM587055.1,"Rift Valley fever virus isolate SPU2/98/9 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1998,1998,1998,YEAR_ONLY,caprine,M,OUTSIDE_YEAR_RANGE
+HM587053.1,"Rift Valley fever virus isolate SPU2/98/1 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1998,1998,1998,YEAR_ONLY,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+HM587052.1,"Rift Valley fever virus isolate SPU384/97/1 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1997,1997,1997,YEAR_ONLY,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+HM587051.1,"Rift Valley fever virus isolate SPU12/99/21 segment M glycoprotein G2 gene, partial cds",490,Somalia,Somalia,1999,1999,1999,YEAR_ONLY,caprine,M,OUTSIDE_YEAR_RANGE
+HM587045.1,"Rift Valley fever virus isolate S35 segment M glycoprotein G2 gene, partial cds",490,Kenya,Kenya,1972,1972,1972,YEAR_ONLY,ovine,M,OUTSIDE_YEAR_RANGE
+JF309200.1,"Rift Valley fever virus strain 2007002820 segment M, complete sequence",3885,Kenya: Garissa,Kenya,09-Feb-2007,2007,2007,EXACT_DATE,buffalo,M,CANDIDATE_2005_2026
+HM586960.1,"Rift Valley fever virus strain TAN/Dod-002/07 polymerase (L) gene, complete cds",6404,Tanzania,Tanzania,14-Mar-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586959.1,"Rift Valley fever virus strain TAN/Tan-001/07 polymerase (L) gene, complete cds",6404,Tanzania,Tanzania,08-Feb-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586958.1,"Rift Valley fever virus strain KEN/Bar-035/07 polymerase (L) gene, complete cds",6404,Kenya,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586957.1,"Rift Valley fever virus strain KEN/Bar-032/07 polymerase (L) gene, complete cds",6404,Kenya,Kenya,03-Feb-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586955.1,"Rift Valley fever virus strain KEN/Kil-006/07 polymerase (L) gene, complete cds",6404,Kenya,Kenya,05-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586963.1,"Rift Valley fever virus strain KEN/Bar-Msq polymerase (L) gene, complete cds",6404,Kenya,Kenya,13-Feb-2007,2007,2007,EXACT_DATE,mosquito,L,CANDIDATE_2005_2026
+HM586962.1,"Rift Valley fever virus strain KEN/KLF-Msq polymerase (L) gene, complete cds",6404,Kenya,Kenya,13-Jan-2007,2007,2007,EXACT_DATE,mosquito,L,CANDIDATE_2005_2026
+HM586961.1,"Rift Valley fever virus strain KEN/Gar-Msq polymerase (L) gene, complete cds",6404,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,mosquito,L,CANDIDATE_2005_2026
+HM586956.1,"Rift Valley fever virus strain KEN/Mal-032/07 polymerase (L) gene, complete cds",6404,Kenya,Kenya,15-Jan-2007,2007,2007,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586954.1,"Rift Valley fever virus strain KEN/Gar-008/06 polymerase (L) gene, complete cds",6404,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586953.1,"Rift Valley fever virus strain KEN/Gar-004/06 polymerase (L) gene, complete cds",6404,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,Homo sapiens,L,CANDIDATE_2005_2026
+HM586968.1,"Rift Valley fever virus strain KEN/Bar-032/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,03-Feb-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586974.1,"Rift Valley fever virus strain KEN/Bar-Msq/187-09/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,13-Feb-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586973.1,"Rift Valley fever virus strain KEN/KLF-Msq/091/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,13-Jan-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586972.1,"Rift Valley fever virus strain KEN/Gar-Msq/131B-04/06 glycoprotein gene, complete cds",3885,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586971.1,"Rift Valley fever virus strain TAN/Dod-002/07 glycoprotein gene, complete cds",3885,Tanzania,Tanzania,14-Mar-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586970.1,"Rift Valley fever virus strain TAN/Tan-001/07 glycoprotein gene, complete cds",3885,Tanzania,Tanzania,08-Feb-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586969.1,"Rift Valley fever virus strain KEN/Bar-035/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586967.1,"Rift Valley fever virus strain KEN/Mal-032/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,15-Jan-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586966.1,"Rift Valley fever virus strain KEN/Kil-006/07 glycoprotein gene, complete cds",3885,Kenya,Kenya,05-Jan-2007,2007,2007,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586965.1,"Rift Valley fever virus strain KEN/Gar-008/06 glycoprotein gene, complete cds",3885,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586964.1,"Rift Valley fever virus strain KEN/Gar-004/06 glycoprotein gene, complete cds",3885,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,,M,CANDIDATE_2005_2026
+HM586984.1,"Rift Valley fever virus strain KEN/KLF-Msq091/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,13-Jan-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586983.1,"Rift Valley fever virus strain KEN/Gar-Msq131B-04/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,29-Dec-2006,2006,2006,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586982.1,"Rift Valley fever virus strain TAN/Dod-002/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Tanzania,Tanzania,14-Mar-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586981.1,"Rift Valley fever virus strain TAN/Tan-001/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Tanzania,Tanzania,08-Feb-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586980.1,"Rift Valley fever virus strain KEN/Bar-035/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586979.1,"Rift Valley fever virus strain KEN/Bar-032/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,03-Feb-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586978.1,"Rift Valley fever virus strain KEN/Mal-032/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,15-Jan-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586977.1,"Rift Valley fever virus strain KEN/Kil-006/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,05-Jan-2007,2007,2007,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586976.1,"Rift Valley fever virus strain KEN/Gar-008/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,,S,CANDIDATE_2005_2026
+HM586975.1,"Rift Valley fever virus strain KEN/Gar-004/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,Kenya,Kenya,21-Dec-2006,2006,2006,EXACT_DATE,,S,CANDIDATE_2005_2026
+EU574087.1,"Rift Valley fever virus strain 2007000080 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574086.1,"Rift Valley fever virus strain 2007000094 segment S, complete sequence",1690,Kenya: Garissa district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574085.1,"Rift Valley fever virus strain 2007000222 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574084.1,"Rift Valley fever virus strain 2007000223 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574083.1,"Rift Valley fever virus strain 2007000224 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574082.1,"Rift Valley fever virus strain 2007000225 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574081.1,"Rift Valley fever virus strain 2007000226 segment S, complete sequence",1691,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574080.1,"Rift Valley fever virus strain 2007000473 segment S, complete sequence",1691,Kenya: Kajaido district,Kenya,26-Jan-2007,2007,2007,EXACT_DATE,ovine,S,CANDIDATE_2005_2026
+EU574079.1,"Rift Valley fever virus strain 2007000608 segment S, complete sequence",1691,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574078.1,"Rift Valley fever virus strain 2007000611 segment S, complete sequence",1691,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574077.1,"Rift Valley fever virus strain 2007000618 segment S, complete sequence",1691,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574076.1,"Rift Valley fever virus strain 2007000665 segment S, complete sequence",1690,Kenya: Nyeri district,Kenya,26-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574075.1,"Rift Valley fever virus strain 2007001107 segment S, complete sequence",1691,Kenya: Thika district,Kenya,25-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574074.1,"Rift Valley fever virus strain 2007001292 segment S, complete sequence",1691,Kenya: Meru South district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574073.1,"Rift Valley fever virus strain 2007001443 segment S, complete sequence",1691,Kenya: Nakuru district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574072.1,"Rift Valley fever virus strain 2007001564 segment S, complete sequence",1690,Kenya: Muranga district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574071.1,"Rift Valley fever virus strain 2007001602 segment S, complete sequence",1691,Kenya: Mombassa district,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574070.1,"Rift Valley fever virus strain 2007001800 segment S, complete sequence",1691,Kenya: Nairobi district,Kenya,26-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574069.1,"Rift Valley fever virus strain 2007001809 segment S, complete sequence",1691,Kenya: Garissa disrict,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,S,CANDIDATE_2005_2026
+EU574068.1,"Rift Valley fever virus strain 2007001811 segment S, complete sequence",1690,Kenya: Garissa district,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,S,CANDIDATE_2005_2026
+EU574067.1,"Rift Valley fever virus strain 2007002059 segment S, complete sequence",1690,Kenya: Nairobi district,Kenya,07-Feb-2007,2007,2007,EXACT_DATE,ovine,S,CANDIDATE_2005_2026
+EU574066.1,"Rift Valley fever virus strain 2007002060 segment S, complete sequence",1691,Kenya: Nairobi district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574065.1,"Rift Valley fever virus strain 2007002444 segment S, complete sequence",1691,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574064.1,"Rift Valley fever virus strain 2007002445 segment S, complete sequence",1691,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574063.1,"Rift Valley fever virus strain 2007002476 segment S, complete sequence",1691,Kenya: Nakuru district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574062.1,"Rift Valley fever virus strain 2007002482 segment S, complete sequence",1691,Kenya: Thika district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574061.1,"Rift Valley fever virus strain 2007002820 segment S, complete sequence",1691,Kenya: Garissa district,Kenya,09-Feb-2007,2007,2007,EXACT_DATE,Syncerus caffer (buffalo),S,CANDIDATE_2005_2026
+EU574060.1,"Rift Valley fever virus strain 2007003081 segment S, complete sequence",1691,Kenya: Mbeere district,Kenya,27-Feb-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574059.1,"Rift Valley fever virus strain 2007003644 segment S, complete sequence",1691,Kenya: Baringo district,Kenya,07-Feb-2007,2007,2007,EXACT_DATE,ovine,S,CANDIDATE_2005_2026
+EU574058.1,"Rift Valley fever virus strain 2007004193 segment S, complete sequence",1691,Kenya: Nairobi district,Kenya,23-Apr-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574057.1,"Rift Valley fever virus strain 2007004194 segment S, complete sequence",1689,Kenya: Kiambu district,Kenya,14-May-2007,2007,2007,EXACT_DATE,bovine,S,CANDIDATE_2005_2026
+EU574056.1,"Rift Valley fever virus strain 2007000080 segment M, complete sequence",3885,Kenya: Maragua district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574055.1,"Rift Valley fever virus strain 2007000094 segment M, complete sequence",3885,Kenya: Garissa district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574054.1,"Rift Valley fever virus strain 2007000222 segment M, complete sequence",3885,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574053.1,"Rift Valley fever virus strain 2007000223 segment M, complete sequence",3885,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574052.1,"Rift Valley fever virus strain 2007000224 segment M, complete sequence",3885,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574051.1,"Rift Valley fever virus strain 2007000225 segment M, complete sequence",3885,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574050.1,"Rift Valley fever virus strain 2007000473 segment M, complete sequence",3885,Kenya: Kajaido district,Kenya,26-Jan-2007,2007,2007,EXACT_DATE,ovine,M,CANDIDATE_2005_2026
+EU574049.1,"Rift Valley fever virus strain 2007000608 segment M, complete sequence",3885,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574048.1,"Rift Valley fever virus strain 2007000611 segment M, complete sequence",3885,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574047.1,"Rift Valley fever virus strain 2007001107 segment M, complete sequence",3885,Kenya: Thika district,Kenya,25-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574046.1,"Rift Valley fever virus strain 2007001292 segment M, complete sequence",3885,Kenya: Meru South district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574045.1,"Rift Valley fever virus strain 2007001443 segment M, complete sequence",3885,Kenya: Nakuru district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574044.1,"Rift Valley fever virus strain 2007001564 segment M, complete sequence",3885,Kenya: Muranga district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574043.1,"Rift Valley fever virus strain 2007001602 segment M, complete sequence",3885,Kenya: Mombassa district,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574042.1,"Rift Valley fever virus strain 2007000618 segment M, complete sequence",3885,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574041.1,"Rift Valley fever virus strain 2007001809 segment M, complete sequence",3885,Kenya: Garissa disrict,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,M,CANDIDATE_2005_2026
+EU574040.1,"Rift Valley fever virus strain 2007001811 segment M, complete sequence",3885,Kenya: Garissa district,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,M,CANDIDATE_2005_2026
+EU574039.1,"Rift Valley fever virus strain 2007002060 segment M, complete sequence",3885,Kenya: Nairobi district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574038.1,"Rift Valley fever virus strain 2007002444 segment M, complete sequence",3885,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574037.1,"Rift Valley fever virus strain 2007002445 segment M, complete sequence",3885,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574036.1,"Rift Valley fever virus strain 2007002476 segment M, complete sequence",3885,Kenya: Nakuru district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574035.1,"Rift Valley fever virus strain 2007002482 segment M, complete sequence",3885,Kenya: Thika district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574034.1,"Rift Valley fever virus strain 2007003081 segment M, complete sequence",3885,Kenya: Mbeere district,Kenya,27-Feb-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574033.1,"Rift Valley fever virus strain 2007003644 segment M, complete sequence",3885,Kenya: Baringo district,Kenya,07-Feb-2007,2007,2007,EXACT_DATE,ovine,M,CANDIDATE_2005_2026
+EU574032.1,"Rift Valley fever virus strain 2007004193 segment M, complete sequence",3885,Kenya: Nairobi district,Kenya,23-Apr-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574031.1,"Rift Valley fever virus strain 2007004194 segment M, complete sequence",3885,Kenya: Kiambu district,Kenya,14-May-2007,2007,2007,EXACT_DATE,bovine,M,CANDIDATE_2005_2026
+EU574030.1,"Rift Valley fever virus strain 2007000080 segment L, complete sequence",6404,Kenya: Maragua district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574029.1,"Rift Valley fever virus strain 2007000094 segment L, complete sequence",6404,Kenya: Garissa district,Kenya,12-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574028.1,"Rift Valley fever virus strain 2007000222 segment L, complete sequence",6404,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574027.1,"Rift Valley fever virus strain 2007000223 segment L, complete sequence",6404,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574026.1,"Rift Valley fever virus strain 2007000224 segment L, complete sequence",6404,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574025.1,"Rift Valley fever virus strain 2007000225 segment L, complete sequence",6404,Kenya: Maragua district,Kenya,16-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574024.1,"Rift Valley fever virus strain 2007000473 segment L, complete sequence",6404,Kenya: Kajaido district,Kenya,26-Jan-2007,2007,2007,EXACT_DATE,ovine,L,CANDIDATE_2005_2026
+EU574023.1,"Rift Valley fever virus strain 2007000608 segment L, complete sequence",6404,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574022.1,"Rift Valley fever virus strain 2007000611 segment L, complete sequence",6404,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574021.1,"Rift Valley fever virus strain 2007000618 segment L, complete sequence",6404,Kenya: Meru South district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574020.1,"Rift Valley fever virus strain 2007001107 segment L, complete sequence",6404,Kenya: Thika district,Kenya,25-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574019.1,"Rift Valley fever virus strain 2007001292 segment L, complete sequence",6404,Kenya: Meru South district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574018.1,"Rift Valley fever virus strain 2007001443 segment L, complete sequence",6404,Kenya: Nakuru district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574017.1,"Rift Valley fever virus strain 2007001564 segment L, complete sequence",6404,Kenya: Muranga district,Kenya,29-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574016.1,"Rift Valley fever virus strain 2007001602 segment L, complete sequence",6404,Kenya: Mombassa district,Kenya,30-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574015.1,"Rift Valley fever virus strain 2007001809 segment L, complete sequence",6404,Kenya: Garissa disrict,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,L,CANDIDATE_2005_2026
+EU574014.1,"Rift Valley fever virus strain 2007001811 segment L, complete sequence",6404,Kenya: Garissa district,Kenya,01-Dec-2006,2006,2006,EXACT_DATE,caprine,L,CANDIDATE_2005_2026
+EU574013.1,"Rift Valley fever virus strain 2007002060 segment L, complete sequence",6404,Kenya: Nairobi district,Kenya,31-Jan-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574012.1,"Rift Valley fever virus strain 2007002444 segment L, complete sequence",6404,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574011.1,"Rift Valley fever virus strain 2007002445 segment L, complete sequence",6404,Kenya: Meru Central district,Kenya,05-Feb-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574010.1,"Rift Valley fever virus strain 2007002476 segment L, complete sequence",6404,Kenya: Nakuru district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574009.1,"Rift Valley fever virus strain 2007002482 segment L, complete sequence",6404,Kenya: Thika district,Kenya,21-Feb-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574008.1,"Rift Valley fever virus strain 2007002820 segment L, complete sequence",6404,Kenya: Garissa district,Kenya,09-Feb-2007,2007,2007,EXACT_DATE,Syncerus caffer (buffalo),L,CANDIDATE_2005_2026
+EU574007.1,"Rift Valley fever virus strain 2007003081 segment L, complete sequence",6404,Kenya: Mbeere district,Kenya,27-Feb-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574006.1,"Rift Valley fever virus strain 2007003644 segment L, complete sequence",6404,Kenya: Baringo district,Kenya,07-Feb-2007,2007,2007,EXACT_DATE,ovine,L,CANDIDATE_2005_2026
+EU574005.1,"Rift Valley fever virus strain 2007004193 segment L, complete sequence",6404,Kenya: Nairobi district,Kenya,23-Apr-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU574004.1,"Rift Valley fever virus strain 2007004194 segment L, complete sequence",6404,Kenya: Kiambu district,Kenya,14-May-2007,2007,2007,EXACT_DATE,bovine,L,CANDIDATE_2005_2026
+EU312147.1,"Rift Valley fever virus strain SPU10315KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312146.1,"Rift Valley fever virus strain SPU10307KEN07 segment S, complete sequence",1690,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312145.1,"Rift Valley fever virus strain SPU10302KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312144.1,"Rift Valley fever virus strain SPU10301KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312143.1,"Rift Valley fever virus strain SPU2220KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312142.1,"Rift Valley fever virus strain SPU2215KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312141.1,"Rift Valley fever virus strain SPU2214KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312140.1,"Rift Valley fever virus strain SPU2223KEN07 segment S, complete sequence",1691,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312139.1,"Rift Valley fever virus strain SPU2201KEN07 segment S, complete sequence",1690,Kenya,Kenya,2007,2007,2007,YEAR_ONLY,Homo sapiens,S,CANDIDATE_2005_2026
+EU312129.1,"Rift Valley fever virus strain Vaccine strain segment S, complete sequence",1690,Uganda,Uganda,,,,MISSING,,S,REVIEW_MISSING_DATE
+EU312128.1,"Rift Valley fever virus strain SPU384001KEN97 segment S, complete sequence",1690,Kenya,Kenya,1997,1997,1997,YEAR_ONLY,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+EU312126.1,"Rift Valley fever virus strain SPU12002SOM98 segment S, complete sequence",1690,Somalia,Somalia,1998,1998,1998,YEAR_ONLY,caprine,S,OUTSIDE_YEAR_RANGE
+EU312121.1,"Rift Valley fever virus strain LunyoUGA55 segment S, complete sequence",1692,Uganda,Uganda,1955,1955,1955,YEAR_ONLY,mosquito,S,OUTSIDE_YEAR_RANGE
+EU312119.1,"Rift Valley fever virus strain B1143KEN77 segment S, complete sequence",1691,Kenya,Kenya,1977,1977,1977,YEAR_ONLY,,S,OUTSIDE_YEAR_RANGE
+EU312118.1,"Rift Valley fever virus strain B314KEN62 segment S, complete sequence",1691,Kenya,Kenya,1962,1962,1962,YEAR_ONLY,,S,OUTSIDE_YEAR_RANGE
+EU312105.1,"Rift Valley fever virus strain 214445KEN83 segment S, complete sequence",1691,Kenya,Kenya,1983,1983,1983,YEAR_ONLY,Aedes mcintoshi (mosquito),S,OUTSIDE_YEAR_RANGE
+EU312103.1,"Rift Valley fever virus strain 56KEN65 segment S, complete sequence",1690,Kenya,Kenya,1965,1965,1965,YEAR_ONLY,bovine,S,OUTSIDE_YEAR_RANGE
+EF467178.1,"Rift Valley fever virus strain KEN06-ELH131B08 segment M, complete sequence",3885,Kenya,Kenya,Dec-2006,2006,2006,PARTIAL_OR_OTHER,Aedes ochraceus,M,CANDIDATE_2005_2026
+EF467177.1,"Rift Valley fever virus strain KEN07-KLF112 segment M, complete sequence",3885,Kenya,Kenya,Jan-2007,2007,2007,PARTIAL_OR_OTHER,Culex poicilipes,M,CANDIDATE_2005_2026
+EF460404.1,"Rift Valley fever virus strain KEN07-KUR340 segment M, complete sequence",3885,Kenya,Kenya,Jan-2007,2007,2007,PARTIAL_OR_OTHER,,M,CANDIDATE_2005_2026
+DQ375429.1,"Rift Valley fever virus strain Entebbe segment L, complete sequence",6404,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+DQ375427.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment L, complete sequence",6404,Kenya,Kenya,,,,MISSING,,L,REVIEW_MISSING_DATE
+DQ375402.1,"Rift Valley fever virus strain Kenya 83 (21445) segment L, complete sequence",6404,Kenya: Ruiru,Kenya,1983,1983,1983,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+DQ375400.1,"Rift Valley fever virus strain Kenya 9800523 segment L, complete sequence",6404,Kenya,Kenya,1998,1998,1998,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+DQ380198.1,"Rift Valley fever virus strain Kenya 83 (21445) segment M, complete sequence",3885,Kenya: Ruiru,Kenya,1983,1983,1983,YEAR_ONLY,Aedes macintoshi,M,OUTSIDE_YEAR_RANGE
+DQ380196.1,"Rift Valley fever virus strain Kenya 9800523 segment M, complete sequence",3885,Kenya,Kenya,1998,1998,1998,YEAR_ONLY,Homo sapiens,M,OUTSIDE_YEAR_RANGE
+DQ380191.1,"Rift Valley fever virus strain Entebbe segment M, complete sequence",3885,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,mosquito,M,OUTSIDE_YEAR_RANGE
+DQ380190.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment M, complete sequence",3885,Kenya,Kenya,,,,MISSING,bovine,M,REVIEW_MISSING_DATE
+DQ380176.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment S, complete sequence",1690,Kenya,Kenya,,,,MISSING,bovine,S,REVIEW_MISSING_DATE
+DQ380171.1,"Rift Valley fever virus strain Kenya 83 (21445) segment S, complete sequence",1691,Kenya,Kenya,1983,1983,1983,YEAR_ONLY,Aedes macintoshi,S,OUTSIDE_YEAR_RANGE
+DQ380169.1,"Rift Valley fever virus strain Kenya 9800523 segment S, complete sequence",1690,Kenya,Kenya,1998,1998,1998,YEAR_ONLY,Homo sapiens,S,OUTSIDE_YEAR_RANGE
+DQ380156.1,"Rift Valley fever virus strain Entebbe segment S, complete sequence",1691,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,mosquito,S,OUTSIDE_YEAR_RANGE
+DQ375431.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment L, complete sequence",6404,Kenya,Kenya,1951,1951,1951,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+DQ375430.1,"Rift Valley fever virus strain Smithburn segment L, complete sequence",6404,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,L,OUTSIDE_YEAR_RANGE
+DQ380192.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment M, complete sequence",3900,Kenya: Kitale,Kenya,1951,1951,1951,YEAR_ONLY,ovine,M,OUTSIDE_YEAR_RANGE
+DQ380157.1,"Rift Valley fever virus strain Smithburn segment S, complete sequence",1692,Uganda,Uganda,1944,1944,1944,YEAR_ONLY,,S,OUTSIDE_YEAR_RANGE
+DQ380155.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment S, complete sequence",1691,Kenya,Kenya,1951,1951,1951,YEAR_ONLY,ovine,S,OUTSIDE_YEAR_RANGE

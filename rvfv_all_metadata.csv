@@ -1,0 +1,648 @@
+accession,description,length_bp,country,collection_date,host,isolate,strain,segment,isolation_source,organism
+PV562147.1,"Rift Valley fever virus strain NAK/1/40 segment L, complete sequence",6395,,2021-01-20,Bos taurus,,NAK/1/40,L,,Rift Valley fever virus
+PV562146.1,"Rift Valley fever virus strain NAK/1/40 segment S, complete sequence",1681,,2021-01-20,Bos taurus,,NAK/1/40,S,,Rift Valley fever virus
+PV562145.1,"Rift Valley fever virus strain NAK/1/31 segment S, complete sequence",1681,,2021-01-29,Bos taurus,,NAK/1/31,S,,Rift Valley fever virus
+PV562144.1,"Rift Valley fever virus strain 123 segment S, complete sequence",1680,,2022-05-29,Bos taurus,,123,S,,Rift Valley fever virus
+PV562143.1,"Rift Valley fever virus strain 194 segment S, complete sequence",1682,,2022-06-01,Bos taurus,,194,S,,Rift Valley fever virus
+PV562142.1,"Rift Valley fever virus strain TF47 segment S, complete sequence",1681,,2019-07-18,Bos taurus,,TF47,S,,Rift Valley fever virus
+PV562141.1,"Rift Valley fever virus strain Lantana segment S, complete sequence",1681,,2022-06-01,Bos taurus,,Lantana,S,,Rift Valley fever virus
+PV849536.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,,15-Mar-2023,Homo sapiens,"2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023",,,,Rift Valley fever virus
+PV849535.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 glycoprotein gene, partial cds",3803,,15-Mar-2023,Homo sapiens,"2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023",,,,Rift Valley fever virus
+PV849534.1,"Rift Valley fever virus isolate 2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023 polymerase gene, partial cds",6350,,15-Mar-2023,Homo sapiens,"2023001561/Homo sapiens/Kiruhura, Uganda/15-Mar-2023",,,,Rift Valley fever virus
+PV849533.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,,02-Mar-2023,Homo sapiens,"2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023",,,,Rift Valley fever virus
+PV849532.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 glycoprotein gene, partial cds",3815,,02-Mar-2023,Homo sapiens,"2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023",,,,Rift Valley fever virus
+PV849531.1,"Rift Valley fever virus isolate 2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023 polymerase gene, partial cds",6303,,02-Mar-2023,Homo sapiens,"2023001515/Homo sapiens/Mbarara, Uganda/02-Mar-2023",,,,Rift Valley fever virus
+PV849530.1,"Rift Valley fever virus isolate 2023000837/Homo sapiens/Mbarara, Uganda/08-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,08-Mar-2023,Homo sapiens,"2023000837/Homo sapiens/Mbarara, Uganda/08-Mar-2023",,,,Rift Valley fever virus
+PV849529.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,07-Mar-2023,Homo sapiens,"2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849528.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",3404,,07-Mar-2023,Homo sapiens,"2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849527.1,"Rift Valley fever virus isolate 2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5901,,07-Mar-2023,Homo sapiens,"2023000828/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849526.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,07-Mar-2023,Homo sapiens,"2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849525.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",3404,,07-Mar-2023,Homo sapiens,"2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849524.1,"Rift Valley fever virus isolate 2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5850,,07-Mar-2023,Homo sapiens,"2023000822/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849523.1,"Rift Valley fever virus isolate 2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023 glycoprotein gene, partial cds",2903,,07-Mar-2023,Homo sapiens,"2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849522.1,"Rift Valley fever virus isolate 2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023 polymerase gene, partial cds",5431,,07-Mar-2023,Homo sapiens,"2023000812/Homo sapiens/Mbarara, Uganda/07-Mar-2023",,,,Rift Valley fever virus
+PV849521.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,08-Mar-2023,Homo sapiens,"2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023",,,,Rift Valley fever virus
+PV849520.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 glycoprotein gene, partial cds",3404,,08-Mar-2023,Homo sapiens,"2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023",,,,Rift Valley fever virus
+PV849519.1,"Rift Valley fever virus isolate 2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023 polymerase gene, partial cds",5850,,08-Mar-2023,Homo sapiens,"2023000807/Homo sapiens/Mbarara, Uganda/08-Mar-2023",,,,Rift Valley fever virus
+PV849518.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,06-Mar-2023,Homo sapiens,"2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849517.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 glycoprotein gene, partial cds",3404,,06-Mar-2023,Homo sapiens,"2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849516.1,"Rift Valley fever virus isolate 2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023 polymerase gene, partial cds",5850,,06-Mar-2023,Homo sapiens,"2023000795/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849515.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,06-Mar-2023,Homo sapiens,"2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849514.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 glycoprotein gene, partial cds",3404,,06-Mar-2023,Homo sapiens,"2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849513.1,"Rift Valley fever virus isolate 2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023 polymerase gene, partial cds",5850,,06-Mar-2023,Homo sapiens,"2023000792/Homo sapiens/Mbarara, Uganda/06-Mar-2023",,,,Rift Valley fever virus
+PV849512.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,22-Feb-2023,Bos taurus,"2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849511.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,,22-Feb-2023,Bos taurus,"2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849510.1,"Rift Valley fever virus isolate 2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023 polymerase gene, partial cds",5431,,22-Feb-2023,Bos taurus,"2023000703/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849509.1,"Rift Valley fever virus isolate 2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,22-Feb-2023,Bos taurus,"2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849508.1,"Rift Valley fever virus isolate 2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,,22-Feb-2023,Bos taurus,"2023000702/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849507.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,22-Feb-2023,Bos taurus,"2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849506.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 glycoprotein gene, partial cds",3404,,22-Feb-2023,Bos taurus,"2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849505.1,"Rift Valley fever virus isolate 2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023 polymerase gene, partial cds",5850,,22-Feb-2023,Bos taurus,"2023000700/Bos taurus/Mbarara, Uganda/22-Feb-2023",,,,Rift Valley fever virus
+PV849504.1,"Rift Valley fever virus isolate 2023000699/Bos taurus/Mbarara, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,2023,Bos taurus,"2023000699/Bos taurus/Mbarara, Uganda/2023",,,,Rift Valley fever virus
+PV849503.1,"Rift Valley fever virus isolate 2023000699/Bos taurus/Mbarara, Uganda/2023 glycoprotein gene, partial cds",3404,,2023,Bos taurus,"2023000699/Bos taurus/Mbarara, Uganda/2023",,,,Rift Valley fever virus
+PV849502.1,"Rift Valley fever virus isolate 2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,23-Feb-2023,Homo sapiens,"2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023",,,,Rift Valley fever virus
+PV849501.1,"Rift Valley fever virus isolate 2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023 glycoprotein gene, partial cds",3012,,23-Feb-2023,Homo sapiens,"2023000677/Homo sapiens/Mbarara, Uganda/23-Feb-2023",,,,Rift Valley fever virus
+PV849500.1,"Rift Valley fever virus isolate 2023000676/Homo sapiens/Mbarara, Uganda/23-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,23-Feb-2023,Homo sapiens,"2023000676/Homo sapiens/Mbarara, Uganda/23-Feb-2023",,,,Rift Valley fever virus
+PV849499.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,,Rift Valley fever virus
+PV849498.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 glycoprotein gene, partial cds",3404,,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,,Rift Valley fever virus
+PV849497.1,"Rift Valley fever virus isolate 2023000670/Homo sapiens/Mbarara, Uganda/2023 polymerase gene, partial cds",5850,,2023,Homo sapiens,"2023000670/Homo sapiens/Mbarara, Uganda/2023",,,,Rift Valley fever virus
+PV849496.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,20-Feb-2023,Homo sapiens,"2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023",,,,Rift Valley fever virus
+PV849495.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 glycoprotein gene, partial cds",3404,,20-Feb-2023,Homo sapiens,"2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023",,,,Rift Valley fever virus
+PV849494.1,"Rift Valley fever virus isolate 2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023 polymerase gene, partial cds",5430,,20-Feb-2023,Homo sapiens,"2023000639/Homo sapiens/Mbarara, Uganda/20-Feb-2023",,,,Rift Valley fever virus
+PV849493.1,"Rift Valley fever virus isolate 2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,13-Feb-2023,Homo sapiens,"2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023",,,,Rift Valley fever virus
+PV849492.1,"Rift Valley fever virus isolate 2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023 glycoprotein gene, partial cds",3404,,13-Feb-2023,Homo sapiens,"2023000571/Homo sapiens/Mbarara, Uganda/13-Feb-2023",,,,Rift Valley fever virus
+PV849491.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,,Rift Valley fever virus
+PV849490.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 glycoprotein gene, partial cds",3404,,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,,Rift Valley fever virus
+PV849489.1,"Rift Valley fever virus isolate 2023000532/Homo sapiens/Isingiro, Uganda/2023 polymerase gene, partial cds",5850,,2023,Homo sapiens,"2023000532/Homo sapiens/Isingiro, Uganda/2023",,,,Rift Valley fever virus
+PV849488.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 nonstructural protein and nucleocapsid protein genes, partial cds",1275,,04-Feb-2023,Homo sapiens,"2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023",,,,Rift Valley fever virus
+PV849487.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 glycoprotein gene, partial cds",3404,,04-Feb-2023,Homo sapiens,"2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023",,,,Rift Valley fever virus
+PV849486.1,"Rift Valley fever virus isolate 2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023 polymerase gene, partial cds",5135,,04-Feb-2023,Homo sapiens,"2023000445/Homo sapiens/Mbarara city, Uganda/04-Feb-2023",,,,Rift Valley fever virus
+PV849485.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1589,,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849484.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 glycoprotein gene, partial cds",3762,,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849483.1,"Rift Valley fever virus isolate 2023000304/Homo sapiens/Rubanda, Uganda/2023 polymerase gene, partial cds",6239,,2023,Homo sapiens,"2023000304/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849482.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1581,,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849481.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 glycoprotein gene, partial cds",3807,,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849480.1,"Rift Valley fever virus isolate 2023000301/Homo sapiens/Rubanda, Uganda/2023 polymerase gene, partial cds",6305,,2023,Homo sapiens,"2023000301/Homo sapiens/Rubanda, Uganda/2023",,,,Rift Valley fever virus
+PV849479.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 nonstructural protein and nucleocapsid protein genes, partial cds",1553,,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,,Rift Valley fever virus
+PV849478.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 glycoprotein gene, partial cds",3404,,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,,Rift Valley fever virus
+PV849477.1,"Rift Valley fever virus isolate 2023000300/Homo sapiens/Kabale, Uganda/2023 RNA-dependent RNA polymerase gene, partial cds",5850,,2023,Homo sapiens,"2023000300/Homo sapiens/Kabale, Uganda/2023",,,,Rift Valley fever virus
+PP746471.1,"Rift Valley fever virus strain JU-KB nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1665,,11-Jan-2007,Homo sapiens,,JU-KB,S,,Rift Valley fever virus
+PP746470.1,"Rift Valley fever virus strain JU-KB glycoprotein gene, complete cds",3862,,11-Jan-2007,Homo sapiens,,JU-KB,M,,Rift Valley fever virus
+PP746469.1,"Rift Valley fever virus strain JU-KB polymerase gene, complete cds",6381,,11-Jan-2007,Homo sapiens,,JU-KB,L,,Rift Valley fever virus
+PP746468.1,"Rift Valley fever virus strain SWA-ISI nonstructural protein and nucleocapsid genes, complete cds",1689,,01-Nov-2020,Homo sapiens,,SWA-ISI,S,,Rift Valley fever virus
+PP746467.1,"Rift Valley fever virus strain NA-KOL nonstructural protein and nucleocapsid genes, complete cds",1689,,03-Jan-2007,Homo sapiens,,NA-KOL,S,,Rift Valley fever virus
+PP746466.1,"Rift Valley fever virus strain N12 nonstructural protein and nucleocapsid genes, complete cds",1677,,01-Feb-2019,Homo sapiens,,N12,S,,Rift Valley fever virus
+PP746465.1,"Rift Valley fever virus strain MSA nonstructural protein and nucleocapsid genes, complete cds",1689,,01-Jan-2007,Homo sapiens,,MSA,S,,Rift Valley fever virus
+PP746464.1,"Rift Valley fever virus strain MO-LE nonstructural protein and nucleocapsid genes, complete cds",1689,,01-Jan-2007,Homo sapiens,,MO-LE,S,,Rift Valley fever virus
+PP746463.1,"Rift Valley fever virus strain HA-HAR nonstructural protein and nucleocapsid genes, complete cds",1661,,01-Jan-2007,Homo sapiens,,HA-HAR,S,,Rift Valley fever virus
+PP746462.1,"Rift Valley fever virus strain E358 nonstructural protein and nucleocapsid genes, complete cds",1689,,10-Feb-1998,Homo sapiens,,E358,S,,Rift Valley fever virus
+PP746461.1,"Rift Valley fever virus strain A-MO nonstructural protein and nucleocapsid genes, complete cds",1684,,01-Nov-2020,Homo sapiens,,A-MO,S,,Rift Valley fever virus
+PP746460.1,"Rift Valley fever virus strain SWA-ISI glycoprotein gene, complete cds",3873,,01-Nov-2020,Homo sapiens,,SWA-ISI,M,,Rift Valley fever virus
+PP746459.1,"Rift Valley fever virus strain NA-KOL glycoprotein gene, complete cds",3885,,03-Jan-2007,Homo sapiens,,NA-KOL,M,,Rift Valley fever virus
+PP746458.1,"Rift Valley fever virus strain N12 glycoprotein gene, complete cds",3869,,01-Feb-2019,Homo sapiens,,N12,M,,Rift Valley fever virus
+PP746457.1,"Rift Valley fever virus strain MSA glycoprotein gene, complete cds",3875,,01-Jan-2007,Homo sapiens,,MSA,M,,Rift Valley fever virus
+PP746456.1,"Rift Valley fever virus strain MO-LE glycoprotein gene, complete cds",3877,,01-Jan-2007,Homo sapiens,,MO-LE,M,,Rift Valley fever virus
+PP746455.1,"Rift Valley fever virus strain HA-HAR glycoprotein gene, complete cds",3859,,01-Jan-2007,Homo sapiens,,HA-HAR,M,,Rift Valley fever virus
+PP746454.1,"Rift Valley fever virus strain E358 glycoprotein gene, complete cds",3879,,10-Feb-1998,Homo sapiens,,E358,M,,Rift Valley fever virus
+PP746453.1,"Rift Valley fever virus strain A-MO glycoprotein gene, complete cds",3875,,01-Nov-2020,Homo sapiens,,A-MO,M,,Rift Valley fever virus
+PP746452.1,"Rift Valley fever virus strain SWA-ISI polymerase gene, complete cds",6396,,01-Nov-2020,Homo sapiens,,SWA-ISI,L,,Rift Valley fever virus
+PP746451.1,"Rift Valley fever virus strain NA-KOL polymerase gene, complete cds",6401,,03-Jan-2007,Homo sapiens,,NA-KOL,L,,Rift Valley fever virus
+PP746450.1,"Rift Valley fever virus strain N12 polymerase gene, complete cds",6391,,01-Feb-2019,Homo sapiens,,N12,L,,Rift Valley fever virus
+PP746449.1,"Rift Valley fever virus strain MSA polymerase gene, complete cds",6388,,01-Jan-2007,Homo sapiens,,MSA,L,,Rift Valley fever virus
+PP746448.1,"Rift Valley fever virus strain MO-LE polymerase gene, complete cds",6387,,01-Jan-2007,Homo sapiens,,MO-LE,L,,Rift Valley fever virus
+PP746447.1,"Rift Valley fever virus strain HA-HAR polymerase gene, complete cds",6373,,01-Jan-2007,Homo sapiens,,HA-HAR,L,,Rift Valley fever virus
+PP746446.1,"Rift Valley fever virus strain E358 polymerase gene, complete cds",6399,,10-Feb-1998,Homo sapiens,,E358,L,,Rift Valley fever virus
+PP746445.1,"Rift Valley fever virus strain A-MO polymerase gene, complete cds",6391,,01-Nov-2020,Homo sapiens,,A-MO,L,,Rift Valley fever virus
+PP746444.1,"Rift Valley fever virus strain KEM-ND nonstructural protein and nucleocapsid genes, complete cds",1662,,01-Jan-2007,Homo sapiens,,KEM-ND,S,,Rift Valley fever virus
+PP746443.1,"Rift Valley fever virus strain KEM-JC nonstructural protein and nucleocapsid genes, complete cds",1663,,01-Jan-2007,Homo sapiens,,KEM-JC,S,,Rift Valley fever virus
+PP746442.1,"Rift Valley fever virus strain KEM-BR nonstructural protein and nucleocapsid genes, complete cds",1636,,03-Jan-2007,Homo sapiens,,KEM-BR,S,,Rift Valley fever virus
+PP746441.1,"Rift Valley fever virus strain KEM-ND glycoprotein gene, partial cds",3840,,01-Jan-2007,Homo sapiens,,KEM-ND,M,,Rift Valley fever virus
+PP746440.1,"Rift Valley fever virus strain KEM-JC glycoprotein gene, partial cds",3840,,01-Jan-2007,Homo sapiens,,KEM-JC,M,,Rift Valley fever virus
+PP746439.1,"Rift Valley fever virus strain KEM-BR glycoprotein gene, partial cds",3840,,03-Jan-2007,Homo sapiens,,KEM-BR,M,,Rift Valley fever virus
+PP746438.1,"Rift Valley fever virus strain KEM-ND polymerase gene, partial cds",6232,,01-Jan-2007,Homo sapiens,,KEM-ND,L,,Rift Valley fever virus
+PP746437.1,"Rift Valley fever virus strain KEM-JC polymerase gene, partial cds",6268,,01-Jan-2007,Homo sapiens,,KEM-JC,L,,Rift Valley fever virus
+PP746436.1,"Rift Valley fever virus strain KEM-BR polymerase gene, partial cds",6232,,03-Jan-2007,Homo sapiens,,KEM-BR,L,,Rift Valley fever virus
+PP746435.1,"Rift Valley fever virus strain J9 nonstructural protein and nucleocapsid genes, complete cds",1667,,11-Jan-2007,Homo sapiens,,J9,S,,Rift Valley fever virus
+PP746434.1,"Rift Valley fever virus strain J8 nonstructural protein and nucleocapsid genes, complete cds",1658,,01-Jan-2007,Homo sapiens,,J8,S,,Rift Valley fever virus
+PP746433.1,"Rift Valley fever virus strain J10 nonstructural protein and nucleocapsid genes, complete cds",1658,,01-Jan-2007,Homo sapiens,,J10,S,,Rift Valley fever virus
+PP746432.1,"Rift Valley fever virus strain CML3 nonstructural protein and nucleocapsid genes, complete cds",1662,,27-Jun-2018,Bos taurus,,CML3,S,,Rift Valley fever virus
+PP746431.1,"Rift Valley fever virus strain J9 glycoprotein gene, partial cds",3840,,11-Jan-2007,Homo sapiens,,J9,M,,Rift Valley fever virus
+PP746430.1,"Rift Valley fever virus strain J8 glycoprotein gene, partial cds",3840,,01-Jan-2007,Homo sapiens,,J8,M,,Rift Valley fever virus
+PP746429.1,"Rift Valley fever virus strain J10 glycoprotein gene, partial cds",3840,,01-Jan-2007,Homo sapiens,,J10,M,,Rift Valley fever virus
+PP746428.1,"Rift Valley fever virus strain CML3 glycoprotein gene, partial cds",3840,,27-Jun-2018,Bos taurus,,CML3,M,,Rift Valley fever virus
+PP746427.1,"Rift Valley fever virus strain J9 polymerase gene, partial cds",6277,,11-Jan-2007,Homo sapiens,,J9,L,,Rift Valley fever virus
+PP746426.1,"Rift Valley fever virus strain J8 polymerase gene, partial cds",6251,,01-Jan-2007,Homo sapiens,,J8,L,,Rift Valley fever virus
+PP746425.1,"Rift Valley fever virus strain J10 polymerase gene, partial cds",6232,,01-Jan-2007,Homo sapiens,,J10,L,,Rift Valley fever virus
+PP746424.1,"Rift Valley fever virus strain CML3 polymerase gene, partial cds",6331,,27-Jun-2018,Bos taurus,,CML3,L,,Rift Valley fever virus
+PP746423.1,"Rift Valley fever virus strain K2 nonstructural protein and nucleocapsid genes, complete cds",1673,,01-Jan-2007,Homo sapiens,,K2,S,,Rift Valley fever virus
+PP746422.1,"Rift Valley fever virus strain 500618 nonstructural protein and nucleocapsid genes, complete cds",1663,,12-Jun-2018,Homo sapiens,,500618,S,,Rift Valley fever virus
+PP746421.1,"Rift Valley fever virus strain 250618 nonstructural protein and nucleocapsid genes, complete cds",1670,,06-Jun-2018,Homo sapiens,,250618,S,,Rift Valley fever virus
+PP746420.1,"Rift Valley fever virus strain K2 glycoprotein gene, complete cds",3874,,01-Jan-2007,Homo sapiens,,K2,M,,Rift Valley fever virus
+PP746419.1,"Rift Valley fever virus strain 500618 glycoprotein gene, complete cds",3863,,12-Jun-2018,Homo sapiens,,500618,M,,Rift Valley fever virus
+PP746418.1,"Rift Valley fever virus strain 250618 glycoprotein gene, complete cds",3875,,06-Jun-2018,Homo sapiens,,250618,M,,Rift Valley fever virus
+PP746417.1,"Rift Valley fever virus strain K2 polymerase gene, complete cds",6386,,01-Jan-2007,Homo sapiens,,K2,L,,Rift Valley fever virus
+PP746416.1,"Rift Valley fever virus strain 500618 polymerase gene, complete cds",6384,,12-Jun-2018,Homo sapiens,,500618,L,,Rift Valley fever virus
+PP746415.1,"Rift Valley fever virus strain 250618 polymerase gene, complete cds",6385,,06-Jun-2018,Homo sapiens,,250618,L,,Rift Valley fever virus
+PQ753155.1,"Rift Valley fever virus strain RW627 glycoprotein gene, partial cds",551,,17-May-2022,Culex quinquefasciatus,,RW627,M,whole body,Rift Valley fever virus
+PQ753154.1,"Rift Valley fever virus strain RW089 glycoprotein gene, partial cds",551,,26-May-2022,Culex quinquefasciatus,,RW089,M,whole body,Rift Valley fever virus
+PQ753153.1,"Rift Valley fever virus strain RW006 glycoprotein gene, partial cds",551,,04-May-2022,Anopheles gambiae s.l.,,RW006,M,whole body,Rift Valley fever virus
+PQ753152.1,"Rift Valley fever virus strain RW004 glycoprotein gene, partial cds",551,,27-Apr-2022,Anopheles ziemanni,,RW004,M,whole body,Rift Valley fever virus
+PQ753151.1,"Rift Valley fever virus strain RW003 glycoprotein gene, partial cds",551,,26-Apr-2022,Anopheles ziemanni,,RW003,M,whole body,Rift Valley fever virus
+PQ753150.1,"Rift Valley fever virus strain RW627 RNA-dependent RNA polymerase gene, partial cds",494,,17-May-2022,Culex quinquefasciatus,,RW627,L,whole body,Rift Valley fever virus
+PQ753149.1,"Rift Valley fever virus strain RW089 RNA-dependent RNA polymerase gene, partial cds",494,,26-May-2022,Culex quinquefasciatus,,RW089,L,whole body,Rift Valley fever virus
+PQ753148.1,"Rift Valley fever virus strain RW006 RNA-dependent RNA polymerase gene, partial cds",494,,04-May-2022,Anopheles gambiae s.l.,,RW006,L,whole body,Rift Valley fever virus
+PQ753147.1,"Rift Valley fever virus strain RW004 RNA-dependent RNA polymerase gene, partial cds",494,,27-Apr-2022,Anopheles ziemanni,,RW004,L,whole body,Rift Valley fever virus
+PQ753146.1,"Rift Valley fever virus strain RW003 RNA-dependent RNA polymerase gene, partial cds",494,,26-Apr-2022,Anopheles ziemanni,,RW003,L,whole body,Rift Valley fever virus
+PP747243.1,"Rift Valley fever virus strain Rwanda2018RU1 nonstructural protein and nucleocapsid genes, complete cds",1636,,01-Jan-2018,Bos taurus,,Rwanda2018RU1,S,,Rift Valley fever virus
+PP747242.1,"Rift Valley fever virus strain Rwanda2018RU1-SE nonstructural protein and nucleocapsid genes, complete cds",1614,,01-Jan-2018,Bos taurus,,Rwanda2018RU1-SE,S,,Rift Valley fever virus
+PP747241.1,"Rift Valley fever virus strain Rwanda2018NG10 nonstructural protein and nucleocapsid genes, complete cds",1612,,01-Jan-2018,Bos taurus,,Rwanda2018NG10,S,,Rift Valley fever virus
+PP747240.1,"Rift Valley fever virus strain AM-M1 nonstructural protein and nucleocapsid genes, complete cds",1599,,16-Jan-2021,Bos taurus,,AM-M1,S,,Rift Valley fever virus
+PP747239.1,"Rift Valley fever virus strain 08HAB nonstructural protein and nucleocapsid genes, complete cds",1606,,01-Jan-2018,Bos taurus,,08HAB,S,,Rift Valley fever virus
+PP747238.1,"Rift Valley fever virus strain Rwanda2018RU1 glycoprotein gene, partial cds",3840,,01-Jan-2018,Bos taurus,,Rwanda2018RU1,M,,Rift Valley fever virus
+PP747237.1,"Rift Valley fever virus strain Rwanda2018RU1-SE glycoprotein gene, partial cds",3840,,01-Jan-2018,Bos taurus,,Rwanda2018RU1-SE,M,,Rift Valley fever virus
+PP747236.1,"Rift Valley fever virus strain Rwanda2018NG10 glycoprotein gene, partial cds",3840,,01-Jan-2018,Bos taurus,,Rwanda2018NG10,M,,Rift Valley fever virus
+PP747235.1,"Rift Valley fever virus strain AM-M1 glycoprotein gene, partial cds",3840,,16-Jan-2021,Bos taurus,,AM-M1,M,,Rift Valley fever virus
+PP747234.1,"Rift Valley fever virus strain 08HAB glycoprotein gene, partial cds",3840,,01-Jan-2018,Bos taurus,,08HAB,M,,Rift Valley fever virus
+PP747233.1,"Rift Valley fever virus strain Rwanda2018RU1 polymerase gene, partial cds",6256,,01-Jan-2018,Bos taurus,,Rwanda2018RU1,L,,Rift Valley fever virus
+PP747232.1,"Rift Valley fever virus strain Rwanda2018RU1-SE polymerase gene, partial cds",6232,,01-Jan-2018,Bos taurus,,Rwanda2018RU1-SE,L,,Rift Valley fever virus
+PP747231.1,"Rift Valley fever virus strain Rwanda2018NG10 polymerase gene, partial cds",6277,,01-Jan-2018,Bos taurus,,Rwanda2018NG10,L,,Rift Valley fever virus
+PP747230.1,"Rift Valley fever virus strain AM-M1 polymerase gene, partial cds",6232,,16-Jan-2021,Bos taurus,,AM-M1,L,,Rift Valley fever virus
+PP747229.1,"Rift Valley fever virus strain 08HAB polymerase gene, partial cds",6253,,01-Jan-2018,Bos taurus,,08HAB,L,,Rift Valley fever virus
+PQ436088.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment L polymerase gene, partial cds",5834,,2023-01-30,Homo sapiens,CD532/Isingiro1-2023,,L,,Rift Valley fever virus
+PQ436087.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment L polymerase gene, partial cds",6228,,2023-02-01,Homo sapiens,CD304/Rubanda2-2023,,L,,Rift Valley fever virus
+PQ436086.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment L polymerase gene, partial cds",6308,,2022-04-10,Homo sapiens,CD301/Rubanda1-2022,,L,,Rift Valley fever virus
+PQ436085.1,"Rift Valley fever virus isolate CD300/Kabale1-2022 segment L polymerase gene, partial cds",5850,,2022-03-10,Homo sapiens,CD300/Kabale1-2022,,L,,Rift Valley fever virus
+PQ436084.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment M glycoprotein gene, partial cds",3404,,2023-01-30,Homo sapiens,CD532/Isingiro1-2023,,M,,Rift Valley fever virus
+PQ436083.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment M glycoprotein gene, partial cds",3761,,2023-02-01,Homo sapiens,CD304/Rubanda2-2023,,M,,Rift Valley fever virus
+PQ436082.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment M glycoprotein gene, partial cds",3815,,2022-04-10,Homo sapiens,CD301/Rubanda1-2022,,M,,Rift Valley fever virus
+PQ436081.1,"Rift Valley fever virus isolate CD300/Kabale1-2022 segment M glycoprotein gene, partial cds",3404,,2022-03-10,Homo sapiens,CD300/Kabale1-2022,,M,,Rift Valley fever virus
+PQ436080.1,"Rift Valley fever virus isolate CD532/Isingiro1-2023 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1275,,2023-01-30,Homo sapiens,CD532/Isingiro1-2023,,S,,Rift Valley fever virus
+PQ436079.1,"Rift Valley fever virus isolate CD304/Rubanda2-2023 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1589,,2023-02-01,Homo sapiens,CD304/Rubanda2-2023,,S,,Rift Valley fever virus
+PQ436078.1,"Rift Valley fever virus isolate CD301/Rubanda1-2022 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1581,,2022-04-10,Homo sapiens,CD301/Rubanda1-2022,,S,,Rift Valley fever virus
+PQ436077.1,"UNVERIFIED: Rift Valley fever virus isolate CD300/Kabale1-2022 segment S nonstructural protein-like gene, partial sequence; and nucleocapsid protein gene, partial cds",1580,,2022-03-10,Homo sapiens,CD300/Kabale1-2022,,S,,Rift Valley fever virus
+PP746414.1,"Rift Valley fever virus strain Rwanda2022P99 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-07-29,Bos taurus,,Rwanda2022P99,S,,Rift Valley fever virus
+PP746413.1,"Rift Valley fever virus strain Rwanda2022P91 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-09-07,Bos taurus,,Rwanda2022P91,S,,Rift Valley fever virus
+PP746412.1,"Rift Valley fever virus strain Rwanda2022P90 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-09-07,Bos taurus,,Rwanda2022P90,S,,Rift Valley fever virus
+PP746411.1,"Rift Valley fever virus strain Rwanda2022P86 nonstructural protein and nucleocapsid genes, complete cds",1636,,2022-06-28,Bos taurus,,Rwanda2022P86,S,,Rift Valley fever virus
+PP746410.1,"Rift Valley fever virus strain Rwanda2022P80 nonstructural protein and nucleocapsid genes, complete cds",1657,,2022-06-28,Bos taurus,,Rwanda2022P80,S,,Rift Valley fever virus
+PP746409.1,"Rift Valley fever virus strain Rwanda2022P76 nonstructural protein and nucleocapsid genes, complete cds",1636,,2022-06-27,Bos taurus,,Rwanda2022P76,S,,Rift Valley fever virus
+PP746408.1,"Rift Valley fever virus strain Rwanda2022P73 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-03-07,Ovis aries,,Rwanda2022P73,S,,Rift Valley fever virus
+PP746407.1,"Rift Valley fever virus strain Rwanda2022P71 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-06-14,Bos taurus,,Rwanda2022P71,S,,Rift Valley fever virus
+PP746406.1,"Rift Valley fever virus strain Rwanda2022P7 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-09-06,Bos taurus,,Rwanda2022P7,S,,Rift Valley fever virus
+PP746405.1,"Rift Valley fever virus strain Rwanda2022P69 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-06-13,Bos taurus,,Rwanda2022P69,S,,Rift Valley fever virus
+PP746404.1,"Rift Valley fever virus strain Rwanda2022P66 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-06-22,Bos taurus,,Rwanda2022P66,S,,Rift Valley fever virus
+PP746403.1,"Rift Valley fever virus strain Rwanda2022P61 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-06-22,Bos taurus,,Rwanda2022P61,S,,Rift Valley fever virus
+PP746402.1,"Rift Valley fever virus strain Rwanda2022P55 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-12-06,Bos taurus,,Rwanda2022P55,S,,Rift Valley fever virus
+PP746401.1,"Rift Valley fever virus strain Rwanda2022P5 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-03-06,Bos taurus,,Rwanda2022P5,S,,Rift Valley fever virus
+PP746400.1,"Rift Valley fever virus strain Rwanda2022P47 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-09-06,Bos taurus,,Rwanda2022P47,S,,Rift Valley fever virus
+PP746399.1,"Rift Valley fever virus strain Rwanda2022P45 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-06-17,Bos taurus,,Rwanda2022P45,S,,Rift Valley fever virus
+PP746398.1,"Rift Valley fever virus strain Rwanda2022P40 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-03-07,Bos taurus,,Rwanda2022P40,S,,Rift Valley fever virus
+PP746397.1,"Rift Valley fever virus strain Rwanda2022P4 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-07-06,Bos taurus,,Rwanda2022P4,S,,Rift Valley fever virus
+PP746396.1,"Rift Valley fever virus strain Rwanda2022P36 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-06-25,Bos taurus,,Rwanda2022P36,S,,Rift Valley fever virus
+PP746395.1,"Rift Valley fever virus strain Rwanda2022P35 nonstructural protein and nucleocapsid genes, complete cds",1677,,2022-06-17,Bos taurus,,Rwanda2022P35,S,,Rift Valley fever virus
+PP746394.1,"Rift Valley fever virus strain Rwanda2022P33 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-06-25,Bos taurus,,Rwanda2022P33,S,,Rift Valley fever virus
+PP746393.1,"Rift Valley fever virus strain Rwanda2022P319 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,2022-08-25,Bos taurus,,Rwanda2022P319,S,,Rift Valley fever virus
+PP746392.1,"Rift Valley fever virus strain Rwanda2022P31 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1635,,2022-06-17,Bos taurus,,Rwanda2022P31,S,,Rift Valley fever virus
+PP746391.1,"Rift Valley fever virus strain Rwanda2022P302 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-04-06,Bos taurus,,Rwanda2022P302,S,,Rift Valley fever virus
+PP746390.1,"Rift Valley fever virus strain Rwanda2022P26 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,2022-11-06,Bos taurus,,Rwanda2022P26,S,,Rift Valley fever virus
+PP746389.1,"Rift Valley fever virus strain Rwanda2022P23 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-06-13,Bos taurus,,Rwanda2022P23,S,,Rift Valley fever virus
+PP746388.1,"Rift Valley fever virus strain Rwanda2022P2 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-07-06,Bos taurus,,Rwanda2022P2,S,,Rift Valley fever virus
+PP746387.1,"Rift Valley fever virus strain Rwanda2022P13 nonstructural protein and nucleocapsid genes, complete cds",1629,,2022-08-06,Bos taurus,,Rwanda2022P13,S,,Rift Valley fever virus
+PP746386.1,"Rift Valley fever virus strain Rwanda2022P116 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-01-07,Bos taurus,,Rwanda2022P116,S,,Rift Valley fever virus
+PP746385.1,"Rift Valley fever virus strain Rwanda2022P110 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,2022-12-09,Bos taurus,,Rwanda2022P110,S,,Rift Valley fever virus
+PP746384.1,"Rift Valley fever virus strain Rwanda2022P11 nonstructural protein and nucleocapsid genes, complete cds",1665,,2022-09-06,Bos taurus,,Rwanda2022P11,S,,Rift Valley fever virus
+PP746383.1,"Rift Valley fever virus strain Rwanda2022P104 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-08-08,Bos taurus,,Rwanda2022P104,S,,Rift Valley fever virus
+PP746382.1,"Rift Valley fever virus strain Rwanda2022P103 nonstructural protein and nucleocapsid genes, complete cds",1658,,2022-08-08,Bos taurus,,Rwanda2022P103,S,,Rift Valley fever virus
+PP746381.1,"Rift Valley fever virus strain Rwanda2022P102 nonstructural protein and nucleocapsid genes, complete cds",1636,,2022-05-08,Bos taurus,,Rwanda2022P102,S,,Rift Valley fever virus
+PP746380.1,"Rift Valley fever virus strain Rwanda2022P100 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,2022-07-31,Bos taurus,,Rwanda2022P100,S,,Rift Valley fever virus
+PP746379.1,"Rift Valley fever virus strain Rwanda2022P1 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,2022-01-06,Bos taurus,,Rwanda2022P1,S,,Rift Valley fever virus
+PP746378.1,"Rift Valley fever virus strain Rwanda2022P99 glycoprotein gene, partial cds",3513,,2022-07-29,Bos taurus,,Rwanda2022P99,M,,Rift Valley fever virus
+PP746377.1,"Rift Valley fever virus strain Rwanda2022P91 glycoprotein gene, partial cds",3513,,2022-07-09,Bos taurus,,Rwanda2022P91,M,,Rift Valley fever virus
+PP746376.1,"Rift Valley fever virus strain Rwanda2022P90 glycoprotein gene, partial cds",3531,,2022-07-09,Bos taurus,,Rwanda2022P90,M,,Rift Valley fever virus
+PP746375.1,"Rift Valley fever virus strain Rwanda2022P86 glycoprotein gene, partial cds",3797,,2022-06-28,Bos taurus,,Rwanda2022P86,M,,Rift Valley fever virus
+PP746374.1,"Rift Valley fever virus strain Rwanda2022P85 glycoprotein gene, partial cds",3513,,2022-06-28,Bos taurus,,Rwanda2022P85,M,,Rift Valley fever virus
+PP746373.1,"Rift Valley fever virus strain Rwanda2022P80 glycoprotein gene, partial cds",3829,,2022-06-28,Bos taurus,,Rwanda2022P80,M,,Rift Valley fever virus
+PP746372.1,"Rift Valley fever virus strain Rwanda2022P76 glycoprotein gene, partial cds",3858,,2022-06-27,Bos taurus,,Rwanda2022P76,M,,Rift Valley fever virus
+PP746371.1,"Rift Valley fever virus strain Rwanda2022P73 glycoprotein gene, partial cds",3561,,2022-07-03,Ovis aries,,Rwanda2022P73,M,,Rift Valley fever virus
+PP746370.1,"Rift Valley fever virus strain Rwanda2022P71 glycoprotein gene, partial cds",3513,,2022-06-14,Bos taurus,,Rwanda2022P71,M,,Rift Valley fever virus
+PP746369.1,"Rift Valley fever virus strain Rwanda2022P7 glycoprotein gene, partial cds",3529,,2022-06-09,Bos taurus,,Rwanda2022P7,M,,Rift Valley fever virus
+PP746368.1,"Rift Valley fever virus strain Rwanda2022P69 glycoprotein gene, partial cds",3513,,2022-06-13,Bos taurus,,Rwanda2022P69,M,,Rift Valley fever virus
+PP746367.1,"Rift Valley fever virus strain Rwanda2022P67 glycoprotein gene, partial cds",3596,,2022-06-18,Bos taurus,,Rwanda2022P67,M,,Rift Valley fever virus
+PP746366.1,"Rift Valley fever virus strain Rwanda2022P66 glycoprotein gene, partial cds",3840,,2022-06-22,Bos taurus,,Rwanda2022P66,M,,Rift Valley fever virus
+PP746365.1,"Rift Valley fever virus strain Rwanda2022P61 glycoprotein gene, partial cds",3571,,2022-06-22,Bos taurus,,Rwanda2022P61,M,,Rift Valley fever virus
+PP746364.1,"Rift Valley fever virus strain Rwanda2022P55 glycoprotein gene, partial cds",3568,,2022-06-12,Bos taurus,,Rwanda2022P55,M,,Rift Valley fever virus
+PP746363.1,"Rift Valley fever virus strain Rwanda2022P5 glycoprotein gene, partial cds",3513,,2022-06-03,Bos taurus,,Rwanda2022P5,M,,Rift Valley fever virus
+PP746362.1,"Rift Valley fever virus strain Rwanda2022P47 glycoprotein gene, partial cds",3840,,2022-06-09,Bos taurus,,Rwanda2022P47,M,,Rift Valley fever virus
+PP746361.1,"Rift Valley fever virus strain Rwanda2022P45 glycoprotein gene, partial cds",3731,,2022-06-17,Bos taurus,,Rwanda2022P45,M,,Rift Valley fever virus
+PP746360.1,"Rift Valley fever virus strain Rwanda2022P40 glycoprotein gene, partial cds",3558,,2022-07-03,Bos taurus,,Rwanda2022P40,M,,Rift Valley fever virus
+PP746359.1,"Rift Valley fever virus strain Rwanda2022P4 glycoprotein gene, partial cds",3513,,2022-06-07,Bos taurus,,Rwanda2022P4,M,,Rift Valley fever virus
+PP746358.1,"Rift Valley fever virus strain Rwanda2022P35 glycoprotein gene, partial cds",3840,,2022-06-17,Bos taurus,,Rwanda2022P35,M,,Rift Valley fever virus
+PP746357.1,"Rift Valley fever virus strain Rwanda2022P33 glycoprotein gene, partial cds",3513,,2022-06-25,Bos taurus,,Rwanda2022P33,M,,Rift Valley fever virus
+PP746356.1,"Rift Valley fever virus strain Rwanda2022P326 glycoprotein gene, partial cds",3587,,2022-09-28,Bos taurus,,Rwanda2022P326,M,,Rift Valley fever virus
+PP746355.1,"Rift Valley fever virus strain Rwanda2022P319 glycoprotein gene, partial cds",3796,,2022-08-25,Bos taurus,,Rwanda2022P319,M,,Rift Valley fever virus
+PP746354.1,"Rift Valley fever virus strain Rwanda2022P302 glycoprotein gene, partial cds",3541,,2022-06-04,Bos taurus,,Rwanda2022P302,M,,Rift Valley fever virus
+PP746353.1,"Rift Valley fever virus strain Rwanda2022P26 glycoprotein gene, partial cds",3561,,2022-06-11,Bos taurus,,Rwanda2022P26,M,,Rift Valley fever virus
+PP746352.1,"Rift Valley fever virus strain Rwanda2022P23 glycoprotein gene, partial cds",3847,,2022-06-13,Bos taurus,,Rwanda2022P23,M,,Rift Valley fever virus
+PP746351.1,"Rift Valley fever virus strain Rwanda2022P2 glycoprotein gene, partial cds",3517,,2022-06-07,Bos taurus,,Rwanda2022P2,M,,Rift Valley fever virus
+PP746350.1,"Rift Valley fever virus strain Rwanda2022P13 glycoprotein gene, partial cds",3774,,2022-06-08,Bos taurus,,Rwanda2022P13,M,,Rift Valley fever virus
+PP746349.1,"Rift Valley fever virus strain Rwanda2022P116 glycoprotein gene, partial cds",3587,,2022-07-01,Bos taurus,,Rwanda2022P116,M,,Rift Valley fever virus
+PP746348.1,"Rift Valley fever virus strain Rwanda2022P110 glycoprotein gene, partial cds",3567,,2022-09-12,Bos taurus,,Rwanda2022P110,M,,Rift Valley fever virus
+PP746347.1,"Rift Valley fever virus strain Rwanda2022P11 glycoprotein gene, partial cds",3606,,2022-06-09,Bos taurus,,Rwanda2022P11,M,,Rift Valley fever virus
+PP746346.1,"Rift Valley fever virus strain Rwanda2022P104 glycoprotein gene, partial cds",3570,,2022-08-08,Bos taurus,,Rwanda2022P104,M,,Rift Valley fever virus
+PP746345.1,"Rift Valley fever virus strain Rwanda2022P103 glycoprotein gene, partial cds",3541,,2022-08-08,Bos taurus,,Rwanda2022P103,M,,Rift Valley fever virus
+PP746344.1,"Rift Valley fever virus strain Rwanda2022P102 glycoprotein gene, partial cds",3534,,2022-08-05,Bos taurus,,Rwanda2022P102,M,,Rift Valley fever virus
+PP746343.1,"Rift Valley fever virus strain Rwanda2022P100 glycoprotein gene, partial cds",3561,,2022-07-31,Bos taurus,,Rwanda2022P100,M,,Rift Valley fever virus
+PP746342.1,"Rift Valley fever virus strain Rwanda2022P1 glycoprotein gene, partial cds",3513,,2022-06-01,Bos taurus,,Rwanda2022P1,M,,Rift Valley fever virus
+PP746341.1,"Rift Valley fever virus strain Rwanda2022P99 polymerase gene, partial cds",5924,,2022-07-29,Bos taurus,,Rwanda2022P99,L,,Rift Valley fever virus
+PP746340.1,"Rift Valley fever virus strain Rwanda2022P91 polymerase gene, partial cds",5924,,2022-07-09,Bos taurus,,Rwanda2022P91,L,,Rift Valley fever virus
+PP746339.1,"Rift Valley fever virus strain Rwanda2022P90 polymerase gene, partial cds",5924,,2022-07-09,Bos taurus,,Rwanda2022P90,L,,Rift Valley fever virus
+PP746338.1,"Rift Valley fever virus strain Rwanda2022P86 polymerase gene, partial cds",5924,,2022-06-28,Bos taurus,,Rwanda2022P86,L,,Rift Valley fever virus
+PP746337.1,"Rift Valley fever virus strain Rwanda2022P80 polymerase gene, partial cds",6247,,2022-06-28,Bos taurus,,Rwanda2022P80,L,,Rift Valley fever virus
+PP746336.1,"Rift Valley fever virus strain Rwanda2022P76 polymerase gene, partial cds",6223,,2022-06-27,Bos taurus,,Rwanda2022P76,L,,Rift Valley fever virus
+PP746335.1,"Rift Valley fever virus strain Rwanda2022P73 polymerase gene, partial cds",6106,,2022-07-03,Ovis aries,,Rwanda2022P73,L,,Rift Valley fever virus
+PP746334.1,"Rift Valley fever virus strain Rwanda2022P7 polymerase gene, partial cds",5924,,2022-06-09,Bos taurus,,Rwanda2022P7,L,,Rift Valley fever virus
+PP746333.1,"Rift Valley fever virus strain Rwanda2022P69 polymerase gene, partial cds",5924,,2022-06-13,Bos taurus,,Rwanda2022P69,L,,Rift Valley fever virus
+PP746332.1,"Rift Valley fever virus strain Rwanda2022P68 polymerase gene, partial cds",6243,,2022-06-18,Bos taurus,,Rwanda2022P68,L,,Rift Valley fever virus
+PP746331.1,"Rift Valley fever virus strain Rwanda2022P67 polymerase gene, partial cds",6221,,2022-06-18,Bos taurus,,Rwanda2022P67,L,,Rift Valley fever virus
+PP746330.1,"Rift Valley fever virus strain Rwanda2022P66 polymerase gene, partial cds",5924,,2022-06-22,Bos taurus,,Rwanda2022P66,L,,Rift Valley fever virus
+PP746329.1,"Rift Valley fever virus strain Rwanda2022P61 polymerase gene, partial cds",5936,,2022-06-22,Bos taurus,,Rwanda2022P61,L,,Rift Valley fever virus
+PP746328.1,"Rift Valley fever virus strain Rwanda2022P55 polymerase gene, partial cds",6222,,2022-06-12,Bos taurus,,Rwanda2022P55,L,,Rift Valley fever virus
+PP746327.1,"Rift Valley fever virus strain Rwanda2022P5 polymerase gene, partial cds",5924,,2022-06-03,Bos taurus,,Rwanda2022P5,L,,Rift Valley fever virus
+PP746326.1,"Rift Valley fever virus strain Rwanda2022P47 polymerase gene, partial cds",6234,,2022-06-09,Bos taurus,,Rwanda2022P47,L,,Rift Valley fever virus
+PP746325.1,"Rift Valley fever virus strain Rwanda2022P45 polymerase gene, partial cds",5936,,2022-06-17,Bos taurus,,Rwanda2022P45,L,,Rift Valley fever virus
+PP746324.1,"Rift Valley fever virus strain Rwanda2022P40 polymerase gene, partial cds",5936,,2022-07-03,Bos taurus,,Rwanda2022P40,L,,Rift Valley fever virus
+PP746323.1,"Rift Valley fever virus strain Rwanda2022P4 polymerase gene, partial cds",5924,,2022-06-07,Bos taurus,,Rwanda2022P4,L,,Rift Valley fever virus
+PP746322.1,"Rift Valley fever virus strain Rwanda2022P35 polymerase gene, partial cds",6232,,2022-06-17,Bos taurus,,Rwanda2022P35,L,,Rift Valley fever virus
+PP746321.1,"Rift Valley fever virus strain Rwanda2022P33 polymerase gene, partial cds",5924,,2022-06-25,Bos taurus,,Rwanda2022P33,L,,Rift Valley fever virus
+PP746320.1,"Rift Valley fever virus strain Rwanda2022P326 polymerase gene, partial cds",6261,,2022-09-28,Bos taurus,,Rwanda2022P326,L,,Rift Valley fever virus
+PP746319.1,"Rift Valley fever virus strain Rwanda2022P323 polymerase gene, partial cds",6232,,2022-09-02,Bos taurus,,Rwanda2022P323,L,,Rift Valley fever virus
+PP746318.1,"Rift Valley fever virus strain Rwanda2022P319 polymerase gene, partial cds",5924,,2022-08-25,Bos taurus,,Rwanda2022P319,L,,Rift Valley fever virus
+PP746317.1,"Rift Valley fever virus strain Rwanda2022P302 polymerase gene, partial cds",5924,,2022-06-04,Bos taurus,,Rwanda2022P302,L,,Rift Valley fever virus
+PP746316.1,"Rift Valley fever virus strain Rwanda2022P26 polymerase gene, partial cds",5924,,2022-06-11,Bos taurus,,Rwanda2022P26,L,,Rift Valley fever virus
+PP746315.1,"Rift Valley fever virus strain Rwanda2022P23 polymerase gene, partial cds",6243,,2022-06-13,Bos taurus,,Rwanda2022P23,L,,Rift Valley fever virus
+PP746314.1,"Rift Valley fever virus strain Rwanda2022P2 polymerase gene, partial cds",5924,,2022-06-07,Bos taurus,,Rwanda2022P2,L,,Rift Valley fever virus
+PP746313.1,"Rift Valley fever virus strain Rwanda2022P13 polymerase gene, partial cds",6165,,2022-06-08,Bos taurus,,Rwanda2022P13,L,,Rift Valley fever virus
+PP746312.1,"Rift Valley fever virus strain Rwanda2022P120 polymerase gene, partial cds",5937,,2022-07-08,Ovis aries,,Rwanda2022P120,L,,Rift Valley fever virus
+PP746311.1,"Rift Valley fever virus strain Rwanda2022P116 polymerase gene, partial cds",5936,,2022-07-01,Bos taurus,,Rwanda2022P116,L,,Rift Valley fever virus
+PP746310.1,"Rift Valley fever virus strain Rwanda2022P110 polymerase gene, partial cds",5924,,2022-09-12,Bos taurus,,Rwanda2022P110,L,,Rift Valley fever virus
+PP746309.1,"Rift Valley fever virus strain Rwanda2022P11 polymerase gene, partial cds",5924,,2022-06-09,Bos taurus,,Rwanda2022P11,L,,Rift Valley fever virus
+PP746308.1,"Rift Valley fever virus strain Rwanda2022P104 polymerase gene, partial cds",5924,,2022-08-08,Bos taurus,,Rwanda2022P104,L,,Rift Valley fever virus
+PP746307.1,"Rift Valley fever virus strain Rwanda2022P103 polymerase gene, partial cds",5924,,2022-08-08,Bos taurus,,Rwanda2022P103,L,,Rift Valley fever virus
+PP746306.1,"Rift Valley fever virus strain Rwanda2022P102 polymerase gene, partial cds",5924,,2022-08-05,Bos taurus,,Rwanda2022P102,L,,Rift Valley fever virus
+PP746305.1,"Rift Valley fever virus strain Rwanda2022P100 polymerase gene, partial cds",5924,,2022-07-31,Bos taurus,,Rwanda2022P100,L,,Rift Valley fever virus
+PP746304.1,"Rift Valley fever virus strain Rwanda2022P1 polymerase gene, partial cds",6111,,2022-06-01,Bos taurus,,Rwanda2022P1,L,,Rift Valley fever virus
+PP826244.1,"Rift Valley fever virus strain Rwanda2022P326 glycoprotein gene, partial cds",3513,,28-Sep-2022,Bos taurus,,Rwanda2022P326,M,plasma,Rift Valley fever virus
+OR972328.1,"Rift Valley fever virus isolate AFI-MGT-989 segment S, complete sequence",1684,,2018-07-16,Homo sapiens,AFI-MGT-989,,S,plasma,Rift Valley fever virus
+OR972327.1,"Rift Valley fever virus isolate AFI-MGT-989 segment M, complete sequence",3875,,2018-07-16,Homo sapiens,AFI-MGT-989,,M,plasma,Rift Valley fever virus
+OR972326.1,"Rift Valley fever virus isolate AFI-MGT-989 segment L, complete sequence",6397,,2018-07-16,Homo sapiens,AFI-MGT-989,,L,plasma,Rift Valley fever virus
+OR780629.1,"Rift Valley fever virus isolate BDI0008 polymerase gene, partial cds",5924,,19-May-2022,Bos taurus,BDI0008,,L,,Rift Valley fever virus
+OR780628.1,"Rift Valley fever virus isolate BDI0007 polymerase gene, partial cds",5924,,19-May-2022,Bos taurus,BDI0007,,L,,Rift Valley fever virus
+OR780627.1,"Rift Valley fever virus isolate BDI0006 polymerase gene, partial cds",5924,,19-May-2022,Bos taurus,BDI0006,,L,,Rift Valley fever virus
+OR780626.1,"Rift Valley fever virus isolate BDI0003 polymerase gene, partial cds",6232,,17-May-2022,Bos taurus,BDI0003,,L,,Rift Valley fever virus
+OR780625.1,"Rift Valley fever virus isolate BDI0002 polymerase gene, partial cds",5924,,17-May-2022,Bos taurus,BDI0002,,L,,Rift Valley fever virus
+OR780624.1,"Rift Valley fever virus isolate BDI0009 glycoprotein gene, partial cds",3558,,18-May-2022,Bos taurus,BDI0009,,M,,Rift Valley fever virus
+OR780623.1,"Rift Valley fever virus isolate BDI0008 glycoprotein gene, partial cds",3568,,19-May-2022,Bos taurus,BDI0008,,M,,Rift Valley fever virus
+OR780622.1,"Rift Valley fever virus isolate BDI0007 glycoprotein gene, partial cds",3567,,19-May-2022,Bos taurus,BDI0007,,M,,Rift Valley fever virus
+OR780621.1,"Rift Valley fever virus isolate BDI0006 glycoprotein gene, partial cds",3571,,19-May-2022,Bos taurus,BDI0006,,M,,Rift Valley fever virus
+OR780620.1,"Rift Valley fever virus isolate BDI0005 glycoprotein gene, partial cds",3559,,19-May-2022,Bos taurus,BDI0005,,M,,Rift Valley fever virus
+OR780619.1,"Rift Valley fever virus isolate BDI0003 glycoprotein gene, partial cds",3571,,17-May-2022,Bos taurus,BDI0003,,M,,Rift Valley fever virus
+OR780618.1,"Rift Valley fever virus isolate BDI0002 glycoprotein gene, partial cds",3513,,17-May-2022,Bos taurus,BDI0002,,M,,Rift Valley fever virus
+OR780617.1,"Rift Valley fever virus isolate BDI0008 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,19-May-2022,Homo sapiens,BDI0008,,,,Rift Valley fever virus
+OR780616.1,"Rift Valley fever virus isolate BDI0007 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,19-May-2022,Homo sapiens,BDI0007,,,,Rift Valley fever virus
+OR780615.1,"Rift Valley fever virus isolate BDI0006 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1636,,19-May-2022,Homo sapiens,BDI0006,,,,Rift Valley fever virus
+OR780614.1,"Rift Valley fever virus isolate BDI0003 nonstructural protein and nucleocapsid genes, complete cds",1636,,17-May-2022,Homo sapiens,BDI0003,,,,Rift Valley fever virus
+OR780613.1,"Rift Valley fever virus isolate BDI0002 nonstructural protein gene, complete cds; and nucleocapsid gene, partial cds",1658,,17-May-2022,Homo sapiens,BDI0002,,,,Rift Valley fever virus
+OQ440153.1,"Rift Valley fever virus strain Kenya 56 (IB8) nucleocapsid (NP) gene, complete cds",738,,,bovine,,Kenya 56 (IB8),,,Rift Valley fever virus
+OQ440152.1,"Rift Valley fever virus strain Kenya 56 (IB8) nonstructural protein (NSs) gene, complete cds",798,,,bovine,,Kenya 56 (IB8),,,Rift Valley fever virus
+OQ440151.1,"Rift Valley fever virus strain Kenya 56 (IB8) glycoprotein (M) gene, complete cds",3885,,,bovine,,Kenya 56 (IB8),M,,Rift Valley fever virus
+OQ440150.1,"Rift Valley fever virus strain Kenya 56 (IB8) polymerase (L) gene, complete cds",6404,,,bovine,,Kenya 56 (IB8),L,,Rift Valley fever virus
+OQ440145.1,"Rift Valley fever virus strain Lunyo nucleocapsid protein (NP) gene, complete cds",738,,09-Jul-1955,Homo sapiens,,Lunyo,,,Rift Valley fever virus
+OQ440144.1,"Rift Valley fever virus strain Lunyo nonstructural protein (NSs) gene, complete cds",798,,09-Jul-1955,Homo sapiens,,Lunyo,,,Rift Valley fever virus
+OQ440143.1,"Rift Valley fever virus strain Lunyo glycoprotein (gp) gene, complete cds",3885,,09-Jul-1955,Homo sapiens,,Lunyo,,,Rift Valley fever virus
+OQ440142.1,"Rift Valley fever virus strain Lunyo polymerase (L) gene, complete cds",6404,,09-Jul-1955,Homo sapiens,,Lunyo,,,Rift Valley fever virus
+OP146109.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment S, complete sequence",1691,,1944,,Smithburn,RSA/OBP/RVFVSmithburn/LAV,S,,Rift Valley fever virus
+OP146108.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment M, complete sequence",3885,,1944,,Smithburn,RSA/OBP/RVFVSmithburn/LAV,M,,Rift Valley fever virus
+OP146107.1,"Rift Valley fever virus strain RSA/OBP/RVFVSmithburn/LAV isolate Smithburn segment L, complete sequence",6375,,1944,,Smithburn,RSA/OBP/RVFVSmithburn/LAV,L,,Rift Valley fever virus
+ON060837.1,"Rift Valley fever virus isolate 2021001358_M|Uganda glycoprotein gene, partial cds",3839,,,Homo sapiens,2021001358_M|Uganda,,M,,Rift Valley fever virus
+ON060832.1,"Rift Valley fever virus isolate 2020002574_M|Uganda glycoprotein gene, complete cds",3871,,,Homo sapiens,2020002574_M|Uganda,,M,,Rift Valley fever virus
+ON060829.1,"Rift Valley fever virus isolate 2020001195_M|Uganda glycoprotein gene, complete cds",3861,,,Homo sapiens,2020001195_M|Uganda,,M,,Rift Valley fever virus
+ON060826.1,"Rift Valley fever virus isolate 2020000159_M|Uganda glycoprotein gene, partial cds",3592,,,Homo sapiens,2020000159_M|Uganda,,M,,Rift Valley fever virus
+ON060823.1,"Rift Valley fever virus isolate 2020000148_M|Uganda glycoprotein gene, partial cds",3564,,,Homo sapiens,2020000148_M|Uganda,,M,,Rift Valley fever virus
+ON060820.1,"Rift Valley fever virus isolate 201902764_M|Uganda|2018 glycoprotein gene, complete cds",3885,,2018,Homo sapiens,201902764_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060817.1,"Rift Valley fever virus isolate 201902763_M|Uganda|2018 glycoprotein gene, complete cds",3867,,2018,Homo sapiens,201902763_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060814.1,"Rift Valley fever virus isolate 201902760_M|Uganda|2018 glycoprotein gene, complete cds",3867,,2018,Homo sapiens,201902760_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060809.1,"Rift Valley fever virus isolate 201902753_M|Uganda|2018 glycoprotein gene, complete cds",3867,,2018,Homo sapiens,201902753_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060806.1,"Rift Valley fever virus isolate 201902750_M|Uganda|2018 glycoprotein gene, complete cds",3867,,2018,Homo sapiens,201902750_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060803.1,"Rift Valley fever virus isolate 201902747_M|Uganda|2018 glycoprotein gene, complete cds",3849,,2018,Homo sapiens,201902747_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060800.1,"Rift Valley fever virus isolate 201902745_M|Uganda|2018 glycoprotein-like gene, complete sequence",3883,,2018,Homo sapiens,201902745_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060797.1,"Rift Valley fever virus isolate 201902737_M|Uganda|2018 glycoprotein gene, partial cds",3828,,2018,Homo sapiens,201902737_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060794.1,"Rift Valley fever virus isolate 201902736_M|Uganda|2018 glycoprotein gene, partial cds",3833,,2018,Homo sapiens,201902736_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060791.1,"Rift Valley fever virus isolate 201902734_M|Uganda|2018 glycoprotein gene, complete cds",3869,,2018,Homo sapiens,201902734_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060788.1,"Rift Valley fever virus isolate 201902733_M|Uganda|2018 glycoprotein gene, complete cds",3848,,2018,Homo sapiens,201902733_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060785.1,"Rift Valley fever virus isolate 201901671_M|Uganda glycoprotein gene, complete cds",3873,,,Homo sapiens,201901671_M|Uganda,,M,,Rift Valley fever virus
+ON060782.1,"Rift Valley fever virus isolate 201900880_M|Uganda|2018 glycoprotein gene, complete cds",3863,,2018,Homo sapiens,201900880_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060779.1,"Rift Valley fever virus isolate 201900879_M|Uganda|2018 glycoprotein gene, complete cds",3867,,2018,Homo sapiens,201900879_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060776.1,"Rift Valley fever virus isolate 201900877_M|Uganda|2018 glycoprotein gene, complete cds",3872,,2018,Homo sapiens,201900877_M|Uganda|2018,,M,,Rift Valley fever virus
+ON060773.1,"Rift Valley fever virus isolate 2019000825_M|Uganda|2019 glycoprotein gene, complete cds",3876,,2019,Homo sapiens,2019000825_M|Uganda|2019,,M,,Rift Valley fever virus
+ON060836.1,"Rift Valley fever virus isolate 2021001358_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6376,,2017,Homo sapiens,2021001358_L|Uganda,,L,,Rift Valley fever virus
+ON060834.1,"Rift Valley fever virus isolate 2021000843_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6167,,2018,Homo sapiens,2021000843_L|Uganda,,L,,Rift Valley fever virus
+ON060831.1,"Rift Valley fever virus isolate 2020002574_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6392,,2018,Homo sapiens,2020002574_L|Uganda,,L,,Rift Valley fever virus
+ON060828.1,"Rift Valley fever virus isolate 2020001195_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6380,,2018,Homo sapiens,2020001195_L|Uganda,,L,,Rift Valley fever virus
+ON060825.1,"Rift Valley fever virus isolate 2020000159_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6265,,2018,Homo sapiens,2020000159_L|Uganda,,L,,Rift Valley fever virus
+ON060822.1,"Rift Valley fever virus isolate 2020000148_L|Uganda RNA-dependent RNA polymerase gene, partial cds",6222,,2018,Homo sapiens,2020000148_L|Uganda,,L,,Rift Valley fever virus
+ON060819.1,"Rift Valley fever virus isolate 201902764_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,,2018,Homo sapiens,201902764_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060816.1,"Rift Valley fever virus isolate 201902763_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,,2018,Homo sapiens,201902763_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060813.1,"Rift Valley fever virus isolate 201902760_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,,2018,Homo sapiens,201902760_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060811.1,"Rift Valley fever virus isolate 201902754_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6380,,2018,Homo sapiens,201902754_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060808.1,"Rift Valley fever virus isolate 201902753_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6387,,2018,Homo sapiens,201902753_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060805.1,"Rift Valley fever virus isolate 201902750_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,,2018,Homo sapiens,201902750_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060802.1,"Rift Valley fever virus isolate 201902747_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6385,,2018,Homo sapiens,201902747_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060799.1,"Rift Valley fever virus isolate 201902745_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6389,,2018,Homo sapiens,201902745_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060796.1,"Rift Valley fever virus isolate 201902737_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6389,,2018,Homo sapiens,201902737_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060793.1,"Rift Valley fever virus isolate 201902736_L|Uganda|2018 RNA-dependent RNA polymerase gene, partial cds",6350,,2018,Homo sapiens,201902736_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060790.1,"Rift Valley fever virus isolate 2019000825_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6392,,2018,Homo sapiens,2019000825_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060787.1,"Rift Valley fever virus isolate 201902734_L|Uganda|2018 RNA-dependent RNA polymerase gene, partial cds",6320,,2018,Homo sapiens,201902734_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060784.1,"Rift Valley fever virus isolate 201901671_L|Uganda RNA-dependent RNA polymerase gene, complete cds",6388,,2017,Homo sapiens,201901671_L|Uganda,,L,,Rift Valley fever virus
+ON060781.1,"Rift Valley fever virus isolate 201900880_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6385,,2018,Homo sapiens,201900880_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060778.1,"Rift Valley fever virus isolate 201900879_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6388,,2018,Homo sapiens,201900879_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060775.1,"Rift Valley fever virus isolate 201900877_L|Uganda|2018 RNA-dependent RNA polymerase gene, complete cds",6391,,2018,Homo sapiens,201900877_L|Uganda|2018,,L,,Rift Valley fever virus
+ON060772.1,"Rift Valley fever virus isolate 2019000825_L|Uganda|2019 RNA-dependent RNA polymerase gene, complete cds",6392,,2019,Homo sapiens,2019000825_L|Uganda|2019,,L,,Rift Valley fever virus
+ON060838.1,"Rift Valley fever virus isolate 2021001358_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1667,,,Homo sapiens,2021001358_S|Uganda,,S,,Rift Valley fever virus
+ON060835.1,"Rift Valley fever virus isolate 2021000843_S|Uganda nonstructural protein and nucleocapsid protein genes, partial cds",1589,,,Homo sapiens,2021000843_S|Uganda,,S,,Rift Valley fever virus
+ON060833.1,"Rift Valley fever virus isolate 2020002574_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1674,,,Homo sapiens,2020002574_S|Uganda,,S,,Rift Valley fever virus
+ON060830.1,"Rift Valley fever virus isolate 2020001195_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1671,,,Homo sapiens,2020001195_S|Uganda,,S,,Rift Valley fever virus
+ON060827.1,"Rift Valley fever virus isolate 2020000159_S|Uganda nonstructural protein gene, complete cds; and nucleocapsid protein gene, partial cds",1618,,,Homo sapiens,2020000159_S|Uganda,,S,,Rift Valley fever virus
+ON060824.1,"Rift Valley fever virus isolate 2020000148_S|Uganda nonstructural protein gene, partial cds; and nucleocapsid protein gene, complete cds",1647,,,Homo sapiens,2020000148_S|Uganda,,S,,Rift Valley fever virus
+ON060821.1,"Rift Valley fever virus isolate 201902764_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,,2018,Homo sapiens,201902764_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060818.1,"Rift Valley fever virus isolate 201902763_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,,2018,Homo sapiens,201902763_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060815.1,"Rift Valley fever virus isolate 201902760_S|Uganda|2018 non-stuctural protein and nucleocapsid protein genes, complete cds",1681,,2018,Homo sapiens,201902760_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060812.1,"Rift Valley fever virus isolate 201902754_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1660,,2018,Homo sapiens,201902754_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060810.1,"Rift Valley fever virus isolate 201902753_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1680,,2018,Homo sapiens,201902753_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060807.1,"Rift Valley fever virus isolate 201902750_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1679,,2018,Homo sapiens,201902750_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060804.1,"Rift Valley fever virus isolate 201902747_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,,2018,Homo sapiens,201902747_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060801.1,"Rift Valley fever virus isolate 201902745_S|Uganda|2018 nucleocapsid protein gene, complete cds",1674,,2018,Homo sapiens,201902745_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060798.1,"Rift Valley fever virus isolate 201902737_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,,2018,Homo sapiens,201902737_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060795.1,"Rift Valley fever virus isolate 201902736_S|Uganda|2018 nonstructural protein gene, partial cds; and nucleocapsid protein gene, complete cds",1627,,2018,Homo sapiens,201902736_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060792.1,"Rift Valley fever virus isolate 201902734_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1667,,2018,Homo sapiens,201902734_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060789.1,"Rift Valley fever virus isolate 201902733_S|Uganda|2018 nonstructural protein gene, complete cds; and nucleocapsid protein gene, partial cds",1617,,2018,Homo sapiens,201902733_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060786.1,"Rift Valley fever virus isolate 201901671_S|Uganda nonstructural protein and nucleocapsid protein genes, complete cds",1681,,,Homo sapiens,201901671_S|Uganda,,S,,Rift Valley fever virus
+ON060783.1,"Rift Valley fever virus isolate 201900880_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1670,,2018,Homo sapiens,201900880_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060780.1,"Rift Valley fever virus isolate 201900879_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1680,,2018,Homo sapiens,201900879_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060777.1,"Rift Valley fever virus isolate 201900877_S|Uganda|2018 nonstructural protein and nucleocapsid protein genes, complete cds",1678,,2018,Homo sapiens,201900877_S|Uganda|2018,,S,,Rift Valley fever virus
+ON060774.1,"Rift Valley fever virus isolate 2019000825_S|Uganda|2019 nonstructural protein and nucleocapsid protein genes, complete cds",1683,,2019,Homo sapiens,2019000825_S|Uganda|2019,,S,,Rift Valley fever virus
+ON060771.1,"Rift Valley fever virus isolate 2019000312_S|Uganda|2019 nonstructural protein and nucleocapsid protein genes, partial cds",1586,,2019,Homo sapiens,2019000312_S|Uganda|2019,,S,,Rift Valley fever virus
+OQ077993.1,"MAG: Rift Valley fever virus isolate Ug2012-CVR2 segment M, partial sequence",112,,2012,Homo sapiens,Ug2012-CVR2,,M,blood,Rift Valley fever virus
+OQ077992.1,"MAG: Rift Valley fever virus isolate Ug2012-CVR1 segment L, partial sequence",324,,2012,Homo sapiens,Ug2012-CVR1,,L,blood,Rift Valley fever virus
+ON872483.1,"Rift Valley fever virus isolate SEBI-094 nonstructural protein gene, partial cds",833,,03-Jul-2018,cattle,SEBI-094,,,,Rift Valley fever virus
+ON872482.1,"Rift Valley fever virus isolate SEBI-079 nonstructural protein gene, partial cds",833,,17-Jun-2018,cattle,SEBI-079,,,,Rift Valley fever virus
+ON872481.1,"Rift Valley fever virus isolate SEBI-051 nonstructural protein gene, partial cds",833,,16-May-2018,cattle,SEBI-051,,,,Rift Valley fever virus
+OM744379.1,"Rift Valley fever virus strain DVS-372 segment L, complete sequence",6400,,15-Jul-2021,Bos taurus,,DVS-372,L,,Rift Valley fever virus
+OM744378.1,"Rift Valley fever virus strain DVS-356 segment L, complete sequence",6396,,15-Jul-2021,Bos taurus,,DVS-356,L,,Rift Valley fever virus
+OM744377.1,"Rift Valley fever virus strain DVS-333 segment L, complete sequence",6397,,15-Jul-2021,Bos taurus,,DVS-333,L,,Rift Valley fever virus
+OM744376.1,"Rift Valley fever virus strain DVS-321 segment L, complete sequence",6399,,15-Jul-2021,Bos taurus,,DVS-321,L,,Rift Valley fever virus
+OM744375.1,"Rift Valley fever virus strain DVS-230 segment L, complete sequence",6397,,15-Jul-2021,Bos taurus,,DVS-230,L,,Rift Valley fever virus
+OM744374.1,"Rift Valley fever virus strain DVS-372 segment S, complete sequence",1690,,15-Jul-2021,Bos taurus,,DVS-372,S,,Rift Valley fever virus
+OM744373.1,"Rift Valley fever virus strain DVS-356 segment S, complete sequence",1689,,15-Jul-2021,Bos taurus,,DVS-356,S,,Rift Valley fever virus
+OM744372.1,"Rift Valley fever virus strain DVS-333 segment S, complete sequence",1689,,15-Jul-2021,Bos taurus,,DVS-333,S,,Rift Valley fever virus
+OM744371.1,"Rift Valley fever virus strain DVS-321 segment S, complete sequence",1690,,15-Jul-2021,Bos taurus,,DVS-321,S,,Rift Valley fever virus
+OM744370.1,"Rift Valley fever virus strain DVS-230 segment S, complete sequence",1689,,15-Jul-2021,Bos taurus,,DVS-230,S,,Rift Valley fever virus
+OM744369.1,"Rift Valley fever virus strain DVS-372 segment M, complete sequence",3881,,15-Jul-2021,Bos taurus,,DVS-372,M,,Rift Valley fever virus
+OM744368.1,"Rift Valley fever virus strain DVS-356 segment M, complete sequence",3874,,15-Jul-2021,Bos taurus,,DVS-356,M,,Rift Valley fever virus
+OM744367.1,"Rift Valley fever virus strain DVS-333 segment M, complete sequence",3879,,15-Jul-2021,Bos taurus,,DVS-333,M,,Rift Valley fever virus
+OM744366.1,"Rift Valley fever virus strain DVS-321 segment M, complete sequence",3884,,15-Jul-2021,Bos taurus,,DVS-321,M,,Rift Valley fever virus
+OM744365.1,"Rift Valley fever virus strain DVS-230 segment M, complete sequence",3882,,15-Jul-2021,Bos taurus,,DVS-230,M,,Rift Valley fever virus
+MG659989.1,"Rift Valley fever virus isolate Lunyo segment S, complete sequence",1691,,1955,Aedes sp. (mosquito),Lunyo,,S,,Rift Valley fever virus
+MG659985.1,"Rift Valley fever virus isolate S35 segment S, complete sequence",1690,,1972,ovine,S35,,S,,Rift Valley fever virus
+MG659984.1,"Rift Valley fever virus isolate B314 segment S, complete sequence",1691,,1962,bovine,B314,,S,,Rift Valley fever virus
+MG659903.1,"Rift Valley fever virus isolate Lunyo segment L, complete sequence",6404,,1955,Aedes sp. (mosquito),Lunyo,,L,,Rift Valley fever virus
+MG659899.1,"Rift Valley fever virus isolate S35 segment L, complete sequence",6404,,1972,ovine,S35,,L,,Rift Valley fever virus
+MG659898.1,"Rift Valley fever virus isolate B314 segment L, complete sequence",6404,,1962,bovine,B314,,L,,Rift Valley fever virus
+MG659817.1,"Rift Valley fever virus isolate Lunyo segment M, complete sequence",3885,,1955,Aedes sp. (mosquito),Lunyo,,M,,Rift Valley fever virus
+MG659813.1,"Rift Valley fever virus isolate S35 segment M, complete sequence",3885,,1972,ovine,S35,,M,,Rift Valley fever virus
+MG659812.1,"Rift Valley fever virus isolate B314 segment M, complete sequence",3885,,1962,bovine,B314,,M,,Rift Valley fever virus
+MG972980.1,"Rift Valley fever virus strain 201707025 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1581,,07-Dec-2017,Homo sapiens,,201707025,S,,Rift Valley fever virus
+MG972979.1,"Rift Valley fever virus strain 201707025 segment M glycoprotein gene, partial cds",3817,,07-Dec-2017,Homo sapiens,,201707025,M,,Rift Valley fever virus
+MG972978.1,"Rift Valley fever virus strain 201707025 segment L, complete sequence",6332,,07-Dec-2017,Homo sapiens,,201707025,L,,Rift Valley fever virus
+MG972977.1,"Rift Valley fever virus strain 201707023 segment S, complete sequence",1686,,16-Nov-2017,Homo sapiens,,201707023,S,,Rift Valley fever virus
+MG972976.1,"Rift Valley fever virus strain 201707023 segment M, complete sequence",3879,,16-Nov-2017,Homo sapiens,,201707023,M,,Rift Valley fever virus
+MG972975.1,"Rift Valley fever virus strain 201707023 segment L, complete sequence",6397,,16-Nov-2017,Homo sapiens,,201707023,L,,Rift Valley fever virus
+MG972974.1,"Rift Valley fever virus strain 201707024 segment S, complete sequence",1644,,21-Nov-2017,Homo sapiens,,201707024,S,,Rift Valley fever virus
+MG972973.1,"Rift Valley fever virus strain 201707024 segment M, complete sequence",3852,,21-Nov-2017,Homo sapiens,,201707024,M,,Rift Valley fever virus
+MG972972.1,"Rift Valley fever virus strain 201707024 segment L, complete sequence",6321,,21-Nov-2017,Homo sapiens,,201707024,L,,Rift Valley fever virus
+MG953425.1,"Rift Valley fever virus isolate 201601292 segment S nonstructural protein and nucleocapsid protein genes, complete cds",1675,,15-Mar-2016,Homo sapiens,201601292,,S,,Rift Valley fever virus
+MG953419.1,"Rift Valley fever virus isolate 201601292 segment M glycoprotein gene, complete cds",3841,,15-Mar-2016,Homo sapiens,201601292,,M,,Rift Valley fever virus
+MG953426.1,"Rift Valley fever virus strain 201601502 segment S nonstructural protein and nucleocapsid protein genes, complete cds",1641,,09-Jun-2016,Homo sapiens,,201601502,S,,Rift Valley fever virus
+MG953424.1,"Rift Valley fever virus strain 201601287 segment S nonstructural protein and nucleocapsid protein genes, partial cds",1615,,15-Mar-2016,Homo sapiens,,201601287,S,,Rift Valley fever virus
+MG953423.1,"Rift Valley fever virus strain 201601287 segment L polymerase gene, complete cds",6227,,15-Mar-2016,Homo sapiens,,201601287,L,,Rift Valley fever virus
+MG953422.1,"Rift Valley fever virus strain 201601292 segment L polymerase gene, complete cds",6373,,15-Mar-2016,Homo sapiens,,201601292,L,,Rift Valley fever virus
+MG953421.1,"Rift Valley fever virus strain 201601502 segment L polymerase gene, partial cds",6366,,09-Jun-2016,Homo sapiens,,201601502,L,,Rift Valley fever virus
+MG953420.1,"Rift Valley fever virus strain 201601502 segment M glycoprotein gene, partial cds",3815,,09-Jun-2016,Homo sapiens,,201601502,M,,Rift Valley fever virus
+MG953418.1,"Rift Valley fever virus strain 201601287 segment M glycoprotein gene, partial cds",3576,,15-Mar-2016,Homo sapiens,,201601287,M,,Rift Valley fever virus
+KU746664.1,UNVERIFIED: Rift Valley fever virus strain Sudan-1 segment S genomic sequence,219,,20-Oct-2010,Homo sapiens,,Sudan-1,S,serum,Rift Valley fever virus
+KU978774.1,"Rift Valley fever virus isolate Ken 199800523 segment S, partial sequence",1636,,04-Jan-1998,Homo sapiens,Ken 199800523,,S,,Rift Valley fever virus
+KU978777.1,"Rift Valley fever virus isolate Ken 199800523 segment M, partial sequence",3850,,04-Jan-1998,Homo sapiens,Ken 199800523,,M,,Rift Valley fever virus
+KU978780.1,"Rift Valley fever virus isolate Ken 199800523 segment L, complete sequence",6431,,04-Jan-1998,Homo sapiens,Ken 199800523,,L,,Rift Valley fever virus
+KX096943.1,"Rift Valley fever virus strain SA01-1322 segment S, complete sequence",1690,,2001,Aedes vexans arabiensis,,SA01-1322,S,,Rift Valley fever virus
+KX096942.1,"Rift Valley fever virus strain SA01-1322 segment M, complete sequence",3885,,2001,Aedes vexans arabiensis,,SA01-1322,M,,Rift Valley fever virus
+KX096941.1,"Rift Valley fever virus strain SA01-1322 segment L, complete sequence",6404,,2001,Aedes vexans arabiensis,,SA01-1322,L,,Rift Valley fever virus
+KX096940.1,"Rift Valley fever virus strain Kenya-128b-15 segment S, complete sequence",1692,,2006,Aedes ochraceus,,Kenya-128b-15,S,,Rift Valley fever virus
+KX096939.1,"Rift Valley fever virus strain Kenya-128b-15 segment M, complete sequence",3885,,2006,Aedes ochraceus,,Kenya-128b-15,M,,Rift Valley fever virus
+KX096938.1,"Rift Valley fever virus strain Kenya-128b-15 segment L, complete sequence",6404,,2006,Aedes ochraceus,,Kenya-128b-15,L,,Rift Valley fever virus
+KU167027.1,"Rift Valley fever virus strain Lunyo segment L, complete sequence",6404,,1955,mosquito,,Lunyo,L,,Rift Valley fever virus
+KU167026.1,"Rift Valley fever virus strain Lunyo segment M, complete sequence",3885,,1955,mosquito,,Lunyo,M,,Rift Valley fever virus
+KU167025.1,"Rift Valley fever virus strain Lunyo segment S, complete sequence",1692,,1955,mosquito,,Lunyo,S,,Rift Valley fever virus
+JQ840746.1,"Rift Valley fever virus strain Sudan B-2007 segment S, complete sequence",1690,,2007,Homo sapiens,,Sudan B-2007,S,human sera,Rift Valley fever virus
+JQ840745.1,"Rift Valley fever virus strain Sudan 1-2007 segment S, complete sequence",1691,,Oct-2007,Homo sapiens,,Sudan 1-2007,S,human sera,Rift Valley fever virus
+JQ820491.1,"Rift Valley fever virus strain Sudan 28-2010 segment M, complete sequence",3884,,Oct-2010,Homo sapiens,,Sudan 28-2010,M,human sera,Rift Valley fever virus
+JQ820490.1,"Rift Valley fever virus strain Sudan 2V-2007 segment M, complete sequence",3871,,2007,Homo sapiens,,Sudan 2V-2007,M,human sera,Rift Valley fever virus
+JQ820489.1,"Rift Valley fever virus strain Sudan 86-2010 segment M, complete sequence",3883,,Oct-2010,Homo sapiens,,Sudan 86-2010,M,human sera,Rift Valley fever virus
+JQ820488.1,"Rift Valley fever virus strain Sudan 85-2010 segment M, complete sequence",3885,,Oct-2010,Homo sapiens,,Sudan 85-2010,M,human sera,Rift Valley fever virus
+JQ820487.1,"Rift Valley fever virus strain Sudan 7-2010 segment M, complete sequence",3885,,Oct-2010,Homo sapiens,,Sudan 7-2010,M,human sera,Rift Valley fever virus
+JQ820486.1,"Rift Valley fever virus strain Sudan 28-2010 segment L, complete sequence",6400,,Oct-2010,Homo sapiens,,Sudan 28-2010,L,human sera,Rift Valley fever virus
+JQ820485.1,"Rift Valley fever virus strain Sudan 85-2010 segment L, complete sequence",6404,,Oct-2010,Homo sapiens,,Sudan 85-2010,L,human sera,Rift Valley fever virus
+JQ820484.1,"Rift Valley fever virus strain Sudan 86-2010 segment L, complete sequence",6402,,Oct-2010,Homo sapiens,,Sudan 86-2010,L,human sera,Rift Valley fever virus
+JQ820483.1,"Rift Valley fever virus strain Sudan 2V-2007 segment L, complete sequence",6397,,2007,Homo sapiens,,Sudan 2V-2007,L,human sera,Rift Valley fever virus
+JQ820482.1,"Rift Valley fever virus strain Sudan 77-2007 segment S, complete sequence",1689,,Nov-2007,Homo sapiens,,Sudan 77-2007,S,human sera,Rift Valley fever virus
+JQ820481.1,"Rift Valley fever virus strain Sudan 30-2010 segment S, complete sequence",1689,,Oct-2010,Homo sapiens,,Sudan 30-2010,S,human sera,Rift Valley fever virus
+JQ820480.1,"Rift Valley fever virus strain Sudan 7-2010 segment S, complete sequence",1691,,Oct-2010,Homo sapiens,,Sudan 7-2010,S,human sera,Rift Valley fever virus
+JQ820479.1,"Rift Valley fever virus strain Sudan SP-2007 segment S, complete sequence",1691,,2007,Homo sapiens,,Sudan SP-2007,S,human sera,Rift Valley fever virus
+JQ820478.1,"Rift Valley fever virus strain Sudan 133-2007 segment S, complete sequence",1690,,Nov-2007,Homo sapiens,,Sudan 133-2007,S,human sera,Rift Valley fever virus
+JQ820477.1,"Rift Valley fever virus strain Sudan 86-2010 segment S, complete sequence",1691,,Oct-2010,Homo sapiens,,Sudan 86-2010,S,human sera,Rift Valley fever virus
+JQ820476.1,"Rift Valley fever virus strain Sudan 85-2010 segment S, complete sequence",1691,,Oct-2010,Homo sapiens,,Sudan 85-2010,S,human sera,Rift Valley fever virus
+JQ820475.1,"Rift Valley fever virus strain Sudan 34-2010 segment S, complete sequence",1690,,Oct-2010,Homo sapiens,,Sudan 34-2010,S,human sera,Rift Valley fever virus
+JQ820474.1,"Rift Valley fever virus strain Sudan 28-2010 segment S, complete sequence",1690,,Oct-2010,Homo sapiens,,Sudan 28-2010,S,human sera,Rift Valley fever virus
+JQ820473.1,"Rift Valley fever virus strain Sudan 4-2010 segment S, complete sequence",1690,,Oct-2010,Homo sapiens,,Sudan 4-2010,S,human sera,Rift Valley fever virus
+JQ820472.1,"Rift Valley fever virus strain Sudan 2V-2007 segment S, complete sequence",1691,,2007,Homo sapiens,,Sudan 2V-2007,S,human sera,Rift Valley fever virus
+JF326204.1,"Rift Valley fever virus strain 2007000324 segment S, complete sequence",1691,,Feb-2007,Homo sapiens,,2007000324,S,,Rift Valley fever virus
+JF326203.1,"Rift Valley fever virus strain 2007000323 segment S, complete sequence",1691,,Feb-2007,Homo sapiens,,2007000323,S,,Rift Valley fever virus
+JF326202.1,"Rift Valley fever virus strain 2007000260 segment S, complete sequence",1691,,31-Dec-2006,mosquito,,2007000260,S,,Rift Valley fever virus
+JF326201.1,"Rift Valley fever virus strain 2007000253 segment S, complete sequence",1691,,29-Dec-2006,mosquito,,2007000253,S,,Rift Valley fever virus
+JF326200.1,"Rift Valley fever virus strain 2007000250 segment S, complete sequence",1691,,29-Dec-2006,mosquito,,2007000250,S,,Rift Valley fever virus
+JF326199.1,"Rift Valley fever virus strain 2007000245 segment S, complete sequence",1691,,29-Dec-2006,mosquito,,2007000245,S,,Rift Valley fever virus
+JF326198.1,"Rift Valley fever virus strain 2007000234 segment S, complete sequence",1691,,2007,Homo sapiens,,2007000234,S,,Rift Valley fever virus
+JF326197.1,"Rift Valley fever virus strain 2007000041 segment S, complete sequence",1691,,10-Jan-2007,Homo sapiens,,2007000041,S,,Rift Valley fever virus
+JF326196.1,"Rift Valley fever virus strain 2007000003 segment S, complete sequence",1691,,08-Jan-2007,Homo sapiens,,2007000003,S,,Rift Valley fever virus
+JF326195.1,"Rift Valley fever virus strain 2007000324 segment M, complete sequence",3885,,Feb-2007,Homo sapiens,,2007000324,M,,Rift Valley fever virus
+JF326194.1,"Rift Valley fever virus strain 2007000323 segment M, complete sequence",3885,,Feb-2007,Homo sapiens,,2007000323,M,,Rift Valley fever virus
+JF326193.1,"Rift Valley fever virus strain 2007000260 segment M, complete sequence",3885,,31-Dec-2006,mosquito,,2007000260,M,,Rift Valley fever virus
+JF326192.1,"Rift Valley fever virus strain 2007000253 segment M, complete sequence",3885,,29-Dec-2006,mosquito,,2007000253,M,,Rift Valley fever virus
+JF326191.1,"Rift Valley fever virus strain 2007000234 segment M, complete sequence",3885,,2007,Homo sapiens,,2007000234,M,,Rift Valley fever virus
+JF326190.1,"Rift Valley fever virus strain 2007000324 segment L, complete sequence",6404,,Feb-2007,Homo sapiens,,2007000324,L,,Rift Valley fever virus
+JF326189.1,"Rift Valley fever virus strain 2007000323 segment L, complete sequence",6404,,Feb-2007,Homo sapiens,,2007000323,L,,Rift Valley fever virus
+JF326188.1,"Rift Valley fever virus strain 2007000260 segment L, complete sequence",6404,,31-Dec-2006,mosquito,,2007000260,L,,Rift Valley fever virus
+JF326187.1,"Rift Valley fever virus strain 2007000253 segment L, complete sequence",6404,,29-Dec-2006,mosquito,,2007000253,L,,Rift Valley fever virus
+JF326186.1,"Rift Valley fever virus strain 2007000234 segment L, complete sequence",6404,,2007,Homo sapiens,,2007000234,L,,Rift Valley fever virus
+HM587119.1,"Rift Valley fever virus isolate Lunyo segment M glycoprotein G2 gene, partial cds",490,,1955,Aedes sp.,Lunyo,,M,,Rift Valley fever virus
+HM587118.1,"Rift Valley fever virus isolate KEN56/B2653/IB8 segment M glycoprotein G2 gene, partial cds",490,,1963,bovine,KEN56/B2653/IB8,,M,,Rift Valley fever virus
+HM587116.1,"Rift Valley fever virus isolate Kitale1840 segment M glycoprotein G2 gene, partial cds",490,,1964,bovine,Kitale1840,,M,,Rift Valley fever virus
+HM587106.1,"Rift Valley fever virus isolate B674 segment M glycoprotein G2 gene, partial cds",490,,1963,bovine,B674,,M,,Rift Valley fever virus
+HM587105.1,"Rift Valley fever virus isolate B314 segment M glycoprotein G2 gene, partial cds",490,,1962,bovine,B314,,M,,Rift Valley fever virus
+HM587104.1,"Rift Valley fever virus isolate KEN57 Rintoul segment M glycoprotein G2 gene, partial cds",490,,1951,ovine,KEN57 Rintoul,,M,,Rift Valley fever virus
+HM587103.1,"Rift Valley fever virus isolate 95EG vaccine segment M glycoprotein G2 gene, partial cds",490,,1944,,95EG vaccine,,M,,Rift Valley fever virus
+HM587102.1,"Rift Valley fever virus isolate SNS segment M glycoprotein G2 gene, partial cds",490,,1944,Eretmapodites sp.,SNS,,M,,Rift Valley fever virus
+HM587075.1,"Rift Valley fever virus isolate B1143 segment M glycoprotein G2 gene, partial cds",490,,1977,bovine,B1143,,M,,Rift Valley fever virus
+HM587074.1,"Rift Valley fever virus isolate 214445 segment M glycoprotein G2 gene, partial cds",490,,1983,Aedes mcintoshi,214445,,M,,Rift Valley fever virus
+HM587070.1,"Rift Valley fever virus isolate B309 segment M glycoprotein G2 gene, partial cds",490,,1977,bovine,B309,,M,,Rift Valley fever virus
+HM587068.1,"Rift Valley fever virus isolate SPU22/07/4 segment M glycoprotein G2 gene, partial cds",490,,2007,Homo sapiens,SPU22/07/4,,M,,Rift Valley fever virus
+HM587064.1,"Rift Valley fever virus isolate SPU22/07/129 segment M glycoprotein G2 gene, partial cds",490,,2007,Homo sapiens,SPU22/07/129,,M,,Rift Valley fever virus
+HM587063.1,"Rift Valley fever virus isolate SPU22/07/125 segment M glycoprotein G2 gene, partial cds",490,,2007,Homo sapiens,SPU22/07/125,,M,,Rift Valley fever virus
+HM587062.1,"Rift Valley fever virus isolate SPU22/07/118 segment M glycoprotein G2 gene, partial cds",490,,2007,Homo sapiens,SPU22/07/118,,M,,Rift Valley fever virus
+HM587055.1,"Rift Valley fever virus isolate SPU2/98/9 segment M glycoprotein G2 gene, partial cds",490,,1998,caprine,SPU2/98/9,,M,,Rift Valley fever virus
+HM587053.1,"Rift Valley fever virus isolate SPU2/98/1 segment M glycoprotein G2 gene, partial cds",490,,1998,Homo sapiens,SPU2/98/1,,M,,Rift Valley fever virus
+HM587052.1,"Rift Valley fever virus isolate SPU384/97/1 segment M glycoprotein G2 gene, partial cds",490,,1997,Homo sapiens,SPU384/97/1,,M,,Rift Valley fever virus
+HM587051.1,"Rift Valley fever virus isolate SPU12/99/21 segment M glycoprotein G2 gene, partial cds",490,,1999,caprine,SPU12/99/21,,M,,Rift Valley fever virus
+HM587045.1,"Rift Valley fever virus isolate S35 segment M glycoprotein G2 gene, partial cds",490,,1972,ovine,S35,,M,,Rift Valley fever virus
+JF309200.1,"Rift Valley fever virus strain 2007002820 segment M, complete sequence",3885,,09-Feb-2007,buffalo,,2007002820,M,,Rift Valley fever virus
+HM586960.1,"Rift Valley fever virus strain TAN/Dod-002/07 polymerase (L) gene, complete cds",6404,,14-Mar-2007,Homo sapiens,,TAN/Dod-002/07,L,,Rift Valley fever virus
+HM586959.1,"Rift Valley fever virus strain TAN/Tan-001/07 polymerase (L) gene, complete cds",6404,,08-Feb-2007,Homo sapiens,,TAN/Tan-001/07,L,,Rift Valley fever virus
+HM586958.1,"Rift Valley fever virus strain KEN/Bar-035/07 polymerase (L) gene, complete cds",6404,,30-Jan-2007,Homo sapiens,,KEN/Bar-035/07,L,,Rift Valley fever virus
+HM586957.1,"Rift Valley fever virus strain KEN/Bar-032/07 polymerase (L) gene, complete cds",6404,,03-Feb-2007,Homo sapiens,,KEN/Bar-032/07,L,,Rift Valley fever virus
+HM586955.1,"Rift Valley fever virus strain KEN/Kil-006/07 polymerase (L) gene, complete cds",6404,,05-Jan-2007,Homo sapiens,,KEN/Kil-006/07,L,,Rift Valley fever virus
+HM586963.1,"Rift Valley fever virus strain KEN/Bar-Msq polymerase (L) gene, complete cds",6404,,13-Feb-2007,mosquito,,KEN/Bar-Msq,L,,Rift Valley fever virus
+HM586962.1,"Rift Valley fever virus strain KEN/KLF-Msq polymerase (L) gene, complete cds",6404,,13-Jan-2007,mosquito,,KEN/KLF-Msq,L,,Rift Valley fever virus
+HM586961.1,"Rift Valley fever virus strain KEN/Gar-Msq polymerase (L) gene, complete cds",6404,,29-Dec-2006,mosquito,,KEN/Gar-Msq,L,,Rift Valley fever virus
+HM586956.1,"Rift Valley fever virus strain KEN/Mal-032/07 polymerase (L) gene, complete cds",6404,,15-Jan-2007,Homo sapiens,,KEN/Mal-032/07,L,,Rift Valley fever virus
+HM586954.1,"Rift Valley fever virus strain KEN/Gar-008/06 polymerase (L) gene, complete cds",6404,,21-Dec-2006,Homo sapiens,,KEN/Gar-008/06,L,,Rift Valley fever virus
+HM586953.1,"Rift Valley fever virus strain KEN/Gar-004/06 polymerase (L) gene, complete cds",6404,,21-Dec-2006,Homo sapiens,,KEN/Gar-004/06,L,,Rift Valley fever virus
+HM586968.1,"Rift Valley fever virus strain KEN/Bar-032/07 glycoprotein gene, complete cds",3885,,03-Feb-2007,,,KEN/Bar-032/07,M,,Rift Valley fever virus
+HM586974.1,"Rift Valley fever virus strain KEN/Bar-Msq/187-09/07 glycoprotein gene, complete cds",3885,,13-Feb-2007,,,KEN/Bar-Msq/187-09/07,M,,Rift Valley fever virus
+HM586973.1,"Rift Valley fever virus strain KEN/KLF-Msq/091/07 glycoprotein gene, complete cds",3885,,13-Jan-2007,,,KEN/KLF-Msq/091/07,M,,Rift Valley fever virus
+HM586972.1,"Rift Valley fever virus strain KEN/Gar-Msq/131B-04/06 glycoprotein gene, complete cds",3885,,29-Dec-2006,,,KEN/Gar-Msq/131B-04/06,M,,Rift Valley fever virus
+HM586971.1,"Rift Valley fever virus strain TAN/Dod-002/07 glycoprotein gene, complete cds",3885,,14-Mar-2007,,,TAN/Dod-002/07,M,,Rift Valley fever virus
+HM586970.1,"Rift Valley fever virus strain TAN/Tan-001/07 glycoprotein gene, complete cds",3885,,08-Feb-2007,,,TAN/Tan-001/07,M,,Rift Valley fever virus
+HM586969.1,"Rift Valley fever virus strain KEN/Bar-035/07 glycoprotein gene, complete cds",3885,,30-Jan-2007,,,KEN/Bar-035/07,M,,Rift Valley fever virus
+HM586967.1,"Rift Valley fever virus strain KEN/Mal-032/07 glycoprotein gene, complete cds",3885,,15-Jan-2007,,,KEN/Mal-032/07,M,,Rift Valley fever virus
+HM586966.1,"Rift Valley fever virus strain KEN/Kil-006/07 glycoprotein gene, complete cds",3885,,05-Jan-2007,,,KEN/Kil-006/07,M,,Rift Valley fever virus
+HM586965.1,"Rift Valley fever virus strain KEN/Gar-008/06 glycoprotein gene, complete cds",3885,,21-Dec-2006,,,KEN/Gar-008/06,M,,Rift Valley fever virus
+HM586964.1,"Rift Valley fever virus strain KEN/Gar-004/06 glycoprotein gene, complete cds",3885,,21-Dec-2006,,,KEN/Gar-004/06,M,,Rift Valley fever virus
+HM586984.1,"Rift Valley fever virus strain KEN/KLF-Msq091/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,13-Jan-2007,,,KEN/KLF-Msq091/07,S,,Rift Valley fever virus
+HM586983.1,"Rift Valley fever virus strain KEN/Gar-Msq131B-04/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,29-Dec-2006,,,KEN/Gar-Msq131B-04/06,S,,Rift Valley fever virus
+HM586982.1,"Rift Valley fever virus strain TAN/Dod-002/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,14-Mar-2007,,,TAN/Dod-002/07,S,,Rift Valley fever virus
+HM586981.1,"Rift Valley fever virus strain TAN/Tan-001/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,08-Feb-2007,,,TAN/Tan-001/07,S,,Rift Valley fever virus
+HM586980.1,"Rift Valley fever virus strain KEN/Bar-035/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,30-Jan-2007,,,KEN/Bar-035/07,S,,Rift Valley fever virus
+HM586979.1,"Rift Valley fever virus strain KEN/Bar-032/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,03-Feb-2007,,,KEN/Bar-032/07,S,,Rift Valley fever virus
+HM586978.1,"Rift Valley fever virus strain KEN/Mal-032/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,15-Jan-2007,,,KEN/Mal-032/07,S,,Rift Valley fever virus
+HM586977.1,"Rift Valley fever virus strain KEN/Kil-006/07 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,05-Jan-2007,,,KEN/Kil-006/07,S,,Rift Valley fever virus
+HM586976.1,"Rift Valley fever virus strain KEN/Gar-008/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,21-Dec-2006,,,KEN/Gar-008/06,S,,Rift Valley fever virus
+HM586975.1,"Rift Valley fever virus strain KEN/Gar-004/06 non-structural protein (NSs) and nucleocapsid protein (NP) genes, complete cds",1691,,21-Dec-2006,,,KEN/Gar-004/06,S,,Rift Valley fever virus
+EU574087.1,"Rift Valley fever virus strain 2007000080 segment S, complete sequence",1691,,12-Jan-2007,bovine,,2007000080,S,,Rift Valley fever virus
+EU574086.1,"Rift Valley fever virus strain 2007000094 segment S, complete sequence",1690,,12-Jan-2007,bovine,,2007000094,S,,Rift Valley fever virus
+EU574085.1,"Rift Valley fever virus strain 2007000222 segment S, complete sequence",1691,,16-Jan-2007,bovine,,2007000222,S,,Rift Valley fever virus
+EU574084.1,"Rift Valley fever virus strain 2007000223 segment S, complete sequence",1691,,16-Jan-2007,bovine,,2007000223,S,,Rift Valley fever virus
+EU574083.1,"Rift Valley fever virus strain 2007000224 segment S, complete sequence",1691,,16-Jan-2007,bovine,,2007000224,S,,Rift Valley fever virus
+EU574082.1,"Rift Valley fever virus strain 2007000225 segment S, complete sequence",1691,,16-Jan-2007,bovine,,2007000225,S,,Rift Valley fever virus
+EU574081.1,"Rift Valley fever virus strain 2007000226 segment S, complete sequence",1691,,16-Jan-2007,bovine,,2007000226,S,,Rift Valley fever virus
+EU574080.1,"Rift Valley fever virus strain 2007000473 segment S, complete sequence",1691,,26-Jan-2007,ovine,,2007000473,S,,Rift Valley fever virus
+EU574079.1,"Rift Valley fever virus strain 2007000608 segment S, complete sequence",1691,,29-Jan-2007,bovine,,2007000608,S,,Rift Valley fever virus
+EU574078.1,"Rift Valley fever virus strain 2007000611 segment S, complete sequence",1691,,29-Jan-2007,bovine,,2007000611,S,,Rift Valley fever virus
+EU574077.1,"Rift Valley fever virus strain 2007000618 segment S, complete sequence",1691,,29-Jan-2007,bovine,,2007000618,S,,Rift Valley fever virus
+EU574076.1,"Rift Valley fever virus strain 2007000665 segment S, complete sequence",1690,,26-Jan-2007,bovine,,2007000665,S,,Rift Valley fever virus
+EU574075.1,"Rift Valley fever virus strain 2007001107 segment S, complete sequence",1691,,25-Jan-2007,bovine,,2007001107,S,,Rift Valley fever virus
+EU574074.1,"Rift Valley fever virus strain 2007001292 segment S, complete sequence",1691,,31-Jan-2007,bovine,,2007001292,S,,Rift Valley fever virus
+EU574073.1,"Rift Valley fever virus strain 2007001443 segment S, complete sequence",1691,,31-Jan-2007,bovine,,2007001443,S,,Rift Valley fever virus
+EU574072.1,"Rift Valley fever virus strain 2007001564 segment S, complete sequence",1690,,29-Jan-2007,bovine,,2007001564,S,,Rift Valley fever virus
+EU574071.1,"Rift Valley fever virus strain 2007001602 segment S, complete sequence",1691,,30-Jan-2007,bovine,,2007001602,S,,Rift Valley fever virus
+EU574070.1,"Rift Valley fever virus strain 2007001800 segment S, complete sequence",1691,,26-Jan-2007,bovine,,2007001800,S,,Rift Valley fever virus
+EU574069.1,"Rift Valley fever virus strain 2007001809 segment S, complete sequence",1691,,01-Dec-2006,caprine,,2007001809,S,,Rift Valley fever virus
+EU574068.1,"Rift Valley fever virus strain 2007001811 segment S, complete sequence",1690,,01-Dec-2006,caprine,,2007001811,S,,Rift Valley fever virus
+EU574067.1,"Rift Valley fever virus strain 2007002059 segment S, complete sequence",1690,,07-Feb-2007,ovine,,2007002059,S,,Rift Valley fever virus
+EU574066.1,"Rift Valley fever virus strain 2007002060 segment S, complete sequence",1691,,31-Jan-2007,bovine,,2007002060,S,,Rift Valley fever virus
+EU574065.1,"Rift Valley fever virus strain 2007002444 segment S, complete sequence",1691,,05-Feb-2007,bovine,,2007002444,S,,Rift Valley fever virus
+EU574064.1,"Rift Valley fever virus strain 2007002445 segment S, complete sequence",1691,,05-Feb-2007,bovine,,2007002445,S,,Rift Valley fever virus
+EU574063.1,"Rift Valley fever virus strain 2007002476 segment S, complete sequence",1691,,21-Feb-2007,bovine,,2007002476,S,,Rift Valley fever virus
+EU574062.1,"Rift Valley fever virus strain 2007002482 segment S, complete sequence",1691,,21-Feb-2007,bovine,,2007002482,S,,Rift Valley fever virus
+EU574061.1,"Rift Valley fever virus strain 2007002820 segment S, complete sequence",1691,,09-Feb-2007,Syncerus caffer (buffalo),,2007002820,S,,Rift Valley fever virus
+EU574060.1,"Rift Valley fever virus strain 2007003081 segment S, complete sequence",1691,,27-Feb-2007,bovine,,2007003081,S,,Rift Valley fever virus
+EU574059.1,"Rift Valley fever virus strain 2007003644 segment S, complete sequence",1691,,07-Feb-2007,ovine,,2007003644,S,,Rift Valley fever virus
+EU574058.1,"Rift Valley fever virus strain 2007004193 segment S, complete sequence",1691,,23-Apr-2007,bovine,,2007004193,S,,Rift Valley fever virus
+EU574057.1,"Rift Valley fever virus strain 2007004194 segment S, complete sequence",1689,,14-May-2007,bovine,,2007004194,S,,Rift Valley fever virus
+EU574056.1,"Rift Valley fever virus strain 2007000080 segment M, complete sequence",3885,,12-Jan-2007,bovine,,2007000080,M,,Rift Valley fever virus
+EU574055.1,"Rift Valley fever virus strain 2007000094 segment M, complete sequence",3885,,12-Jan-2007,bovine,,2007000094,M,,Rift Valley fever virus
+EU574054.1,"Rift Valley fever virus strain 2007000222 segment M, complete sequence",3885,,16-Jan-2007,bovine,,2007000222,M,,Rift Valley fever virus
+EU574053.1,"Rift Valley fever virus strain 2007000223 segment M, complete sequence",3885,,16-Jan-2007,bovine,,2007000223,M,,Rift Valley fever virus
+EU574052.1,"Rift Valley fever virus strain 2007000224 segment M, complete sequence",3885,,16-Jan-2007,bovine,,2007000224,M,,Rift Valley fever virus
+EU574051.1,"Rift Valley fever virus strain 2007000225 segment M, complete sequence",3885,,16-Jan-2007,bovine,,2007000225,M,,Rift Valley fever virus
+EU574050.1,"Rift Valley fever virus strain 2007000473 segment M, complete sequence",3885,,26-Jan-2007,ovine,,2007000473,M,,Rift Valley fever virus
+EU574049.1,"Rift Valley fever virus strain 2007000608 segment M, complete sequence",3885,,29-Jan-2007,bovine,,2007000608,M,,Rift Valley fever virus
+EU574048.1,"Rift Valley fever virus strain 2007000611 segment M, complete sequence",3885,,29-Jan-2007,bovine,,2007000611,M,,Rift Valley fever virus
+EU574047.1,"Rift Valley fever virus strain 2007001107 segment M, complete sequence",3885,,25-Jan-2007,bovine,,2007001107,M,,Rift Valley fever virus
+EU574046.1,"Rift Valley fever virus strain 2007001292 segment M, complete sequence",3885,,31-Jan-2007,bovine,,2007001292,M,,Rift Valley fever virus
+EU574045.1,"Rift Valley fever virus strain 2007001443 segment M, complete sequence",3885,,31-Jan-2007,bovine,,2007001443,M,,Rift Valley fever virus
+EU574044.1,"Rift Valley fever virus strain 2007001564 segment M, complete sequence",3885,,29-Jan-2007,bovine,,2007001564,M,,Rift Valley fever virus
+EU574043.1,"Rift Valley fever virus strain 2007001602 segment M, complete sequence",3885,,30-Jan-2007,bovine,,2007001602,M,,Rift Valley fever virus
+EU574042.1,"Rift Valley fever virus strain 2007000618 segment M, complete sequence",3885,,29-Jan-2007,bovine,,2007000618,M,,Rift Valley fever virus
+EU574041.1,"Rift Valley fever virus strain 2007001809 segment M, complete sequence",3885,,01-Dec-2006,caprine,,2007001809,M,,Rift Valley fever virus
+EU574040.1,"Rift Valley fever virus strain 2007001811 segment M, complete sequence",3885,,01-Dec-2006,caprine,,2007001811,M,,Rift Valley fever virus
+EU574039.1,"Rift Valley fever virus strain 2007002060 segment M, complete sequence",3885,,31-Jan-2007,bovine,,2007002060,M,,Rift Valley fever virus
+EU574038.1,"Rift Valley fever virus strain 2007002444 segment M, complete sequence",3885,,05-Feb-2007,bovine,,2007002444,M,,Rift Valley fever virus
+EU574037.1,"Rift Valley fever virus strain 2007002445 segment M, complete sequence",3885,,05-Feb-2007,bovine,,2007002445,M,,Rift Valley fever virus
+EU574036.1,"Rift Valley fever virus strain 2007002476 segment M, complete sequence",3885,,21-Feb-2007,bovine,,2007002476,M,,Rift Valley fever virus
+EU574035.1,"Rift Valley fever virus strain 2007002482 segment M, complete sequence",3885,,21-Feb-2007,bovine,,2007002482,M,,Rift Valley fever virus
+EU574034.1,"Rift Valley fever virus strain 2007003081 segment M, complete sequence",3885,,27-Feb-2007,bovine,,2007003081,M,,Rift Valley fever virus
+EU574033.1,"Rift Valley fever virus strain 2007003644 segment M, complete sequence",3885,,07-Feb-2007,ovine,,2007003644,M,,Rift Valley fever virus
+EU574032.1,"Rift Valley fever virus strain 2007004193 segment M, complete sequence",3885,,23-Apr-2007,bovine,,2007004193,M,,Rift Valley fever virus
+EU574031.1,"Rift Valley fever virus strain 2007004194 segment M, complete sequence",3885,,14-May-2007,bovine,,2007004194,M,,Rift Valley fever virus
+EU574030.1,"Rift Valley fever virus strain 2007000080 segment L, complete sequence",6404,,12-Jan-2007,bovine,,2007000080,L,,Rift Valley fever virus
+EU574029.1,"Rift Valley fever virus strain 2007000094 segment L, complete sequence",6404,,12-Jan-2007,bovine,,2007000094,L,,Rift Valley fever virus
+EU574028.1,"Rift Valley fever virus strain 2007000222 segment L, complete sequence",6404,,16-Jan-2007,bovine,,2007000222,L,,Rift Valley fever virus
+EU574027.1,"Rift Valley fever virus strain 2007000223 segment L, complete sequence",6404,,16-Jan-2007,bovine,,2007000223,L,,Rift Valley fever virus
+EU574026.1,"Rift Valley fever virus strain 2007000224 segment L, complete sequence",6404,,16-Jan-2007,bovine,,2007000224,L,,Rift Valley fever virus
+EU574025.1,"Rift Valley fever virus strain 2007000225 segment L, complete sequence",6404,,16-Jan-2007,bovine,,2007000225,L,,Rift Valley fever virus
+EU574024.1,"Rift Valley fever virus strain 2007000473 segment L, complete sequence",6404,,26-Jan-2007,ovine,,2007000473,L,,Rift Valley fever virus
+EU574023.1,"Rift Valley fever virus strain 2007000608 segment L, complete sequence",6404,,29-Jan-2007,bovine,,2007000608,L,,Rift Valley fever virus
+EU574022.1,"Rift Valley fever virus strain 2007000611 segment L, complete sequence",6404,,29-Jan-2007,bovine,,2007000611,L,,Rift Valley fever virus
+EU574021.1,"Rift Valley fever virus strain 2007000618 segment L, complete sequence",6404,,29-Jan-2007,bovine,,2007000618,L,,Rift Valley fever virus
+EU574020.1,"Rift Valley fever virus strain 2007001107 segment L, complete sequence",6404,,25-Jan-2007,bovine,,2007001107,L,,Rift Valley fever virus
+EU574019.1,"Rift Valley fever virus strain 2007001292 segment L, complete sequence",6404,,31-Jan-2007,bovine,,2007001292,L,,Rift Valley fever virus
+EU574018.1,"Rift Valley fever virus strain 2007001443 segment L, complete sequence",6404,,31-Jan-2007,bovine,,2007001443,L,,Rift Valley fever virus
+EU574017.1,"Rift Valley fever virus strain 2007001564 segment L, complete sequence",6404,,29-Jan-2007,bovine,,2007001564,L,,Rift Valley fever virus
+EU574016.1,"Rift Valley fever virus strain 2007001602 segment L, complete sequence",6404,,30-Jan-2007,bovine,,2007001602,L,,Rift Valley fever virus
+EU574015.1,"Rift Valley fever virus strain 2007001809 segment L, complete sequence",6404,,01-Dec-2006,caprine,,2007001809,L,,Rift Valley fever virus
+EU574014.1,"Rift Valley fever virus strain 2007001811 segment L, complete sequence",6404,,01-Dec-2006,caprine,,2007001811,L,,Rift Valley fever virus
+EU574013.1,"Rift Valley fever virus strain 2007002060 segment L, complete sequence",6404,,31-Jan-2007,bovine,,2007002060,L,,Rift Valley fever virus
+EU574012.1,"Rift Valley fever virus strain 2007002444 segment L, complete sequence",6404,,05-Feb-2007,bovine,,2007002444,L,,Rift Valley fever virus
+EU574011.1,"Rift Valley fever virus strain 2007002445 segment L, complete sequence",6404,,05-Feb-2007,bovine,,2007002445,L,,Rift Valley fever virus
+EU574010.1,"Rift Valley fever virus strain 2007002476 segment L, complete sequence",6404,,21-Feb-2007,bovine,,2007002476,L,,Rift Valley fever virus
+EU574009.1,"Rift Valley fever virus strain 2007002482 segment L, complete sequence",6404,,21-Feb-2007,bovine,,2007002482,L,,Rift Valley fever virus
+EU574008.1,"Rift Valley fever virus strain 2007002820 segment L, complete sequence",6404,,09-Feb-2007,Syncerus caffer (buffalo),,2007002820,L,,Rift Valley fever virus
+EU574007.1,"Rift Valley fever virus strain 2007003081 segment L, complete sequence",6404,,27-Feb-2007,bovine,,2007003081,L,,Rift Valley fever virus
+EU574006.1,"Rift Valley fever virus strain 2007003644 segment L, complete sequence",6404,,07-Feb-2007,ovine,,2007003644,L,,Rift Valley fever virus
+EU574005.1,"Rift Valley fever virus strain 2007004193 segment L, complete sequence",6404,,23-Apr-2007,bovine,,2007004193,L,,Rift Valley fever virus
+EU574004.1,"Rift Valley fever virus strain 2007004194 segment L, complete sequence",6404,,14-May-2007,bovine,,2007004194,L,,Rift Valley fever virus
+EU312147.1,"Rift Valley fever virus strain SPU10315KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU10315KEN07,S,,Rift Valley fever virus
+EU312146.1,"Rift Valley fever virus strain SPU10307KEN07 segment S, complete sequence",1690,,2007,Homo sapiens,,SPU10307KEN07,S,,Rift Valley fever virus
+EU312145.1,"Rift Valley fever virus strain SPU10302KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU10302KEN07,S,,Rift Valley fever virus
+EU312144.1,"Rift Valley fever virus strain SPU10301KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU10301KEN07,S,,Rift Valley fever virus
+EU312143.1,"Rift Valley fever virus strain SPU2220KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU2220KEN07,S,,Rift Valley fever virus
+EU312142.1,"Rift Valley fever virus strain SPU2215KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU2215KEN07,S,,Rift Valley fever virus
+EU312141.1,"Rift Valley fever virus strain SPU2214KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU2214KEN07,S,,Rift Valley fever virus
+EU312140.1,"Rift Valley fever virus strain SPU2223KEN07 segment S, complete sequence",1691,,2007,Homo sapiens,,SPU2223KEN07,S,,Rift Valley fever virus
+EU312139.1,"Rift Valley fever virus strain SPU2201KEN07 segment S, complete sequence",1690,,2007,Homo sapiens,,SPU2201KEN07,S,,Rift Valley fever virus
+EU312129.1,"Rift Valley fever virus strain Vaccine strain segment S, complete sequence",1690,,,,,vacEGY,S,,Rift Valley fever virus
+EU312128.1,"Rift Valley fever virus strain SPU384001KEN97 segment S, complete sequence",1690,,1997,Homo sapiens,,SPU384001KEN97,S,,Rift Valley fever virus
+EU312126.1,"Rift Valley fever virus strain SPU12002SOM98 segment S, complete sequence",1690,,1998,caprine,,SPU12002SOM98,S,,Rift Valley fever virus
+EU312121.1,"Rift Valley fever virus strain LunyoUGA55 segment S, complete sequence",1692,,1955,mosquito,,LunyoUGA55,S,,Rift Valley fever virus
+EU312119.1,"Rift Valley fever virus strain B1143KEN77 segment S, complete sequence",1691,,1977,,,B1143KEN77,S,,Rift Valley fever virus
+EU312118.1,"Rift Valley fever virus strain B314KEN62 segment S, complete sequence",1691,,1962,,,B314KEN62,S,,Rift Valley fever virus
+EU312105.1,"Rift Valley fever virus strain 214445KEN83 segment S, complete sequence",1691,,1983,Aedes mcintoshi (mosquito),,214445KEN83,S,,Rift Valley fever virus
+EU312103.1,"Rift Valley fever virus strain 56KEN65 segment S, complete sequence",1690,,1965,bovine,,56KEN65,S,,Rift Valley fever virus
+EF467178.1,"Rift Valley fever virus strain KEN06-ELH131B08 segment M, complete sequence",3885,,Dec-2006,Aedes ochraceus,,KEN06-ELH131B08,M,,Rift Valley fever virus
+EF467177.1,"Rift Valley fever virus strain KEN07-KLF112 segment M, complete sequence",3885,,Jan-2007,Culex poicilipes,,KEN07-KLF112,M,,Rift Valley fever virus
+EF460404.1,"Rift Valley fever virus strain KEN07-KUR340 segment M, complete sequence",3885,,Jan-2007,,,KEN07-KUR340,M,Aedes ochraceus,Rift Valley fever virus
+DQ375429.1,"Rift Valley fever virus strain Entebbe segment L, complete sequence",6404,,1944,,,Entebbe,L,mosquito,Rift Valley fever virus
+DQ375427.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment L, complete sequence",6404,,,,,Kenya 56 (IB8),L,bovine,Rift Valley fever virus
+DQ375402.1,"Rift Valley fever virus strain Kenya 83 (21445) segment L, complete sequence",6404,,1983,,,Kenya 83 (21445),L,Aedes macintoshi,Rift Valley fever virus
+DQ375400.1,"Rift Valley fever virus strain Kenya 9800523 segment L, complete sequence",6404,,1998,,,Kenya 9800523,L,human sera,Rift Valley fever virus
+DQ380198.1,"Rift Valley fever virus strain Kenya 83 (21445) segment M, complete sequence",3885,,1983,Aedes macintoshi,,Kenya 83 (21445),M,,Rift Valley fever virus
+DQ380196.1,"Rift Valley fever virus strain Kenya 9800523 segment M, complete sequence",3885,,1998,Homo sapiens,,Kenya 9800523,M,human sera,Rift Valley fever virus
+DQ380191.1,"Rift Valley fever virus strain Entebbe segment M, complete sequence",3885,,1944,mosquito,,Entebbe,M,,Rift Valley fever virus
+DQ380190.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment M, complete sequence",3885,,,bovine,,Kenya 56 (IB8),M,,Rift Valley fever virus
+DQ380176.1,"Rift Valley fever virus strain Kenya 56 (IB8) segment S, complete sequence",1690,,,bovine,,Kenya 56 (IB8),S,,Rift Valley fever virus
+DQ380171.1,"Rift Valley fever virus strain Kenya 83 (21445) segment S, complete sequence",1691,,1983,Aedes macintoshi,,Kenya 83 (21445),S,,Rift Valley fever virus
+DQ380169.1,"Rift Valley fever virus strain Kenya 9800523 segment S, complete sequence",1690,,1998,Homo sapiens,,Kenya 9800523,S,human sera,Rift Valley fever virus
+DQ380156.1,"Rift Valley fever virus strain Entebbe segment S, complete sequence",1691,,1944,mosquito,,Entebbe,S,,Rift Valley fever virus
+DQ375431.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment L, complete sequence",6404,,1951,,,Kenya 57 (Rintoul),L,ovine,Rift Valley fever virus
+DQ375430.1,"Rift Valley fever virus strain Smithburn segment L, complete sequence",6404,,1944,,,Smithburn,L,derived from RVFV Entebbe,Rift Valley fever virus
+DQ380192.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment M, complete sequence",3900,,1951,ovine,,Kenya 57 (Rintoul),M,,Rift Valley fever virus
+DQ380157.1,"Rift Valley fever virus strain Smithburn segment S, complete sequence",1692,,1944,,,Smithburn,S,,Rift Valley fever virus
+DQ380155.1,"Rift Valley fever virus strain Kenya 57 (Rintoul) segment S, complete sequence",1691,,1951,ovine,,Kenya 57 (Rintoul),S,,Rift Valley fever virus
